@@ -1,0 +1,1013 @@
+﻿ID,Character,Gender,Turkish,MSA,Syrian_Arabic
+1,Arzu,Female,Ya Umut biraz önce sen iki tane polis öldürdün.,لقد قتلت للتو اثنين من الشرطة يا أميت.,انت قتلت تنين من رجال الشرطة اوميت
+2,Ümit,Male,Eğer ben onları öldürmemiş olsaydım şu an sen içeride olacaktın.  Her şey mahvolacaktı.,لو لم أقتلهم لكانت ستكونين الآن داخل السجن. كل شيء كان ليخرب.,لاني لو ما عملت هيك كانو اخدوكي عالسجن وما طلعتي منو بحياتك
+3,POLICE A 498,Male,Annenin telefon numarasını biliyor musun?  Arayalım da gelsin alsın seni.,هل تعرفين رقم هاتف والدتكِ؟ لنطلب منها أن تأتي لتأخذكِ.,حافظة رقم موبايل امك بنتي ؟ . مشان نتصل فيها لتاخدك
+4,POLICE A 498,Male,Tarif edebilir misin peki bana?,هل يمكنكِ أن تصفي لي المكان؟,بتقدري تدلينا عليه
+5,Zeynep,Female,Ablacım neredesin sen ne kadar korkuttun beni.,أختي، أين كنتِ، لقد أخفتني جداً.,كيف بتجي لهون بدون ما تخبريني متت من خوفي
+6,Zeynep,Female,Hadi ablacığım hadi hemen gidelim annen merak etmesin.,هيا يا أختي، دعينا نذهب، حتى لا تقلق أمكِ.,يلا  خلينا نمشي قبل ما تقلق امك عليكي
+7,Zeynep,Female,Ablacığım beni ne kadar korkuttun biliyor musun?  Sana bir şey oldu sandım.,أختي، هل تعلمين كم أخفتني؟ لقد ظننتُ أن شيئاً حدث لكِ.,حبيبتي. خوفتيني عليكي وفكرت في شي  صرلك لا سمح الله
+8,Melek,Female,Yusuf amca çok sevindi dedin.  Ben yanlış mı duydum?,قلت إن يوسف العم كان سعيداً جداً. هل سمعت خطأ؟ ,قلتي انو عمو يوسف انبسط وقت عرف عن اختراعك مزبوط ؟
+9,Melek,Female,Elifciğim söyler misin nereye gitti?,إليف، هل تخبريني إلى أين ذهبت؟ ,اليف عم احكي معك ردي عليي
+10,Melek,Female,Elifciğim sen o adama mı gittin?,إلفُالصغيرة، هل ذهبتِ إلى ذلك الرجل؟,اليف رحتي لعند هداك الرجال ؟
+11,Melek,Female,Zeynep sana inanamıyorum ya.  Gerçekten inanamıyorum.,زينب، لا أصدقكِ حقًا لا أصدقك. ,زينب عنجد مالي مصدقة . كيف هيك بيصير ؟
+12,Aliya,Female,O adam bize neler yaptı sen bilmiyor musun?,ألا تعلمين ماذا فعل بنا ذلك الرجل؟ ,وانتي  بتعرفي اساسا شو اللي عملو فينا هالرجال ؟
+13,Selim,Male,Senin ne dediğini kulağın duyuyor mu ya?,هل تسمعين ما تقولينه؟,منتبهة على حالك شو عم تقولي ؟
+14,Melek,Female,Zeynep bir durur musun konuşalım.,زينب، هل يمكنك أن تتوقفي قليلاً لنتحدث؟ ,زينب . شو الو داعي كل هالحكي ؟
+15,Elif,Female,Dursun çok soğuk ve kıranlık bir yer.,لكن البرد شديد والكائن مكان مظلم. ,بالسجن الجو كتير بارد . وعتمة كمان
+16,İnci,Female,Peki sen günün için ne dedin?  Sevindin mi?,وماذا قلت عن يومك؟ هل ابتهجت؟ ,طيب اليف شو قال لما شافك . انبسط صح ؟
+17,Selim,Male,Neydi o aşağıdaki lafların?  Senin.,ما كان تلك الكلمات التي قلتها من الأسفل؟ أنتَ.,ليش تركتينا وطلعتي ؟
+18,Zeynep,Female,Ne yapayım ben de Elif üzülmesin dedim.,لذا قلت لا أريد أن أحزن الفة. ,كانت زعلانة وخايفة امها تعصب منها
+19,Selim,Male,Gerçekten böyle önemli bir konuyu bize nasıl anlatmasın diyorum?,أنا حقاً أتساءل كيف لم تخبرينا بموضوع مهم كهذا؟ ,كان لازم تخبرينا لنتعامل مع القصة وما تسمعي كلاما
+20,Selim,Male,Ya olayın ne kadar vahim ya da tehlikeli  olduğunun farkında değil misin sen?,هل أنتِ غير مدركة لمدى خطورة أو حرج الموقف؟ ,تخيلي لو صرلا شي شو كان موقفك بوقتا تفضلي قليلي ؟
+21,Selim,Male,Sen nasıl gizlersin bunu bizden?,كيف يمكن أن تخبئي هذا عنا؟ ,كيف قدرتي تعملي هيك؟
+22,Zeynep,Female,Niye böyle düşünüyorsun diye sorduk mu?  Yok.  Tamam.,وقلنا اِنهاء الأمر إذاً,صدقناها او حتى عطيناها فرصة تحكي؟ .لا
+23,Selim,Male,Seni gerçekten beni çok şaşırtıyorsun.,أنتِ حقاً تفاجئينني. ,بتعرفي زينب انا متفاجئ فيكي كتير
+24,Elif,Female,Sen de sonunda konuşacağız demiştin.,كنتِ قد قلتِ في النهاية سنتحدث. ,بس. ماما . قلتيلي .انو رح نحكي بعدين
+25,Elif,Female,Sana söylememesini ben istedim ondan.,كنت أنا من طلب منه ألا يخبركِ. ,وانا قلتلها ما تخبرك . لانو خفت  تعصبي مني
+26,Elif,Female,Bana kızacaksın diye çok korkmuştum.,كنت خائفة جداً أن تغضبي مني. ,شوف عمو يوسف واطمن عليه بس
+27,Melek,Female,Benim amacım seni kırmak değildi.,لم يكن هدفي أن أجرحك. ,سمعيني انا ما كان قصدي اجرحك ابدا
+28,Zeynep,Female,Keşke ben de karakola gidip ilk Elifi aldığım anda arasaydım seni.,يا ليتني ذهبت إلى مركز الشرطة واتصلت بك أول ما أخذت ألفة. ,يا ريتني دقيتلك وخبرتك . وقت رحت وشفت اليف بمخفر الشرطة
+29,Elif,Female,Anne ben hak ki yasama kadar geldim.  Sen oraya kadar gelme.,أمي لقد وصلت ، لا تأتي حتى هناك. ,مافي داعي تستني هون ماما خلص ح روح مع حقي عالصف
+30,Melek,Female,Bir şeyin açıklığı versin bir tanem.  Bak.,لتكن كل الأمور واضحة يا عزيزتي.  انظري.,وانتبهي على دروسك منيح  اي
+31,Orhan,Male,Çıkacaksın kardeşim.  Sen içini ferah tut.,ستخرج يا شقيقي.  كن مرتاح البال. ,ورح تطلع عن قريب لا تقلق منوب
+32,Orhan,Male,Yani hani suçsuz olduğuna ikna edip şikayetini geri çeksin diye mi?,يعني لإقناعها ببراءتك وسحب شكواها؟ ,يعني انت . بدك حاكيها واطلب منها تتنازل عن حقها وتسقط الدعوى ؟
+33,Suna,Female,Melek abla nerelerdeydin sen ya?  Çok özledik seni.,أين كنت يا مريم أخت؟ افتقدناك كثيراً. ,وين هالغطة اختي ملك معقول والله اشتقنالك كتير
+34,Behriye,Female,Sen yoksun diye çalışamadılar yazık.,لما لم تكوني هنا لم يستطيعوا العمل، مسكين. ,ومشغول بالن عليكي لدرجة ما عرفو يشتغلو
+35,Gülay,Female,Öyle mi?  Çok geçmiş olsun.,حقاً؟ أتمنى لك الشفاء العاجل.,عنجد . الف الحمد لله ع سلامتك
+36,Selim,Male,Henüz şirket sahiplerinin ismini açıklamamış olmasın.,لم تعلن بعد عن أسماء مالكي الشركة.,ولكن لم يتمكنوا من معرفة مالك هذه الشركة
+37,Selim,Male,"İsimleri niye açıklamıyorlar?  Abla sen neden böyle yapıyorsun?  Ya biz kaç defa konuştuk.  Selim konuştuk evet.  Ama ben, ben Ümite güvenmiyorum.  Abla bak haksızlık ediyorsun.  Ya Ümit ne kadar heyecanlıydı bu ihale konusunda görmedin mi?  Sorun da tam olarak bu ya.  Ümitimizi katılmaya,  ikna etmeye çalıştı o ihaleler.  Neyi kastediyorsun?  Ne var bunda abla?  En az bizim kadar büyük bir şirket.  Ya doruklarda aynı hale girmemiz kadar normal bir şey yok.  Abla biz büyük balık yakalama peşindeyiz anladın mı?  Selim ya gözünü seveyim Ümitin laflarıyla onu bana savunma.  Ya görüyorsun işte her şey ortada.  Ya ortada olan ne?  Ben niye hiçbir şey görmüyorum?  Çünkü inanmıyorsun Selim.  O yüzden hiçbir şey görmüyorsun.  Ailemize oynanan büyük bir oyun var ortada.  Neymiş o?  Ümit, doruklar şirketinin sahibi.  Seni de bitirmeye çalışıyor.",لماذا لا يعلنون عن الأسماء؟ أختي لماذا تفعلين ذلك؟ لقد تحدثنا عن هذا مرات عديدة. نعم تحدثنا سليم. لكنني، أنا لا أثق في أوميت. أختي أنت تظلمينه. ألم تري كم كان أوميت متحمساً لهذا العطاء؟ المشكلة تكمن هنا بالفعل. أوميت يحاول الانضمام، إقناعهم للمشاركة في تلك العطاءات. ماذا تقصدين؟ ما الخطب في ذلك يا أختي؟ إنها شركة كبيرة مثلنا تماماً. ليس من الغريب أن نكون في نفس القمة مع دوروك. أختي نحن نسعى لصيد كبير، هل تفهمين؟ سليم لا تُدافع عن أوميت بكلامه لقد قُلت لك كل شيء واضح. ما الذي أمامك؟ لماذا لا أرى شيئاً؟ لأنك لا تؤمن يا سليم. لهذا لا ترى شيئاً. هناك لعبة كبرى تُمارَس ضد عائلتنا. ما هي؟ أوميت، هو مالك شركة دوروك. يحاول إنجازك.,وليش مو معرف عن حالو
+38,Ümit,Male,Bu arada Remziye anneye balayına gidiyoruz dedim.  Bilgin olsun.,بالمناسبة، أخبرت والدتي رمزية أننا سنذهب في شهر العسل. كن على علم بذلك.,بالمناسبة قلت لأمي رايحن عشهر العسل . لحتى تعرفي
+39,Suna,Female,Hem niye öyle git gari yapıyorsun ki?,ولماذا ترحل بسرعة؟,أصلاً كيف بدك تروحي وأنتِ هيك ؟
+40,Suna,Female,E bak ayağımda sakat diyorsun otur burada sıcak sıcak.,اذكري أنك قلت أن لديك إصابة في قدمك، اجلس هنا في دفء.,عم تقولي رجلك عم تجعك قعدي ارتاحي شوي
+41,Gülay,Female,Onlardan getir de Melek ablana rahat etsin Ceyda.,أحضري منها لتكون ملاك أختك مرتاحة، سيدتي.,جيبي وحدة لملك خليها تقعد عليها وترتاح
+42,Taylan,Male,Elif bak icadımızı herkes duymuş gördün mü?,انظري إليف، الجميع سمعوا باختراعنا، رأيتِ؟,اليف شفتي كيف كل الطلاب سمعوا باختراعنا ؟
+43,Orhan,Male,Senin bu halin nedir Yusuf ya?,ما بك يا يوسُف؟,يا زلمة مشتهي افهم شو قصتك ؟ !
+44,Orhan,Male,Bilerek isteyerek yapmadın ki be kardeşim.,لم تفعل ذلك عمدًا يا أخي.,اي بس انت ما ساويت هيك عن قصد يا اخي
+45,Orhan,Male,"Sen dışarıda olduktan sonra,  bu işi ele attıktan sonra",طالما أنك في الخارج، وطالما أنك تصر على معالجة الأمر,من بعدما ما طلعت من السجن . فينا نتعاون سوا
+46,Yusuf,Male,İnsanın senin gibi dostluğunun hızı çok güzel.,سرعة صداقة الإنسان مثلك جميلة جدًا.,جد انا محظوظ لأنو عندي رفيق منيح متلك
+47,Ümit,Male,Her şeyden uzakta.  Sadece sen ve ben.,بعيدًا عن كل شيء. فقط أنتِ وأنا.,ونبعد عن كل العالم . أنا واياكي لوحدنا
+48,Ümit,Male,Hem seni suçlu olduğunu ispat edemezler ki.,ولا يمكنهم إثبات أنكِ مذنبة.,أصلاً . ما عندهن أيا اثباتات أو أدلة عليكي
+49,BOY C 499,Male,Sıkışsa gidin hadi.  Ne oldu?  Gitsenize bücürler.,إذا كنتم مكبوتين فاذهبوا هيا. ماذا حدث؟ فلترحلوا أيتها الأقزام.,تحركوا إذا بتسترجوا ولا ما تكونوا خايفين مننا يا صغار
+50,Orhan,Male,Bu olayda senin bir suçun yok,ليس لك أي ذنب في هذه القضية,اللي صار هلق عبارة عن حادث
+51,Orhan,Male,Sen hep adaletten yanı oldun.,كنت دائمًا في صف العدالة. ,طول عمرك بطرف العدالة
+52,Orhan,Male,Yani bunun için  senin başa,يعني لذلك لا أسمح لك,يعني هلق
+53,Orhan,Male,"Bak ben seni geç buldum,  erken de kaybetmek istemiyorum.",انظر، قد وجدتك متأخرًا، ولا أريد أن أفقدك مبكرًا. ,ليك يوسف أنا ما صدقت على الله كيف قدرت لاقيك من جديد فهمتني؟
+54,Orhan,Male,Allah Allah gamlı baykuş gibi çöktün tepeme kaldın ya arkadaş.,يا إلهي، لقد تصرفت وكأنك بومة حزينة وجعلتني بحذرك. ,شو هالحكي هاد طولي بالك وخلينا نعرف نشتغل سوا على رواق  ونحلا
+55,POLICE D 499,Male,Diyorum ki bu kadın bu suçları nasıl işlemiş?,أقول كيف استطاعت هذه المرأة ارتكاب هذه الجرائم؟ ,وعم اتخيل كيف وحدة متلك فيها تساوي كل هالجرايم ؟
+56,POLICE D 499,Male,Salı günü saat 2de neredeydin?,أين كنت يوم الثلاثاء الساعة 2؟ ,وين كنتي . التلاتا الساعة 2 ؟
+57,POLICE E 499,Male,"Ama sen,  Valarcadaki terk edilmiş fabrikadaymışsın.",لكنك كنت بالمصنع المهجور في فالاركا. ,بس انتي . كنتي موجودة بمعمل مهجور و بآخر الدنيا
+58,Arzu,Female,Bu kadın bana kafayı takmış durumda.,هذه المرأة مهووسة بي. ,هي المراة عم تتحطط عليي
+59,POLICE E 499,Male,Ne o?  Çabuk sıkıldın bizden.,ما الأمر؟ ضجرت منا بسرعة. ,شو ؟ .  شكلك مليتي بسرعة
+60,POLICE E 499,Male,Senin adamın olduğunu söylüyor Yusufun.,يقول إنه رجلك يوسف. ,مكتوب انو يوسف احد من رجالك
+61,POLICE E 499,Male,Üstelik Melek Özeli de ona sen vurdurduk.,بل وأنت جعلته يطلق النار على ملك أوزيل أيضًا. ,وأنك . طلبتي منه
+62,POLICE B 499,Male,Ben senin o üç kuruşu neden verdiğini biliyorum.,أنا أعلم لماذا أعطيت الثلاثة قروش. ,أنا بعرف انكن عطيتوه مبلغ محرز للزلمة
+63,POLICE D 499,Male,Senin de bununla kötü kokular geliyor mu?,هل تصدر لك أيضًا روائح سيئة؟ ,مو حاسس انو في شي غريب بالقصة ؟
+64,POLICE E 499,Male,Peki niye o zaman bu kadın seni suçluyor?,إذن لماذا تتهمك هذه المرأة؟ ,طيب . معناها ليش لتتهمك هي المرا ؟
+65,POLICE C 499,Male,Hadi ya ne bekliyordun acaba?,هيا، لا أدري ماذا يمكن أن تتوقع. ,لا تقولها لكن شو كنت متوقع ؟
+66,Ümit,Male,"Yani o evlilik hayali kuran,  o sıcak mutlu bir yuvası olsun isteyen",يعني هي التي تحلم بالزواج، وتريد منزلًا دافئًا سعيدًا,هية مرة بريئة عم تحلم بالزواج وكل اللي بداياه انو تعمل عيلة صغيرة
+67,İsal,Female,Yani güya uğramaya geldin ama çalışıyorsun.,يعني جئتِ لزيارة، لكنكِ تعملين. ,ليكي انتي جيتي لعنا زيارة وبس فوقفي عن الشغل . إذا بتريدي مشان الله
+68,Melek,Female,Senin ne işin var burada?,ماذا تفعل هنا؟ ,أنتَ شو عم تساوي هون ؟
+69,Melek,Female,Bu yaptıklarından sonra sen nasıl dışarı çıkabildin?,بعد الذي فعلته كيف يمكنك الخروج؟ ,فهمني كيف طالعوك بعد كل شي ساويتو ؟
+70,Melek,Female,O iş bilir avukatını her şeyin kılıfına uydurmayı başardın değil mi?,نجحتَ في تكييف كل شيء حسب قانون محاميك المميّز، أليس كذلك؟ ,قدرتو تلفلفو القصة مع محاميك الشاطر ما هيك ؟
+71,Aliya,Female,Al al acele nereye gidiyorsun böyle?,إلى أين تذهب بسرعة هكذا؟ ,ليش مستعجل لوين رايح ؟
+72,Taylan,Male,Sen de bizi bahçede görünmeyince gelirler mi sınıfa?,هل يأتون إلى الفصل عندما لا يروننا في الحديقة؟ ,برأيك  إذا ما شافونا بالباحة . رح يجوا علينا على الصف ؟
+73,Selim,Male,Neyse abla gel gel.  İçeri girince öğreneceksin.  Allah kahretsin.,لا بأس أختي، تعالى تعالى. ستعرفين عند الدخول. اللعنة. ,بسيطة ولا يهمك . هلق منفوت ومنفهم كل شي
+74,Arzu,Female,Nereden biliyorsun ha?  Gördün mü beni nereden biliyorsun?,كيف عرفتِ إذن؟ هل رأيتني، كيف عرفتِ؟ ,طيب وين شهودك ؟ . وين اللي شافوني وخبروكي ؟
+75,Selim,Male,Bu işten paçayı öyle kolay sıyıramayacaksın Arzu Hanım.,لن تفلتي بسهولة من هذا الأمر سيدتي عرزو. ,ليكي ما رح تنفدي بسهولة من هالقصة  يا ست ارزو
+76,Selim,Male,"Komiser Bey, ben de gelebilir miyim?  Bu kadın yaptığı her şeye şahit oldum.",سيدي الضابط، هل يمكنني الانضمام أيضاً؟ لقد كنت شاهداً على كل شيء فعلته هذه المرأة. ,حضرة الضابط فيني ادخل . انا شاهد على كل شي عملتو
+77,Arzu,Female,Sen ne diyorsun ya?  Delirdin mi sen?,ماذا تقول؟ هل جننت؟ ,أنتِ شو عم تقولي أكيد جنيتي !
+78,Arzu,Female,Bu kadın büyük bir hezeyan içinde ve  anlattıklarında hiçbir gerçeklik payı yok.,هذه المرأة في حالة هذيان كبيرة، وما تقوله ليس له أي مصداقية. ,كلامها مانو واقعي أبداً . اللي عم تخبرنا ياه بعيد عن الحقيقة
+79,Selim,Male,O kadın şeytana bile pabucunu ters gelir.,تلك المرأة قد تجعل الشيطان نفسه يحمل حذاءه بالعكس. ,هي مرا شيطانة  بتلعب على كل الحبال
+80,Melek,Female,Benim içim hiç rahat etmiyor seni.,لا أشعر بالراحة نحوك. ,أنا كتير خايفة سليم
+81,Elif,Female,Amirim sen de mi geldin?,حضرة الضابط، هل أتيت أنت أيضاً؟ ,عمي ليش اجيت مع الماما ؟
+82,Aliya,Female,Bu kadın şeytana pabucunu ters giydirir.  Ters.,هذه المرأة تُعلِّم الشيطان الخبث.  خبث. ,هي مرا شيطانة ما حدا بيقدر عليها . أبداً
+83,Yusuf,Male,Yani Orhan saçma gelmiyor mu sana?,ألا يبدو لك هذا غير منطقي، أورهان؟,يعني اورهان . مو كأنو في حلقة مفقودة ؟
+84,Arzu,Female,Eğer sen olmasaydın ben bu işten kolay kolay sıyrılamazdım.,لو لم تكن أنت، لما استطعت الهروب بسهولة من هذه الأمور.,لو ما كنت معي . اكيد ما كنت رح أخلص من الورطة اللي كنت فيها
+85,Ümit,Male,Senin için her şeyi yaparım demiştim.,قلت لكِ سأفعل أي شيء من أجلك.,قلتلك انا بعمل أي شي كرمالك
+86,Yusuf,Male,Deli mi bu kadın?  Neden uğraşıyor ki?,هل هي مجنونة؟ لماذا تسعى وراء هذا الشيء؟,هي اكيد مجنونة شو دخلا ملك
+87,Gülay,Female,"Hem haksızlık ediyorsun,  biz burada göz nuru döküyoruz,  sen sınırlı duruyorsun ortada.  Oh ne hala.",وظلمًا، نحن نبذل جهودًا كبيرة هنا، وأنتِ تقفين متمركزة هنا في الوسط.  يالها من نعمة. ,هاد مو عدل كلنا عم نشتغل ونتعب وأنتي بس واقفة هنيك او عم تتفتلي بيناتنا ما بيصير هالحكي
+88,Gülay,Female,Şurada da beş dakikaya duruyorsun ya  durmuyorsun hemen gidiyorsun başka odaya.,في غضون خمس دقائق تقفين هنا، ثم تُغادرين فورًا إلى غرفة أخرى. ,حتى ما بتضلي بالمشغل كتير مدري لوين بتحملي لحالك وبتروحي
+89,Gülay,Female,Senin yokluğunda hemen ustabaşı oluverdi.,في غيابك أصبحت رئيسة العمل فورًا. ,جنابا عينت حالا مسؤولة علينا بغيابك
+90,Melek,Female,Sunacığım sen de diğer gömlekleri getirsin ben onlara başlarım.,عزيزتي سونا، أحضري القمصان الأخرى حتى أبدأ بها. ,سونا . انتي جيبي القمصان التانيين . حتى نبلش فيهن
+91,Selim,Male,Ben senin nerede olduğunu tahmin ediyorum ya.,أعتقد أنني أعرف أين أنت.,والله متوقع وين حتكون موجود هلأ
+92,Ümit,Male,Arzu artık senin Doruklarla ne alakan kaldı?,أرزو، ما شأنك الآن بالدوروك؟ ,اي بس انتي شو إلك علاقة بشركة دوروكلار ؟
+93,Ümit,Male,Sana oradan bir şey çıkmaz.,لن تحصل على شيء من هناك. ,ما فيكي تاخدي الاسهم منها
+94,Arzu,Female,En biliyorsun kahvenin kırk yıl hatıra var.,فأنتِ تعرفين كيف يُذكر القهوة لمدة أربعين عامًا.,يعني بتعرفي . هيك الأصول والواجب يا روحي
+95,Arkut,Male,"Arzu, bilmeceyi bir konuşma.  Ne diyorsun ya?",أرزو، لا تتحدثي بالألغاز. ماذا تقصدين؟ ,أرزو . احكي بوضوح و حاجة تحكي بالألغاز
+96,Arzu,Female,Adam öldü ama sen hala ekmeğini yiyorsun.,الرجل مات لكنكِ ما زلتِ تقتاتين عليه.,يعني الزلمة مات . وتركلك كل هاد لتعيشي منو
+97,Arzu,Female,"Bütün parasını üstüne kondun,  şimdi de böyle başarıdan başarıya koşuyorsun.",أخذتِ كامل ماله والآن تزدهرين من نجاح إلى آخر.,واستثمرتي هالثروة منيح . وقدرتي تكبري على حساب اسمو ومعارفو
+98,Gonca,Female,Ne hakkı ya?  Hiçbir şey alamazsın.,أي حق؟ لن تأخذي شيئًا.,حق شو هاد؟ . مالك عندي شي
+99,Arzu,Female,Sen de uğraşıyorsun ama başaramayacaksın.,وأنتِ تحاولين كذلك، ولكنكِ لن تنجحي.,وما رح اسمحلك كمان . رح اخدو منك
+100,Gonca,Female,Senin daha fazla zırh balıklarını dinlemek istemiyorum.  Hemen çık git şirketimden.,لا أريد أن أستمع إلى المزيد من كلامك الفارغ. اخرجي فورًا من شركتي.,وما عاد بدي اسمع ولا كلمة منك ولو سمحتي اطلعي من شركتي فوراً
+101,Arzu,Female,İstediğimi anladın.  Şuradan şuraya gitmeyeceğim.,فهمت ما أريده. لن أتحرك من مكاني هنا.,قبل ما اخد اللي بدي ياه . ما رح روح على أي مكان
+102,Arzu,Female,"Sana imza alıyorsun, şerh de ortadan kalkıyor.  Ben de hakkım olanı anlıyorum.",عندما تأخذين توقيعي، الشَر يختفي. وأنا أفهم ما هو حقي.,يلا وقعيلي عالورقة . وخلينا نفك تجميد الحساب . مشان اخد حقي
+103,Arkut,Male,Arzu yeter artık ya uzamasın bu mevzu daha.,أرزو، يكفي، لا تطيلوا هذه المسألة أكثر.,أرزو . بيكفي خلصنا . ما ملاحظة انك زودتيا ؟
+104,Arzu,Female,Ne uzatması Erkut ya?  Bu kadın,ما الذي أطيلته، إركوت؟ هذه المرأة,انا ما زودتا ارقوط
+105,Gonca,Female,Hayır efendim.  Kuyruğunu da alıp bir güzelce defolup gidiyorsun buradan.  Hayır.,لا سيدي. امسك بندك واغادر من هنا. لا.,لا يا خانوم . ما رح وقع على شي وكمان رح تطلعي من مكتبي فورا
+106,Gonca,Female,Sen de bize iki kahve söyler misin?,هل يمكنك أن تطلب لنا قهوتين؟,ابعتيلنا فنجانين قهوة
+107,Arkut,Male,Hem o bitirmeye çalıştığınız düşmanınızla  karşılaşmak istemezsin sen dedim ha.,وقلت أنك لن تريدين مواجهة عدوك الذي حاولت إنهاءه.,بعتقد انو مالكن حابين تشوفي عدوكون سليم وتتواجهو معو بهالوقت صح ؟
+108,Selim,Male,Ne?  Niye böyle bir şey yapsın ki?,ماذا؟ لماذا قد يقوم بشيء كهذا؟,شو ؟ . ليش بدو ينتقم مننا ؟
+109,Ümit,Male,Bir daha geliriz ne olacak?  Öyle ya da böyle alacağız bu imzayı tamam.  Sen hiç merak etme.,سنعود مرة أخرى، سنحصل على التوقيع بهذه الطريقة أو تلك، لا تقلق.,لا تزعجي حالك حبيبتي . رح نجي مرة تانية وح نخليها توقعها تمام ما تشغلي بالك
+110,Ümit,Male,"Dur, dur, dur.  Ne yapıyorsun ya?  Selim içeride.  Bana ne?",توقف، توقف، توقف. ماذا تفعل يا؟ سليم في الداخل. ما يهمني؟,أرزو . استني استني عندك شو عم تعملي سليم جوا
+111,Ümit,Male,Beni görsün mü istiyorsun?  O kadar hazırladığımız plan her şey boşa gitsin mi istiyorsun ha?,هل تريد أن يراني؟ هل تريد أن يذهب كل التخطيط الذي أعددناه سدى؟,بدك كل خططنا وجهودنا تروح عالفاضي بس مشان تخلي غونجا توقع هلأ ؟
+112,Arkut,Male,Söyledin mi peki arzunu adam oldun?  Yok hayır.,هل أخبرته على الأقل أنك أصبحت رجلاً؟ لا، لم أفعل.,خبرتيه إنو هو زلمة أرزو ؟
+113,BOY C 499,Male,Yaptığında icat olsa bari sen git o limonlarını pazarda sat.,لو كان ما تفعله اختراعًا على الأقل، اذهب لبيع ليمونك في السوق.,مفكر حالك اخترعت اختراع عظيم روح بيع الليمون احسن من هالمسخرة
+114,BOY B 500,Male,İcatçılık değil pazarcılık yakışır sana.,الاختراع ليس لك، السوق هو مكانك.,انت ما خرجك تكون مخترع اصلا بياع وكتير عليك
+115,BOY A 499,Male,Biraz kal da aklın başına gelsin bücür.,ابق قليلاً حتى تعود لعقلك أيها القصير.,رح تبقى هون . لحتى يرجعلك عقلك يا غبي
+116,Ayla,Female,Mesela beni niye hiç aramadın?,مثلاً لماذا لم تتصل بي أبدًا؟,مثلاً ليش ما بلتصل فيني؟
+117,Ayla,Female,Görmem mi?  Çok yoğunsun baksana.  Müşteri kaynıyor.,كيف لا أرى؟ مشغول جداً، انظر، الزبائن تأتين باستمرار.,إي شايفة . باين مشغول كتير . والزباين فوق بعضن
+118,Gülay,Female,Kadıncağız o ayakla nasıl koşturuyor görmüyor musun?,ألا ترون كيف تركض السيدة بذاك القدم؟,مو شايفة قديش عم تشتغل مع انو وضع رجلها صعب ؟
+119,Melek,Female,Olmaz olmaz sen merak etme.,لن يحدث، لا تقلقي.,ما رح يصير شي عليي لا تخافي
+120,Melek,Female,Neyse ben devam edeyim kolay gelsin.,على أي حال، سأتابع العمل، بالتوفيق.,ع كلن . رح ارجع عالشغل يعطيكي العافية
+121,Elif,Female,Acımaya dönüyorum endişelenme kurtaracağım seni oradan.,سأعود للحساسية لا تقلق سأنقذك من هنا.,انا عم حاول افتحو لا تخاف رح طالعك من هون اتفقنا؟
+122,BOY A 499,Male,Ne o?  Hiç sesin çıkmıyor.  Verdi mi karını?,ما هو الأمر؟ لا صوت لك. هل أعطيتك زوجتك؟,شو . اكيد اخدت قرارك هات لشوف
+123,BOY B 500,Male,yakılacaksın değil mi yarışmadan?  Hayır.,أنت مُبعد من المنافسة، أليس كذلك؟ لا.,اكيد رح تنسحب من المسابقة
+124,Selim,Male,Ben de seni bekliyordum abla.,كنت أنتظرك أيضاً يا أختي.,كنت ناطرك لحتى تجي
+125,Aliya,Female,Allahım sen aklıma mukayyet ol.,يا الله احفظني دوماً. ,حسبي الله ونعم الوكيل منو
+126,Zeynep,Female,İyi de biz ne yapmış olabiliriz ki ona bize böyle düşman olsun?,حسناً ولكن ماذا فعلنا له ليصبح عدونا؟ ,طيب بس . ليش يعني بدو ينتقم منا سليم شو ساوينالو ؟
+127,Gülay,Female,Vallahi daha benim afyonum patlamadı  sen makinenin başına geçmişsin bile.,باللهِ، لم أستيقظ جيدًا وتجلسين أمام الآلة بالفعل. ,اي واللهي أنتِ شكلك رح تخلصي شغلك وأنا لسا ما صحصحت من نومي حتى!
+128,İsal,Female,Ya Melekciğim ya sen bir de bu ayakla çalışıyorsun.,يا عزيزتي ملاك، تعملين وأنتِ في هذه الحالة. ,طيب ملك بدك تضلي تشتغلي ورجلك بهي الحالة ؟
+129,İsal,Female,Hem sen pansumona gitmeyecek miydin bugün?,أوليست لديك مراجعة للجراحة اليوم؟ ,ما بدك تروحي عالمشفى تغيري على جرحك ؟
+130,Faysal,Male,Niye lan?  Ne varmış?  Ne güzel kız oldun böyle bıcır bıcır.,لماذا يا فتى؟ ما الخطأ في ذلك؟ إنها فتاة جميلة وتبدو لطيفة جداً. ,ليش ولى ؟ . شو ناقصها ؟ . صدقني إنتو التنين لابقين لبعض
+131,Ayla,Female,Afiyet bal şeker olsun.  Ve selamcacığım.,ليكن طعامك بالصحة والعافية. وديعة سلام. ,صحة وهنا على قلبك عمي فيصل
+132,Melek,Female,Ya bu elimdekiler bitsin çıkacağım ben de zaten.,بمجرد أن أنتهي من هذه الأمور التي بيدي سأغادر أيضاً. ,انا بس رح خلص هي القطعة الي بايدي  وأمشي
+133,Suna,Female,O zaman ben çayın altını söndürmüyorum.  İçersin sen.,إذًا أنا لن أطفئ الماء للمطبخ. أنت ستشرب. ,أنا حاطة الشاي عن الغاز إذا بدك تشربي
+134,Selim,Male,"Lan,  sen benim karımı nasıl tanımıyorsun ha?",كيف لا تعرف أن هذه زوجتي؟,ولى . أنتَ كيف بتمسك إيد مرتي اه؟ !
+135,Zeynep,Female,Ya yeter delirdin mi sen?,يا كفى هل جننت؟,لا تزودها جنيت سليم ؟
+136,Selim,Male,Seni bir daha Zenirin yanında görürsem,"إذا رأيتك بجانب زينير مرة أخرى
+",إذا بشوفك عم تتقرب من زينب . لا تلوم إلّا حالك
+137,Zeynep,Female,"Ya niye anlamak istemiyorsun?  Ben sana yalan söylemedim.  Yemek vardı, iptal oldu.",لماذا لا تفهم؟ لم أكذب عليك.  كان هناك عشاء، لكنه ألغي.,ليش مصّر أنك ما تفهم ما كذبت عليك فعلاً كان هادا غدا شغل . وبعدين التغى
+138,Selim,Male,Karşıma geçmiş kendini sanıyorsun şimdi.,تقفين أمامي وتظنين الآن.,كل شي واضح خلص لا تدافعي عن حالك
+139,Zeynep,Female,Ağzından çıkanı kulağın duyuyor mu sen?  Ne saçmalıyorsun ya?,هل تسمع نفسك؟ ما هذه الحماقات؟,أنتَ سامع حالك شو عم تحكي لك شو هالتخبيص هاد ؟ !
+140,Zeynep,Female,"İş yemeği diyorum ya, iş yemeğini anlamıyorsun!",أقول عشاء عمل، لا تفهم معنى عشاء العمل! ,عم قلك إنو كان غدا شغل ليش ما عم تفهمني ليش؟
+141,Selim,Male,İşe gitme.  Bırak dedim de sen beni dinlemedin Zeynep.,لا تذهبي للعمل.  قلت اتركي لكنك لم تستمعي إلي زينب.,لما سألتك . ليش ما قلتيلي الحقيقة زينب ليش ؟
+142,Zeynep,Female,Görüyorum ki sen beni hiç tanımamışsın.  Bana hiç güvenmemişsin.,أرى أنك لم تعرفني أبدًا.  لم تثق بي أبدًا. ,وتأكدت بعد اللي صار معنا اليوم . أنو ما رح تزبط أبداً
+143,Zeynep,Female,Sen sözlerinle benim kalbimi paramparça ettin.,بكلماتك حطمت قلبي بالكامل. ,الإنسان بحس بالإهانة اكتر لما يكون الشخص بعز عليه
+144,Zeynep,Female,"Seni hak edecek,  senin başına eğecek hiçbir şey yapmadım.",لم أفعل شيئًا لأستحقك أو أخفض رأسي لأجلك. ,إنتا كسرت قلبي بكلامك وأنا ما بستاهل اللي ساويتو فيني اليوم
+145,Yusuf,Male,Sen burada bekle ben şimdi geliyorum.,انتظري هنا وأنا سأعود الآن. ,استني عندك شوي وراجع
+146,Yusuf,Male,Bu anahtar olduğuna emin misin?,هل أنت متأكد أنها المفتاح؟ ,متأكدة إنو هاد المفتاح المزبوط ؟
+147,Tülay,Female,Bak nihayetinde burası senin de evin,انظري في النهاية هنا هو منزلك أيضًا,شوفي . أنتِ اجيتي لهون على بيت أبوكي بالنهاية
+148,Aliya,Female,Hadi yavrum Allah rahatlık versin.,هيا يا صغيرتي، الله يمنحك الراحة.,يلا حبيبتي . نشالله نوم الهنا
+149,Aliya,Female,Sen Melekle konuştun mu oğlum?  Yok.,هل تحدثت مع ملاك يا بني؟ لا.,سليم . ملك اتصلت فيك اليوم ؟
+150,Aliya,Female,İnat etme oğlum.  O senin karın.,لا تُعنِد يا بني. إنها زوجتك.,لا تعاندني . هي مرتك
+151,Yusuf,Male,Bak ben senin düşmanın değilim.,انظري، أنا لست عدوك.,لازم تعرفي اني مو عدوك
+152,Yusuf,Male,Sadece senin iyi olman için.,فقط لكي تكوني بخير.,بس مشان تكوني انتي بخير
+153,Yusuf,Male,Bana inanmak için seni zorlamayacağım.,لن أضغط عليك لتصدقي فيني.,لو بدي اؤذيكي ليش ما عملت شي هلأ
+154,Yusuf,Male,Seni şu anda hayatta olmalı.,أن تكوني على قيد الحياة الآن.,انك عايشة ومنيحة هلأ
+155,MAN A 502,Male,Ya ölü müsın hırsız mısın yürü git işine kardeşim ya.,هل أنت ميت يا أخي أم لص، اذهب بعيدًا.,لاتواخذني ما بعرفك ولا بعرف شو عم تعمل مافيني ساعدك؟
+156,Elif,Female,Kesin annemin başına bir şey geldi.,بالتأكيد حدث شيء لأمي.,سمعني امي  اكيد صاير معها شي مو منيح
+157,Selim,Male,Onu bulur bulmaz getireceğim merak etme sen.,سأعيدها فور العثور عليها، لا تقلقي.,اطمني وروحي نامي لاتخافي اتفقنا ؟
+158,Selim,Male,Yok anne yok.  Sen başlarına dur.,لا يا أمي، لا. أنت ابقي معهم.,لا امي انتي . خليكي معهن
+159,Yusuf,Male,Bunu duysun örtersin.  Hava çok soğuk.  Üşümezsin.,يمكنك أن تغطي نفسك. الطقس بارد جداً. لكي لا تشعر بالبرد.,تغطي بهالحرام . الجو بارد كتير
+160,Selim,Male,Bir daha sorunsa olmayacağım sana.  Ne yaptın ona söyle ne yaptın?,لن أكون موجودًا لأي مشكلة أخرى معك. ماذا فعلت لها قل لي ماذا فعلت؟,هي آخر مرة بسألك . شوعملتلها قلي  شو عملت؟
+161,Yusuf,Male,Tövbe de kilitli kaldık diyorum sana.,أقول لك تم حبسنا توبوا إلى الله.,شبك انت ليش مصر تتهمني
+162,Selim,Male,Niye sürekli karşımıza çıkıyorsun sen ha?,لماذا تستمر في مواجهة طريقتنا ها؟,يعني نحنا ما رح نخلص منك بقى؟
+163,Melek,Female,Selim lütfen biraz sakin olur musun?,سليم من فضلك هل يمكنك أن تهدأ قليلاً؟,يا سليم مشان الله اهدا هو ما عملي شي
+164,Selim,Male,Sus!  Senin o ağzından çıkan hiçbir kelimeye inanmıyorum ben sus!,اصمت! لا أصدق أي كلمة تخرج من فمك، اصمت!,خراس . خليك ساكت احسن ما اجي كمل عليك هلأ سكوت بقى
+165,Yusuf,Male,Eğer biraz sakin olabilseydin sana gerçekleri anlatabilirdim.,لو كنت هادئاً قليلاً لأستطعت أن أخبرك بالحقيقة.,اذا بدك تضل هيك ما رح تفهم شو صار اهدا خليني اشرحلك
+166,Selim,Male,Sana inanmam için hiçbir sebep yok!,لا يوجد سبب لأصدقك!,مافي شي بيبرر اللي عملتو
+167,Melek,Female,Senin Yusuf benim hayatımı kurtardı.,يوسف أنقذ حياتي.,سليم  يوسف هوه اللي  انقذ حياتي
+168,Selim,Male,Abla o zaman şimdi hastaneye gidiyoruz.  Zehirlenmiş olabilirsin.,أختي إذاً الآن نذهب إلى المستشفى. قد تكونين قد تسممت.,لكن هلأ . لازم نروح على المستشفى . ممكن تكوني تسممتي
+169,Selim,Male,Hayır niye ona minnettar gibi konuşuyorsun anlamadım ben.,لا أستطيع فهم لماذا تتحدثين إليه وكأنك ممتنة له.,وانتي كيف بتصدقي هالحكي  فوراً ما عم افهم
+170,Orhan,Male,Müzevi bir ruh gibiydin.  Nefes alıyordun ama.,كنت كروح منعزلة. كنت تتنفس، لكن.,بتضل عايش مع حالك . عم تتنفس بس
+171,Orhan,Male,Şimdi ama bir şeyler için uğraşıyorsun.,لكن الآن، تحاول من أجل شيء.,وهلأ مابعرف ليش عم تعذب حالك عالفاضي
+172,Orhan,Male,Kendi ruhunu bile tamir edemezken  başkalarına yardım etmeye çalışıyorsun.  Ve bu seni ayaklamıştır.,تحاول مساعدة الآخرين بينما لا تستطيع حتى إصلاح روحك. وهذا أبقاك على قيد الحياة.,لهلأ عم تضيع عمرك وانت عم تحاول تساعد الناس كأنو انت المسؤول عنن
+173,Yusuf,Male,Yaptıklarına nasıl sessiz kalabilirim ki sen söyle.,كيف يمكنني أن أظل صامتاً على ما يقومون به، أخبرني أنت.,كيف بدك ياني شوفها شو عم تعمل وضل ساكت
+174,Melek,Female,"Selimciğim,  duydun mu?  Bak sıkıntı edecek bir şey yokmuş.",سليم، هل سمعت؟ لا يوجد شيء يدعو للقلق. ,صدقتني . قلتلك مافيني شي مو مستاهله تجيب الدكتور ؟
+175,Selim,Male,Doktor Beyi duydun değil mi?,سمعتِ الدكتور، أليس كذلك؟ ,سمعي شو حكى الدكتور
+176,İsal,Female,Bahriye abla sen hala neyin peşindesin?,بهريه أختي، على ماذا تسعين الآن؟ ,اختي بهرية شبك ليش متحططه عليها ؟
+177,Behriye,Female,Kadın sabaha kadar alem yapmış yahu.,المرأة احتفلت حتى الصباح يا رجل. ,يعني المرة عايشة هون كأنها سلطانة زمانها
+178,Orhan,Male,Hayırdır sabah sabah dalmışsın yine derinlere?,خيراً لك في الصباح تغوص في أعماق جديدة؟ ,خير نشالله شايفك شارد وغرقان  شو صاير من الصبح  ؟
+179,Orhan,Male,Sana şunu vereyim de.  Hadi Neşen yerine gelsin.,سأعطيك هذا. هيا، ابتسم وكن سعيداً. ,اعطيك ياها ولا لا . يلا المعاملة مع الله
+180,Orhan,Male,Bir iki lokma bir şey sonra gidersin kaçmaya.,تناول لقمة أو اثنتين ثم يمكنك الذهاب. ,ليش هيك تحرقصت . طول بالك ما رح يهرب
+181,Ümit,Male,Yine sana bakınca her şeyi unuttum.  Hadi gel kahvaltıya başlayalım.,عندما أنظر إليك أنسى كل شيء. هيا لنبدأ الفطور. ,لما شوفك بنسا كل شي . يلا تعي ناكل سوا
+182,Ümit,Male,Sadece sen ve ben.  Artık unut bunları.,فقط أنت وأنا. انس هذه الأمور الآن. ,انا وياكي لحالنا . خلينا نفطر ع رواق
+183,Emrah,Male,Seni kaybetmekten korkması çok normal.,من الطبيعي أن يخاف من فقدانك.,هو حس انو رح يخسرك فهالشي طبيعي
+184,Arzu,Female,Delisin sen ya.  Ya öyle ama,أنت مجنونة يا. على الرغم من ذلك,أنت مجنون عنجد
+185,Ümit,Male,Kadın GYS sorularını bile kendi hazırlıyor yazık.,امرأة تقوم حتى بكتابة أسئلة امتحان الكنة بنفسها للأسف.,والله جد هي  . مجهزة اسئلة امتحان كمان تخيلي !
+186,Ümit,Male,Ne işin var senin burada?  Ne yapıyorsun lan?,ما الذي تفعله هنا؟ ما الذي تفعله أيها الأحمق؟,انت شو عم تعمل هون . لوين فايت
+187,Ümit,Male,Evimden hemen çıkıp gideceksin şimdi.,ستخرج فوراً وتغادر بيتي الآن.,احميل حالك و طالع من بيتي فورا
+188,Yusuf,Male,Benim derdim sensin Arzu Karabınar.,مشكلتي هي أنتِ يا أرزو كارابينار. ,انتي هيي مشكلتي يا أرزو كارابينار
+189,Yusuf,Male,kafamın bir köşesine yaz bence.  Sen kimsin?,أعتقد أن تكتبي هذا في زاوية عقلك. من تكونين؟ ,وما بتعرفي شو ممكن ساوي فيكي
+190,Arzu,Female,"Kapıma dayanın, benden hesap soramazsın.",لا يمكنك المجيء إلى بابي ومساءلتي. ,أبداً ما فيك . ولا بسمحك . تحكي معي بهي الطريقة
+191,Yusuf,Male,Duymak istemiyorsan o zaman ona göre davranacaksın.,إذا كنت لا تريدين أن تسمعي إذا فتصرفي accordingly. ,لكن اذا هيك اتصرفي متل ما عم قلك
+192,Yusuf,Male,Senin gibi insanlıktan nasibini almamış.,لأمثالك ممن لم يتعلموا الإنسانية. ,اذا وحدة متلك بلا ضمير و اخلاق
+193,Ümit,Male,"Bana bak,  bir defa olup gideceksin benimle tamam mı?",انظر إليّ، مرة واحدة وستبقى معي، فهمت؟ ,اطلع فيني . انقلع من بيتي فوراً تمام .
+194,Yusuf,Male,"Bu zamana kadar Adaletten,  hukuktan kaçmış olabilirsin.",حتى الآن قد تكون تجنبتِ العدالة والقانون. ,صحيح انتي قدرتي تهربي من العدالة و ما تعاقبتي هالمرة
+195,Yusuf,Male,Kendini içeride bulursun Arzu Karabınar.,"ستجدين نفسك في الداخل أرزو كارابينار.
+",رح تلاقي حالك بالسجن يا ارزو كارابينار
+196,Melek,Female,Sağ ol annen zahmet etmişsin.,شكراً أمي، لقد أزعجتك. ,يسلمو ماما عذبتي حالك
+197,Feride,Female,"Abla, seni çok merak ettim.",أختي، لقد كنت قلقة عليك جداً. ,حبيبتي . ما بتصدقي ادي قلقت عليكي .
+198,Melek,Female,Fezlecim durumu Cevahir Beye bildiriyor musun sen?,هل يمكنك إخبار السيد جواهر عن وضعي يا عزيزتي فزلة؟ ,فريدة حبيبتي . بتقدري تحكي لجواهر بيك عن وضعي ؟
+199,Feride,Female,Ablacığım ben çok tutmayayım seni.  Hadi sen de git yat.  Konuşuruz yine.,أختي، لا أريد أن أحتجزك طويلاً. هيا اذهبي للنوم. سنواصل حديثنا لاحقًا. ,حبيبتي . ما بدي طول عليكي روحي ارتاحي يلا . ومنحكي بعدين
+200,Behriye,Female,Ne bakıyorsun öyle dik dik?  Yalan mı söylüyorsun?,لماذا تنظرين إلي هكذا؟ هل أكذب؟ ,ليش هيك عم تطلعي عليي لكون عم كذب مثلا .
+201,Behriye,Female,Bak sen burada çalışacağım diye bir taraflarını  yırtarken kadın orada tatil yapıyor şekerim.,انظري بينما تحاولين تمزيق نفسك للعمل هنا، تلك المرأة تستجم هناك يا سكر. ,حبيباتي ليكوا هلئ كيف انتوا بقيتوا لحالكون و هي بالبيت قاعدة وعم ترتاح آخر همها الشغل .
+202,Behriye,Female,Ayol uyanamıyorum.  Uyanamıyorum.  Bu kadın sizi çiziyor.,يا الله لا أستطيع أن أفيق. لا أستطيع أن أفيق. تلك المرأة تخربكم. ,لك فيقوا بقى فيقوا حاجة . هي المرا عم تضحك عليكون صدقوني  .
+203,Feride,Female,Sen Melek ablayı kendine karıştırma istersen.,من الأفضل ألا تقحمي ملاك أختي في أمورك. ,في مجال ما تجيبي سيرة اختي ملك ع لسانك  ؟
+204,Behriye,Female,Sen kendini ne sanıyorsun yelloz?  Bu ne biçim hareket böyle?,من تظنين نفسك، يا فتاة سيئة؟ ما هذا السلوك؟ ,انتي مين مفكرة حالك وليه شلون بتتجرأي تحكي معي بهالطريقة
+205,İsal,Female,bir canına benzerim görmüyor musun?,ألا ترين أني أضع حياتي في خطر؟ ,اهدي
+206,Aliya,Female,Kızım Dün gece konuşmak istemedin ama Bana dert oldu,ابنتيلم تريدي الحديث البارحة الليل لكنلي أصبح قلق. ,بنتي . مبارح ما كان بدي ازعجك  بس . حسيت في شي .
+207,Aliya,Female,Nasıl oldu da o atölyede kilitli kaldın?,كيف بقيتي مقفلة في الورشة؟ ,بتصدقي كل ما عم اتذكر كيف علقتي بهالمشغل لحالك .
+208,İsal,Female,Ay boş ver sen onu canım görmezden gel boş ver.,آه، تجاهليها عزيزتي، تجاهليها. ,حبيبتي شيلك منها تساوي يلي بدها تجاهليا
+209,Feride,Female,Ee gelsin bak gör neler söyleyecek ona.,آه، لنرى ماذا سيقول له. ,هلئ بس يجي جواهر بيك شوفي شلون . رح تقلب القصة لصالحا
+210,İsal,Female,Burada herkes gördü seni nasıl kışkırttığımı.,الجميع هنا شاهد كيف أثرت فيك.,الكل هون شافها كيف دايقتك بكلاما
+211,İsal,Female,Biz buradayken sana hiçbir şey yapamazsın merak etme sen.,طالما نحن هنا لن يصيبك شيء فلا تقلقي.,طالما نحنا هون ما فيها تعمل شي ما تقلقي ابدا
+212,Aliya,Female,"Melekciğim,  sana bir kase getirsem içersin değil mi kızım?",عزيزتي ملك، إذا أتيت لك بوعاء، ستشربين، أليس كذلك؟,حبيبتي . شو رأيك جبلك زبدية تاكليها اكيد جعتي مو؟
+213,Melek,Female,Ya anne zahmet olacak sana ama,يا أمي، سأرهقك لكن,بس ما بدي تعذبي حالك ماما
+214,Aliya,Female,Sen beni hiç tanıyamamışsın diye.,كتبت: لم تتعرف عليّ جيداً.,كاتبة فيها انت ما بتثق فيني ابدا
+215,Zeynep,Female,Sen ne yapıyorsun?  Nasıl gidiyor atölyede işler?,وأنتِ ماذا تفعلين؟ كيف تسير الأمور في الورشة؟,طمنيني انتي كيف صرتي وكيف ماشي الشغل معك ؟
+216,Faysal,Male,Ben ne diyeyim şimdi sana yani?,ماذا يمكنني أن أقول لكِ الآن؟ ,الظاهر شاطرة بمساواة البرك
+217,Melek,Female,Ya tamam bak bu konuda haklısın.,يا تمام انظر في هذا أنت محق.,اي . تمام . شوف انت معك حق .
+218,Melek,Female,Bak sen Zeynepi biliyorsun.  Onun karşılığı var.,انظر أنت تعرف زينب. لديها ما يقابلها.,ليك . انت . بتعرفها لزينب منيح .
+219,Melek,Female,Senin ne kadar çok sevdiğini biliyorsun.,أنت تعرف كم تحبك.,وبالاخص بتعرف اديش هي بتحبك .
+220,Melek,Female,Ya bundan böyle eminsen bence oturup  bir sakince konuşup dinlemelisin onu.,إذا كنت واثقًا جدًا من هذا، أعتقد أنه يجب عليك أن تجلس وتستمع إليها بهدوء.,انت المفروض هلئ تهدا . و تقعد انت وياها و تحكوا لازم تسمعها وتفهم منا
+221,Faysal,Male,Aramızda senin benim mi var artık ya?,هل ما زال هناك بينك وبيني؟,بنتي الي ولا الك ما في فرق ابدا خديها
+222,Murat,Male,Sen böyle sürekli yanında börekle mi geziyorsun?,"هل تتجول دائمًا ومعك بوريك؟
+",انتي من كل عقلك جايبة معك برك لهون ؟
+223,Taylan,Male,Mütnesize tam böyle ortaya koyuyorsun.,تضعها مباشرة في منتصف المرحلة.,بقوم بيلتحم المسمار مع الورقة
+224,Murat,Male,Ya sen yavaştan hadi bir naşlasın.,يا لتحرك إذًا ببطء شيئًا فشيئًا.,طيب . لكن شو رأيك تقومي هلئ .
+225,Faysal,Male,Ne biçim konuşuyorsun lan öyle?,لماذا تتحدث هكذا يا زلمي؟,شو هالحكي عيب عليك
+226,Faysal,Male,Lan bu zamanda nereden bulacaksın böyle helal süt emmiş?,في هذا الوقت، من أين ستجد من نشأت على الحلال؟,بهيك وقت . من وين بدك تلاقي بنت متلها هالشي صعب
+227,Faysal,Male,Lan oğlum  dua et ki seni beğenen biri çıktı.,يا ولدي ادعو أن هناك من أعجبت بك.,لك . ابني . احميد ربك انو طلعت بوشك هالبنت .
+228,Murat,Male,İyi baba.  Sen madem bu kızı bu kadar beğendin.,طيب يا أبا. بما أنك أحببت هذه الفتاة إلى هذا الحد.,طيب بابا . طالما كل هالقد  عاجبتك هي البنت
+229,Faysal,Male,Sen doğuştan olamadın.  E bari bu kızı da,أنت لم تكن محظوظاً منذ الولادة. إذا على الأقل,وانت ما خلقت محظوظ .
+230,Gonca,Female,Senin neyinden korkacağım ben ya?,من ماذا سأخاف منك؟ ,وليش بدي خاف منك بالله ؟
+231,Arzu,Female,Vallahi canım kendi sonunu kendin hazırlarsın.  Baks.,والله عزيزي، ستجهز لنفسك النهاية. انظر. ,والله حبيبتي . ما رح تلومي غير حالك
+232,Arzu,Female,"Atacaksın, sen de rahat edeceksin, ben de.",ستوقع وسترتاح أنت كذلك، وأنا كذلك. ,تعالي عليه و وقعي . وهيك انتي بترتاحي . و انا
+233,Gonca,Female,"Sen beni düşünme, kendini düşün.",لا تفكر بي، فكر بنفسك. ,لا تاكلي همي فكري بحالك
+234,Gonca,Female,Sen kendini ne sanıyorsun ya?,من تعتقدين نفسك؟ ,لك انتي مين مفكرة حالك آه ؟
+235,Gonca,Female,Arzu imzalamayacağım diyorum anladın mı?,أقول لك أنني لن أوقع يا أرزو، هل فهمتي؟ ,ارزو عم قلك ما رح وقع فهمتي ؟
+236,Arzu,Female,Ne sen zora gireceksin ne de ben.,لن تواجهي صعوبة أنت ولا أنا. ,لا تصعبي الأمور عحالك  . ولا عليي
+237,Arzu,Female,Senin yerinde olsam bu şansı iyi değerlendirirdim.,لو كنت مكانك لفرصة هذه الفرصة. ,لو كنت مكانك . ما كنت ضيعت هالفرصة من ايدي
+238,Gülay,Female,Ne kız bunlar?  Görmüyor musun da elimdeki parçalar bitmedi?,ما هذا يا بنات؟ ألا ترون أن القطع لم تنته؟ ,شو هدول حبيبتي . مو شايفة انا لسا ما خلصت الشغل يلي عليي
+239,Gülay,Female,Ver de bitsin bir an önce.,أعطي لتنتهي بأقرب وقت ممكن. ,يلي بس لخلص يلي بايديي
+240,İsal,Female,Aman sakın Bahriye ablaya vermeseydin.,لا تعطيها للأخت بحريه. ,بس اصحك تكوني عطيتي لبهرية منهون
+241,İsal,Female,Bahriye ablaya takıldın değil mi?,هل كنتِ غاضبة من الأخت بحريه؟ ,أنتي متوترة بسبب بهرية مو هيك ؟
+242,Feride,Female,Bir yandan da Cevahir Beyden azar yedin.,ومن جهة أخرى تلقيت كلمات قاسية من السيد جوهار. ,وفوق كل هاد جواهر بيك عصب عليي .
+243,Suna,Female,Sen iyi bile dayandın.  Hak etmişti o.,حتى أنكِ تحملت كثيراً. لقد استحقت ذلك. ,أنتي كان معك حق ما غلطتي معا
+244,İsal,Female,Asık mı canını sen?  Cevahir Bey,مولاي جوهار,لا تلومي حالك
+245,Cevahir,Male,Sen bize iki tane kahve yapar mısın?,هل يمكنك أن تصنع لنا قهوة؟ ,يلا . روحي عمليلنا فنجانين قهوة
+246,Tülay,Female,Ee Veysel niye öğretiyorsun canım?  Biz de ucuza satıyoruz.,ولماذا تعلمه يا عزيزي فيسيل؟ نحن أيضاً نبيع بسعر رخيص.,اي طيب لا تزعج حالك حبيبي يعني طبيعي الشغل يخف بالشتوية
+247,Faysal,Male,Ya bunun da yanında biri lazım.  Herif yansın.,يحتاج أيضاً لشخص بجانبه. الرجال ينضحون.,لازم يصير عندو شريكة حياة
+248,Ümit,Male,Peki sen ne yaptın?  Yani.,"وماذا فعلت أنت؟ يعني.
+",وشو عملتي بعدين ؟
+249,Ümit,Male,Ben sana bir kahve getireyim.,سأحضّر لك قهوة.,خليني جبلك قهوة
+250,Gonca,Female,Erkut farkında mısın?  Arzudan bahsediyoruz.,إدركتِ يا إركوت؟ نتحدث عن أرزو.,ارقوط . نحن عم نحكي عن الشيطانة أرزو
+251,Gonca,Female,Ya şerh diyor başka bir şey demiyor anlamıyor musun sen?,يقول الشرح ولا يقول شيئاً آخر، ألا تفهم؟ ,هي عم تصر عليي كتير حتى وقع على ورقة التجميد
+252,Orhan,Male,Seni o cübbe içinde yeniden görmeyi o kadar isterim ki.,أود كثيراً أن أراك في الرداء الأسود من جديد. ,جد كتير متمني ارجع شوفك لابس الروب مرة تانية
+253,Orhan,Male,Bak ne diyeceğim.  Sana bir teklifim var.,اسمع ما لدي. لدي عرض لك. ,عندي عرض  . وفكر فيه منيح
+254,Orhan,Male,Ya neden?  İyi olmasın ki?,لماذا؟ لماذا لا يكون ذلك جيداً؟ ,ليش لأ ؟. خلينا نجرب
+255,Yusuf,Male,Dur dur dur dur sakin ol nereye gidiyorsun böyle düşecektin az da.,توقف، توقف، لا تتوتر إلى أين تذهب، كدت تسقط. ,على مهلك لشو كل هالركض طول بالك شوي كنت رح توقع
+256,Taylan,Male,Bu tarafa doğru gitmişlerdi ama gözden kaybettim.  Tamam tamam sen,ذهبوا في هذا الاتجاه، لكن فقدتهم من نظرهم. حسناً، فقط,كانو عم يركضو من هديك الجهة بس ما عاد شفتن بعدين
+257,Yusuf,Male,Hayır merak etme diyorum ben sana hadi doğru  eve git ben bulacağım Elifi hadi hadi.,لا، لا تقلق أقول لك، هيا عد إلى المنزل، سأجد إليف. هيا، هيا. ,لأ . ما تقلق أنا رح لاقيها  . ارجع عالبيت لاتتأخر . يلا . بسرعة
+258,Selim,Male,Ne kadar pişman olduğumu görürsün.,وتري كم أنا آسف. ,وتشوفي اديشني ندمان عاللي قلتو
+259,Yusuf,Male,Zaten çok merak etmişlerdir seni.,لقد كانوا قلقين عليك كثيراً. ,اصلا لازم نروح حتى ما تقلق امك
+260,Yusuf,Male,Ya o çocuklar bir daha sana zarar vermeye kalkarsa?,ماذا لو حاول الأطفال أن يؤذوك مرة أخرى؟ ,بركي رجعو دايقوكي هدول الولاد او أذوكي  مثلاً ؟
+261,Feride,Female,Allahım ne olursun iyi ol Elif.,يا الله، أرجوك اجعل إليف بخير. ,يا ربي . لوين رحتي يا اليف لوين؟
+262,Feride,Female,Abla dünya seni göremeyince çok korktum.,أختي، كنت خائفة جداً عندما لم أتمكن من رؤيتك في العالم. ,وين كنتي حبيبتي خفت عليكي كتير لما ما لقيتك
+263,Zeynep,Female,Yok abla aşk olsun.  Sen işine bak.,لا أختي، شكراً. اهتمي بعملك. ,لأ خالتي معليش . خلصي شغلك
+264,Tülay,Female,İşin nasıl gidiyor memnun musun?,كيف العمل معك، هل أنتِ راضية؟ ,وكيف الشغل في شي مشكلة ؟
+265,Tülay,Female,İyi düşünelim ki iyi olsun canım benim.,لنفكر بشكل إيجابي لكي تكون الأمور جيدة عزيزتي. ,تفائلي بالخير . ولا تفكري بالسيئ
+266,Aliya,Female,Aranızdaki bu mevzuyu halledin artık oğlum.,أصلحوا هذا الأمر بينكما الآن، يا بني. ,لازم تصالح  زينب يا سليم وترجعها عالبيت
+267,Aliya,Female,İçim parçalanıyor seni böyle görünce.  Benim için.,قلبي يتقطع عندما أراك هكذا. من أجلي. ,ومالي حابة شوفك هيك زعلان ومقهور
+268,Ayla,Female,Hoş geldin.  Hoş buldum.  Hiç kalkmasaydın ablacığım.,أهلاً وسهلاً. أهلاً وسهلاً. لم يكن عليك النهوض، أختي. ,شكراً الك . ما كان في داعي تقومي خالتي
+269,Tülay,Female,"Aylacığım, ne kadar zarif hazırlamışsın.",عيلتي، كم كانت تحضيراتك رائعة. ,حبيبتي ايلا .ما كان في داعي تعذبي حالك يا روحي
+270,Tülay,Female,Ben de sana bir tabak getireyim canım.,سأحضر لك طبقاً يا عزيزتي. ,خليني انا . جبلك صحن يا روحي
+271,Ayla,Female,Baya iyi bakmış sana ama o göbecikten belli.,تعتني بك جيداً لكن هذا واضح من بطنك. ,كتير بتنتبه عليك وبتغذيك واضح من هالكرش الصغير
+272,Tülay,Female,Evet.  Yoksa sen mi yaptın Aylacığım bunları?,نعم. أم أنك قمت بكل هذا يا آيلا؟ ,صحيح . يعني انتي عملتي كل هاد يا عمري؟
+273,Ayla,Female,Kendi internet sayfam gibi  düşünebilirsin Veysel amcacığım.,يمكنك أن تفكر فيها كصفحة الإنترنت الخاصة بي عمي فيسيل. ,يعني عمي فيصل بفتح صفحة باسمي بنزل فيا فيديوهات عني
+274,Tülay,Female,Ayraçım istersen tatlıya geçelim ha?  Ne dersin canım?,حبيبتي، إذا أردتِ يمكننا الانتقال إلى الحلوى؟ ما رأيكِ حبي؟ ,ايلا شو رأيك تقومي معي عالمطبخ . لنجيب الحلو ؟
+275,Faysal,Male,Yemekler muazzamdı vallahi.  Ziyade olsun.,كانت الأطعمة رائعة والله. بالصحة والهناء. ,الأكل كان شي خرافي والله
+276,Arkut,Male,Ya Asu bana ne ters yapıyorsun kızım?  Bu işler buraya gelmedi.,يا عثي، لماذا تتصرفين بطريقة عكسية معي يا ابنتي؟ الأمور لم تصل إلى هنا. ,اسو لا تحكي معي بهالطريقة ماشي؟
+277,Arkut,Male,Neler yaptım senin için be?  Ben de hiç karşılık beklemedim.,ماذا فعلت من أجلك؟ لم أتوقع مقابلًا أبدًا. ,عملت شغلات كتير مشانك وخاطرت بحياتي بس
+278,Arkut,Male,Hırsın yüzünden bana düşman oldun.,أصبحت عدوي بسبب طمعك. ,عم تتصرفي معي وكأني عدوّك
+279,Asuman,Female,Bulabildin mi o çok sevgili boşanmacı albimizi ha?,هل وجدت ألبوم الطلاق المحبوب لدينا؟ ,انشالله قدرت تلاقي وراق الطلاق ورتحت ؟
+280,Orhan,Male,Yani sen de böyle şeyleri düşünüp kendini üzme artık yeter.,لذا كفى من التفكير في هذه الأشياء وتحزين نفسك. ,بقى روق وحاج تفكر بالموضوع و تزعج حالك . خلص
+281,Murat,Male,Pardon da sen bu kızın neyini beğendin ya?,عذرًا، ولكن ماذا أعجبك فيها؟,شو هالسؤال ؟. وعلى شو بدي حبها لهالمجنونة ؟
+282,Murat,Male,Sana başka hiçbir şey demiyorum.,لن أقول لك شيئًا آخر.,بدك ياني حبها مشان الحلو ؟
+283,Murat,Male,Sen şimdi sadece bir taktiği için mi beğendin bu kızı?  Eee?,هل أعجبتك هذه الفتاة لمجرد تكتيك واحد؟ هاه؟,اذا كل هالقد حابب نوع الحلو اللي بتعملو
+284,Murat,Male,Ya genç yaşında meftal olmamı mı istiyorsun?,هل تريد أن أموت في شبابي؟,والله بموت ناقص عمر اذا بتزوجا
+285,Faysal,Male,İşte üstüne titriyor daha ne istiyorsun?,إنه يعتني بها ما الذي تريده أكثر؟,البنت معجبة فيك . شو بدك احلى من هيك ؟
+286,Tülay,Female,Selimle de arası açık biliyorsun.,أنت تعرفي أنها في خلاف مع سليم.,صرلا كم يوم زعلانة هي وسليم
+287,Tülay,Female,Yani biliyorsun burası Zeynepin de evi.,كما تعلمين، هذا البيت هو بيت زينب أيضًا.,يعني البيت بيتها . وبيت ابوها بالنهاية
+288,Melek,Female,Yok canım yok sen merak etme.,لا أبدًا، لا تقلقي.,لأ حبيبتي اكيد ما تقلقي
+289,Melek,Female,Yok yok gerçekten zahmetçisin.  Zaten benim çıkmam lazım.,لا، لا، حقًا أنتِ تتعبين نفسك. يجب أن أذهب أصلًا.,لأ ما في داعي تعذبي حالك اصلا ما عندي وقت ولازم روح
+290,Tülay,Female,Ay Melekciğim böyle içime desin mi?,يا ملاكي، هل تبقى شيء في خاطرك؟,بس والله ما حلوة يا ملك ما اكلتي ولا شربتي شي
+291,Arzu,Female,Oysa sen beni hiç tanımıyorsun.,ومع ذلك، أنت لا تعرفني.,رغم انك ما بتعرفني
+292,Yusuf,Male,Seni bir kez daha uyarıyorum.,أحذرك مرة أخرى.,وبحذرك مرة تانية
+293,Arzu,Female,Bakalım sen bundan sonra meleğin yanına yaklaşabilecek misin?,لنرى إن كنت ستحصل على فرصة للاقتراب من الملاك مرة أخرى.,لنشوف كيف رح تخليك ملك تقرب منها بعد ما تشوف هالصور
+294,Gülay,Female,"Kız,  vallahi yüreğimizi ağzımıza getirdin.",الفتاة، والله جلبت قلوبنا إلى حلوقنا.,يا بنت . والله قلقتينا وخوفتينا عليكي كتير
+295,Feride,Female,Abla sen niye geldin ki?,أختي لماذا جئتِ؟,اختي . ليش إجيتي اليوم ؟
+296,Behriye,Female,Senin getirdiğin şu kız var ya,الفتاة التي جلبتِها,انا رح احكيلك اللي صار
+297,Feride,Female,Ya ne diyorsun ya?  Sen kendi ağzından çıkanları unuttun herhalde.  Melek ablaya,ماذا تقولين؟ ربما نسيتِ ما قلته. لأختي ملك,شو هالحكي اللي عم تقولي  شكلك نسيتي شو حكيتي معي وكيف قللتي احترام
+298,Melek,Female,Bak ben seni çok iyi tanıyorum.  Onur.,انظري، أنا أعرفك جيدًا.  الشرف.,ليكي انا بعرفك كتير منيح
+299,Melek,Female,Merak etme sen tamam mı?,لا تقلقي، حسنًا؟,لهيك ما تزعلي حالك تمام ؟
+300,Taylan,Male,baksana hemen seni zor zamanlı yetişip kurtarıyor.,انظري كيف يأتي فوراً ويساعدك في أوقات الشدة.,لانو هو متل سوبرمان . دائمأً بيكون جنبك . وقت اللي بتحتاجيه
+301,Taylan,Male,Hâlâ bir şey yemedin mi yani?,هل لم تأكلي شيئًا بعد؟,يعني ما أكلتي شي لسا ؟
+302,Taylan,Male,"Ben Tosun oğlum, hemen geliyorum.",أنا توسن ابني، سأعود فوراً.,رح انزل جبلك سندويشة وارجع
+303,Yusuf,Male,Bu çocukların seni korkutmalarına izin vermemelisin.,لا يجب أن تسمحي لهؤلاء الأطفال بأن يخيفوك.,لا تسمحلي لهالصبيان الزعران يخوفوكي ابدا ماشي؟
+304,Yusuf,Male,O yüzden inadına gözlerimin içine bakacaksın.,لهذا السبب ستنظر إلى عيني بعناد.,لهيك وقت بيزوروكي حطي عينك بعينن وواجهين
+305,Yusuf,Male,Hadi bakalım sen derse ben de işe artık.,حسناً لنذهب، أنت إلى الدرس وأنا إلى العمل الآن.,يلا حبيبتي روحي على صفك . وأنا رايح على شغلي
+306,Aliya,Female,Allah işlerini rast getirsin yavrum.,لنرى ما إذا اتفقنا في العرض.,الله يسرلك كل امورك يا ابني
+307,Aliya,Female,Kahvaltıda da doğru düzgün bir şey yemedin.,حسناً، إذًا تناول شيء في فمك بسرعة.,انتبهت عليك ما أكلت شي على الفطور
+308,Aliya,Female,Ben senin bu vaziyetini hiç beğenmiyorum.,سليم، يا بني,من لما راحت زينب ووضعك مو عاجبني ابدا
+309,Orhan,Male,Sana da bundan başka bir şey söylememiş.,لم تخبرك بأي شيء آخر.,يعني أصلاً ما قالتلك شي جديد وما بتعرفو
+310,Orhan,Male,Böyle bir kadın seni nedensiz yere bir yere çağırmaz.,امرأة كهذه لن تدعوك لمكان بدون سبب.,حدا متلا . ما بيحاكيك وبيطلع بشوفك مشان هيك شي
+311,Yusuf,Male,Vallahi ne plan yaparsa yapsın.,والله مهما كانت خطتها.,اي خليها تخطط قد ما بدها
+312,Yusuf,Male,Ne pahasına olursa olsun ama ne pahasına olursa olsun.,مهما كان الثمن. أنا لن أترك هذا الأمر.,حتى لو شو ما عملت . ولو قد ما حاولت و خططت
+313,Melek,Female,Gülay sen yine kenar bir ileri geçersin.,غيلاي، يمكنك التقدم من الجانب مرة أخرى.,جولاي . أنت رح تعملي الدرزات الأساسية
+314,Gülay,Female,Nesi fazlaymış sana verdiği işin?,ما الذي تعتقدين أن العمل الزائد قد أٌعطي لك؟,من أي ناحية شغلتك الاصعب يعني ؟
+315,İsal,Female,Ne diyorsun Bahriye abla?  Ne ekmeği ne yağı?  Abarttın iyice.,ماذا تقولين يا بهريا أختي؟ عن أي خبز وزيت تتحدثين؟ لقد بالغت تمامًا.,شو عم تحكي يا اختي بهرية ومن وين جبتي هالحكي ؟. أنت عم تبالغي
+316,Gonca,Female,Hem bu kadar tutuştuğuna göre burada  ne yazdığını biliyorsun demek ki.,مما يعني أنك تعرف ماذا كتب هنا لأنك متحمس جدًا. ,شكلك تغير وارتعبت معناها اللي مكتوب بالتقرير مزبوط
+317,Gonca,Female,Yoksa bütün bu tezgahların hepsini sen mi düzenledin Erkut?,أم أنك من ينظم كل هذه الحيل اركوت؟ ,وليش مخبي عني الموضوع وما حكيتلي لشو مخطط ؟
+318,Arkut,Male,Ne diyorsun kızım sen?  Ne tezgahı ya?  Ver şunu bana!,ماذا تقول يا فتاة؟ ما الحيلة؟ أعطني هذا! ,خطة شو اللي عم تحكي عنها انتي اعطيني ياه بسرعة
+319,Arkut,Male,Ne diyorsun sen kızım?  Nedenin farkında mısın?,ماذا تقول يا فتاة؟ هل تدرك ما تقوله؟ ,شبك جنيتي فهمانة ع حالك شو عم تقولي
+320,Gonca,Female,Yalan söylüyorsun.  Ya Gonca uzaklaşma.,أنت تكذب. يا جونكا ابتعد ولا تقتربي. ,أنت عم تكذب
+321,Gonca,Female,kendilerine teslim edeceğimi sanmıyorsun herhalde değil mi?,لا تتوقع أنني سأقوم بتسليمه لهم، أليس كذلك؟ ,أنت مفكر إني ممكن اعطيك هيك ورقة مهمة ببساطة مهيك؟
+322,Gonca,Female,Erkut yoksa senin hala onunla bağlantın mı var?,إركوت هل لا يزال لديك بعض العلاقات معها؟ ,سماع لتكون لسا عم تتواصل معها لهلأ ؟
+323,Gonca,Female,Bir zamanlar arzunun adamı değil miydin sen?  Hem sen de haklısın.,ألم تكن يومًا ما رجلًا لأروزة؟ وأنت محق أيضًا. ,أنت من زمان بتشتغل لصالح ارزو
+324,Gonca,Female,Ben inanamıyorum kadın resmen kendi kızının ölümüne sebep olmuş ya.,لا أصدق أن المرأة تسببت في وفاة ابنتها بهذا الشكل. ,ما عم صدّق كيف قدرت تعمل هيك وتكون السبب بموت بنتا قتلتا بأيدها
+325,Arkut,Male,Ya Gonca sen iyice kafayı kırdın ha.,يا جونكا لقد جننت تمامًا. ,يا غونجا خلصنا لا تحكي حكي مجانين
+326,Gonca,Female,Ne kadar inkar etsen de sana inanmıyorum.,مهما أنكرته لا أصدقك.,قد ما نكرت ما رح صدقك ارقوط
+327,Arkut,Male,Öyle bir şey yapmayacaksın Gonca.,لن تفعلي مثل هذا الشيء، يا جونكا. ,لا اوعك ما بتقدري تعملي هيك
+328,Gonca,Female,Hiç kimse bana engel olamaz anlıyor musun?,لا يمكن لأحد أن يمنعني، هل تفهم؟ ,ما رح تقدر تمنعني اعمل اللي براسي
+329,Gonca,Female,Asıl o arzu şimdi benim dediklerim yapmasın da görelim bakalım.,أرزو الحقيقية لا تفعل ما أقوله وأنا سنرى. ,اصلا انا كنت عم دور على شي اعملوا حتى اقدر وقفها ع حدا
+330,Gonca,Female,Aykut bak bunun hesabını vereceksin çekil.,أيتوك أتركي هذا أو سيأتي وقت الحساب. ,ارقوط اتركني و روح من هون احسنلك فهمان
+331,Arkut,Male,O zaman buradan çıkış yok sana.,إذن لا يوجد خروج لك من هنا.,معناها ما رح تطلعي من الغرفة
+332,Asuman,Female,Kadın bas bas yardım istiyor.,المرأة تطلب المساعدة بصوت عالٍ. ,هي عم تصرخ وتخبط عالباب
+333,Arkut,Male,Kapıyı falan açmaya kalkarsan cezanı çekersin ona göre.,إذا حاولت فتح الباب، ستعاقبين. ,إذا بتفكري تفتحيلا الباب . رح تتحملي العواقب انتي
+334,Pelin,Female,Hayırlı olsun o zaman yeni anlaşmamız.,إذن مبارك لعقدنا الجديد. ,انشالله هالاجتماع بيكون فاتحة خير علينا
+335,Pelin,Female,Çünkü senin tanıdığın pelinin pek bu taraklarda besi yoktu.,لأن بيلين التي تعرفها لم تكن مهتمة بهذه الأمور.,لان انت بتعرف بيلين البنت الدلوعة اللي مالا علاقة بالشغل منوب
+336,Selim,Male,Gerçekten çok üzüldüm.  Başın sağ olsun.,أنا حقاً آسف، البقاء لله.,ماكان عندي خبر
+337,Selim,Male,"Neyse, ben seni daha fazla meşgul etmeyeyim.",على أي حال، لا أريد أن أشغلك أكثر.,ماشي . انا . ما بدي اشغلك أكتر من هيك
+338,Melek,Female,Her yazık hiç karşıma çıkacaksın sen nasıl olsa.,للأسف سنلتقي في يوم من الأيام. ,يعني وين بدك تروح مني بدك تجي بالأخير
+339,Yusuf,Male,Kime güveniyorsun?  Biliyorum.  Fakat bunun benimle ya da bana sorduğunuz o  kadar soruyla ne alakası var ben hiç anlamadım.  Çünkü bizim her şeyimizde siz ilgileniyorsunuz Ümit Bey.  En önce ayrıntısı kadar da siz bakıyorsunuz her şeye.  Evet ben ilgileniyorum.  Çünkü Aliye Hanım ve Selim Bey böyleyiz.  Ben kafama göre hareket etmiyorum.  Onlar bana ne talimat veriyorsa ben onlara imkanım.  Evet biliyorum.  Ben de sizi suçlamıyorum zaten.  Ben sadece anlamaya çalışıyorum ya.  İşler bu noktaya nasıl geldi?  Bir türlü aklım mantığım olmuyor benim.,على من تعتمد؟ أعلم. لكن ما علاقتي بذلك أو بكل الأسئلة التي سألتني إياها، أنا لم أفهم أبداً. لأنكم تهتمون بكل شيء يخصنا يا سيد أحمد. أنتم تراقبون كل شيء بالتفصيل. نعم أنا أهتم. لأن سيدة علياء و السيدة سليم نحن كذلك. لا أتصرف حسب هواي. أعطيهم ما يطلبون مني. نعم أعلم. لا ألومك بالطبع. أحاول فقط الفهم. كيف وصلت الأمور إلى هذه النقطة؟ لا أستطيع فهماً. ,مين في وراكي ؟
+340,Aliya,Female,Bizim bildiğimiz Pelinden bahsediyorsun sen öyle değil mi?,تتحدث عن بلين الذين نعرفهم، أليس كذلك؟ ,انت عم تحكي عن بيلين اللي منعرفها كلياتنا مو هيك؟
+341,Yusuf,Male,Benim Eliften haberim yok.  Ne senden ne Eliften haberim yok.  Bana tuzak kurdular.  Ya ne tuzağı ya?  Görmüyor musun?  Seni de beni de aynı yere çağırmışlar.  İkimize de tuzak kurdular.,لا أعلم عن إيليف. لا عنك ولا عن إيليف لا أعلم. قد نصبوا لي فخًا. أي فخ يا؟ ألا ترى؟ لقد دعونا إلى نفس المكان. ودبروا لنا نفس الفخ.,ما كنت بعرف انو اليف هون و اصلاً ما اجيت لهون لا مشانك ولا مشانها
+342,Selim,Male,Sen bir şey ettin yoksa.,لم تقومي بشيء، أليس كذلك؟,انتي صورتيهن ؟
+343,Ümit,Male,Bundan sonrasını Yusuf düşünsün.  Biz değil.,من الآن فليكن يوسف من يقلق. ليس نحن.,اللي لازم يخاف هلأ هوه يوسف . مو نحنا
+344,Arkut,Male,Ben biliyorum ne kadar kalacağını Asuman.  Sen işine bak.  Hayır yani.,أنا أعلم كم ستبقى أسومان. أنت اهتمي بشؤونك. لا يعني.,بعرف منيح ايمتا لازم طالعها فخليكي بحالك
+345,Asuman,Female,Ne oldu birden bire böyle ne yaptık önce sana ya?,ماذا حدث فجأة، ماذا فعلنا لك أولاً؟,شو صاير بينكن شو عملتلك غونجا؟
+346,Arkut,Male,Sabahtan beri kafamı ütüledin ya.  Yeter!,منذ الصباح وأنتِ تثرثرين في رأسي، كفى!,من الصبح وانتي عم تزني فوق راسي . بيكفي
+347,Arkut,Male,Bir de sana laf mı anlatacağım?  Çıkmayacak diyorum o kadar ya.,وهل سأشرح لك أيضاً؟ أقول لن تخرج فقط.,وجعني راسي منك ما رح  طالعها خلص ارتحتي هلأ ؟
+348,Arkut,Male,Sana ne olduğunu söyleyemem Asım.,لا أستطيع أن أخبرك بما يحدث أسيم.,مابقدر احكيلك شي هلأ اسومان
+349,Gonca,Female,Beni buraya kapattığın için sana da hesap soracağım Erkut.  Ama göreceksiniz.,نظراً لأنك حبستني هنا سوف أسائلك يا أركوت. لكن ستَرون.,وبدي خلي ارقوط يدفع التمن لانو حبسني هون
+350,Ümit,Male,Sen nasıl hissedersin öyle olsun?,كيفما تشعرين، يجب أن يكون كذلك.,طيب . متل مابدك منروح غير يوم
+351,Melek,Female,Tüm gerçekleri inkar ettiklerinde mi saklı?  Bak ben senin düşmanın değilim.  Senin iyiliğin için ne kadar savaştığının farkında değil misin?  Sadece senin iyiliğin için ben kötü biri değilim.  İştahsız biri hiç değilim.  Arzu.  Tabii ya sen Arzunun adamısın.  Arzu?  Tabii.  Öyle.  Nasıl anlamadım ya nasıl anlamadım?  Saçmalama Arzu kim tanımıyorum bile.,هل يخفون كل الحقائق عندما ينكرونها؟ انظري أنا لست عدوك. ألا تدركين مدى كفاحي من أجل مصلحتك؟ فقط من أجلكأنا لست شخصًا سيئًا. لست شخصًا بلا شهية. عرزو. بالطبع، أنت من رجال عرزو. عرزو؟ بالطبع. هكذا. لم أفهم كيف لم أفهم؟ لا تضحكي، لست أعرف أحداً باسم عرزو.,معقول يكون اللي عم تنكرو هوه الحقيقة؟
+352,Arkut,Male,"Bana eğer pislikten yırtardın, ne olacaktı?",إذا كنت تستطيع الهروب من القذارة، ماذا سيحدث؟,و كنت تخلص حالك على طول ؟
+353,Orhan,Male,Ama başkasının evine izinsiz girmenin  suç olduğunu unutmuyorsun değil mi?,ولكن لا تنسى أن دخول منزل شخص آخر بدون إذن يعد جريمة، أليس كذلك؟,بس لاتنسى انك فتت على بيتهن بدون اذن وهي لحالا جريمه طبعاً
+354,Arkut,Male,Sana ne güzel hesap mı vereceğim?,هل يجب أن أقدم لك حساباً؟,شو دخلك بدك تعرفي كل شي؟
+355,Arkut,Male,Bakın Goncanın kapısını açmıyorsun ona göre.,لا تفتح باب غونجا، انتبه.,اوعي تطالعي غونجا من الغرفة هي عم حذرك
+356,Gonca,Female,Asuman ne olur aç bak.  Vallahi dayanamıyorum burada.  Tıkılıp kaldım.  Ne olur açar mısın şu kapıyı ya?,أسومان رجاءً افتحي البوابة. باللهِ لا أستطيع البقاء هنا.  محبوسة.  رجاءً افتحي الباب.,بترجاكي فتحي الباب ما بعرف ليش  انا محبوسة هون  ما عاد فيني اتحمل ضروري اطلع فتحيلي الباب بقا
+357,Asuman,Female,Ya açamam diyorum anlamıyor musun?  Erkut mahveder beni.,لا أستطيع أن أفتحه، ألا تفهمين؟ إركوت سيحطمني.,عم قلك ما فيني افتحلك لاتعلقيني مع ارقوط
+358,Gonca,Female,Tamam tamam bak sen kapıyı aç ben her kutu,حسناً حسناً انظري، افتحي الباب، سأقول أنني وجدت مفتاحاً احتياطياً أو شيء كهذا، ولن يستطيع أن يفعل لك شيئاً، أعدك، هيا افتحي الباب.,تمام . شوفي رح قول انو  قدرت افتح القفل
+359,Asuman,Female,Niye anlatamazmışsın ya?  Niye gizliyorsunuz benden?,حسناً.,ليش عم تخبو عني  بدي اعرف شو القصة؟
+360,Gonca,Female,Eğer kapıyı açarsan sana söz veriyorum bak her şeyi  anlatacağım tamam ama ne olur aç artık şu kapıyı lütfen.,لا غونجا، والله لا أستطيع، اعذريني.,إذا فتحتيلي  . بوعدك احكيلك كل شي صار بالتفصيل تمام بس بترجاكي فتحي خليني الحق رجاءاً
+361,Ümit,Male,Bakıyorum bu sabah çok sessizsin.,"أفكر.
+",شو شايفك هادية كتير اليوم
+362,Arzu,Female,Aslında bir yandan seni de düşünüyorum.,في الواقع، أنا أفكر فيك أيضاً من ناحية أخرى.,بصراحة عم فكر فيك كمان
+363,Arzu,Female,Bir şekilde çiftliğe geri dönmelisin.,يجب أن تعود إلى المزرعة بطريقة ما.,و ترجع متل اول وتفوت عالمزرعة
+364,Ümit,Male,Bu çok zor olacak biliyorsun değil mi?,تعرف أن هذا سيكون صعباً جداً، أليس كذلك؟,الموضوع كتير صعب بتعرفي مو ؟
+365,Selim,Male,Bakalım bu fotoğrafları görünce ne yapacaksın Yusuf Efendi?  Ümit.,لنرى ماذا ستفعل عندما ترى هذه الصور يا يوسف أفندي؟ أوميت.,يلا لشوف ورجيني شو بدك تحكي لما تشوف  الصور سيد يوسف
+366,Asuman,Female,"Bir yandan odada kilitli bağıran bir kadın,  diğer yandan patlamaya hazır bir Erkut.  Vallahi bunaldım.",من جهة امرأة تصرخ في غرفة مغلقة، ومن جهة أخرى إرقط على وشك الانفجار. والله شعرت بالضجر.,من جهة . هي  المرة اللي عم تصرخ كل الوقت  ومن جهة تانية جنان ارقوط
+367,Asuman,Female,Ah Osman ya evin içinde neler dönüyor sen resmen ayakta uyuyorsun.,آه عثمان، ماذا يحدث في هذا المنزل وأنت نائم على قدميك.,شو يا اسومان . مو لازم تعرفي شو اللي عم يصير بالبيت  هيك بدك تضلي ؟
+368,Asuman,Female,Gonca!  Hiçbir yere gidemezsin.  Anlatsana ya!,جونكا! لا يمكنك الذهاب إلى أي مكان. أخبرني!,غونجا . وقفي مافيكي تروحي .  مو هيك اتفقنا
+369,Arzu,Female,Sen seni ne zaman buluşacaksın?,متى ستذهبين للقاء؟,شو ايمتا اجتماعك مع سليم؟
+370,Arzu,Female,En büyük sınav varmış olursun.,ستكون قد اجتزت أكبر اختبار.,الباقي رح يكون  سهل كتير
+371,Arzu,Female,Kafayı mı yedin?  Neye gülüyorsun?,هل فقدت عقلك؟ على ماذا تضحكين؟,شو انتي مجنونة ليش عم تضحكي ؟
+372,Gonca,Female,Ya sen ciddi ciddi benim gerçekten şu  belgeli imzalayacağımı falan mı düşündün?,هل كنتي حقاً تفكرين أنني سأوقع على هذه الوثيقة؟,من كل عقلك مفكرتيني جبتك لوقع عالورقة اللي بدك ياها واتنازلك حبيبتي ؟
+373,Gonca,Female,Ay sen sandın bana daha da safmışsın Arzu yazık gerçekten.,يا إلهي لقد اعتقدتي أنني أكثر سذاجة، أرجو حقاً أن تكوني حزينة.,عن جد طلعتي اغبى من ما كنت متوقعتك مسكينة والله
+374,Gonca,Female,Eğer ki emir oğullarının bu yangını senin  çıkardığını öğrenmelerini istemiyorsan,إذا لم تريدي أن يكتشف أولاد الأمير أنك من أطلقت هذه النار,إذا ما بدك عيلة اميراوغلو يعرفو شو عملتي بدك توقعي على هالورقة عم تفهمي عليي
+375,Arzu,Female,Sen kafayı mı yedin ya?  Çıldırdın mı sen?,هل فقدت عقلك؟  هل جننت؟ ,لك انتي شو صرلك جنيتي يعني؟
+376,Arzu,Female,Bu elindeki saçma sapan sahte belgeyle hiçbir şeyi kanıtlayamazsın.,لا يمكنك إثبات أي شيء باستخدام هذه الوثيقة الساذجة المزيفة. ,مافيكي تثبتي شي بهالورقة السخيفة تبعك. عم تفهمي شو قلت؟.
+377,Aliya,Female,Sen de üzülme yavrum ama tamam mı?,لا تحزني أيضًا يا طفلتي، حسناً؟,خلص ياروحي وانتي لاتزعلي . تمام؟
+378,Selim,Male,Neden böyle bir şey yapsın?,لماذا يفعلون شيئًا كهذا؟,ليش لتعمل هيك؟
+379,Selim,Male,Ya Arzunun senin de alıp veremediği ne var?,وما الذي يمكن أن يكون لأرزو معك أية خصومة؟,شو مصلحة ارزو تعمل هيك ما عم افهم
+380,Selim,Male,Ümitin arzu için çalıştığından eminsin.,هل أنت متأكد من أن الأمل يعمل لأجل أرزو؟,انت متأكد انو اوميت عم يشتغل معا؟
+381,Arkut,Male,Ben sana demedim mi o kapı açılmayacak diye?,ألم أقل لكِ ألا يُفتح هذا الباب؟,ماقلتلك  لو شو ماصار مابتفتحي الباب؟
+382,Arkut,Male,Niye açmıyorsun kızım?  Niye dönmüyorsun?,لماذا لا تردين عليّ؟ لماذا لا تجيبين؟,ليش مارديتي او رجعتي اتصلتي؟
+383,Arzu,Female,Sana hesap mı vereceğim ben ya?,هل سأعطيك تفسيراً، أنا؟,اي بيطلعلك تعاتبني
+384,Aliya,Female,Kızım Selim nerede biliyor musun?,ابنتي أين سليم هل تعرفين؟,بنتي. وين سليم بتعرفي؟
+385,Selim,Male,Sana orada haddini bildirmem gerekiyor ya.,يجب أن أضعك في مكانك هناك.,لو انو الشغلة عليي بروح بقتلك فورا
+386,Arzu,Female,Benim bu yaşak başka bir şey bulamadım bu kadın.,أركوت، توقف.,لعمى جاية تتهمني بقتل بنتي
+387,Arzu,Female,Kafayı mı yedi bu kadın?,أخرجت تقريرًا مزيفًا.,شو هي مجنونة؟
+388,Arzu,Female,Ya manyak mı o kadın ya?  Gerizekalı mı bu?  Kim inanır buna?,ها، ومن ثم السيدة الراقية,مين بصدق هالحكي شبها هي جنت يعني شو صرلا فهمني؟
+389,Selim,Male,"Dedim ya, gerek yok rahat ol sen.",كما قلت، لا حاجة لذلك، كن مرتاحًا.,ولايهمك. انا بعرفك منيح
+390,Arzu,Female,Erkut sen ne diyorsun ya?,إركوت، ماذا تقول؟ ,ارقوط شو عم تقول؟
+391,Arkut,Male,Bu işin üstünü örtmek için ne kadar uğraştım haberin var mı senin?,هل تدركين كم تعبت لأغطي الأمر؟ ,بتعرفي اديش اتعذبت لبدل التقرير وحل هالموضوع
+392,Arkut,Male,Ve elindeki bu koz ikimizi de bitirir haberin olsun.,وهذا الكرت يمكن أن يدمرنا. ,يعني اذا بتقصد فيها تدمرنا تنيناتنا بثواني
+393,Arzu,Female,Ya sen ne kozundan bahsediyorsun?  Hangi koz?,عن أي كرت تتحدثين؟ أي كرت؟ ,شو تقرير مزور وتقرير حقيقي شو هالتخبيص؟
+394,Arkut,Male,Hiçbir sırrı sonsuza kadar saklayamıyorsun.,لا يمكنك إخفاء أي سر للأبد. ,مافي سر بيضل مخبى للابد
+395,Arkut,Male,Arzu ne isterse yapmak zorundasın o duyuyor musun?,أرزو يجب أن تفعلي ما تطلبه، هل تسمعين؟ ,ارزو. شو ماطلبت منك تعملي اعملي عم تفهمي
+396,Arkut,Male,O belgeyi imzalayacaksın.  Emiroğulları bu işi öğrenirse ikimiz de hapsi boylarız kızım.,ستوقعين على تلك الوثيقة. إذا عرف عائلة إميرولاري بأمرنا، سنذهب إلى السجن يا ابنتي. ,والا رح تاخد التقرير لعيلة أمير اوغلو ووقتا ماحدا بالعالم فيه ينفدنا من السجن فهمانة
+397,Arkut,Male,O benzini sen döktün kızım.,أنت من سكبت البنزين يا ابنتي. ,انتي الي كبيتي البنزين عالكوخ . تذكري بقى
+398,Arzu,Female,Şimdi arkamdan kuyumu kazıyorsun ben görmüyor muyum?,الآن تحتقرني من وراء ظهري، ألا أرى؟ ,شلت حالي لحالي على طول بلا مساعدة من حدا فهمت
+399,Arkut,Male,Ya sen hastanelerde sürünürken yanında kim vardı?,من كان معك عندما كنت تتجولين في المستشفيات؟ ,مين كان معك لما دخلتي المشفى ومين اعتنى فيكي؟
+400,Arkut,Male,Takıldın bizi bir din peşine gidiyorsun.,أنت تتبعين شيئًا بعيدًا عنا. ,رحتي ركضتيلي ورا هداك المريض
+401,Selim,Male,Elbet düşüreceğim senin maskeni.  İşte o zaman,سأكشف حقيقتك في النهاية. عندها,عن قريب رح اكشفك ع حقيقتك
+402,Selim,Male,Kendi ellerimle teslim edeceğim seni adalete.,سأسلمك للعدالة بيدي. ,رح يجي وقت واكشفك وسلمك للعدالة بايديي ياحقير
+403,Arkut,Male,Belli ki senden tırtıklamak için,يبدو أنه يريد استغلالك. ,وحياتك مانو معك غير لحتى ياخد مصاريكي
+404,Arzu,Female,Sen herkesi kendin gibi mi zannediyorsun?,هل تعتقدين أن الجميع مثلك؟ ,لم شو مفكر كل العالم متلك؟
+405,Arzu,Female,Sen Ümitle ilgili böyle konuşamazsın.,لا يمكنك التحدث عن أوميت بهذه الطريقة. ,ليك. ما بسمحلك تحكي عن اوميت
+406,Arkut,Male,Sen zaten kime güveneceğini hiç bilemedin Arzu.,لم تعرفي أبداً على من تثقين يا أرزو.,والله انتي مو عرفانة مين معك ومين ضدك ارزو
+407,Arzu,Female,Sen bir annenin evlatını kaybetecek olarak biliyorsun.,أنت تعرف فقط ما يعني فقدان طفل كأم.,معقول جايين تتهموني اني انا يلي قتلتا شو هالجنان
+408,Arkut,Male,Bak bu işte yalnız değilsin.  İkimiz de topun ağzındayız.,أنت لست وحدك في هذا الأمر. نحن الاثنين تحت الخطر.,هالحكي مو عليي انا لان انا واياكي بالهوا سوا فهمانة
+409,Melek,Female,Ne diyorsun sen yine ya?,ماذا تقولين أنت مجددًا؟,لك انتي شو عم تخبصي؟
+410,Arzu,Female,Kenan senin besleme kızını kurtarmaya çalışırken ölmedi mi?,ألم يمت كينان وهو يحاول إنقاذ ابنتك المتبناة؟,ما كنان مات وهو عم يحاول ينقذك انتي وبنتك الشيطانة؟
+411,Aliya,Female,Senin ne ölüye ne direğe saygın var.,لا احترام لك لا للموتى ولا للأحياء.,مابتحترمي العايشين ولا الميتين
+412,Aliya,Female,Geçmiş karşımıza bizi hakaret ediyorsun.,لقد وقفت أمامنا وأهنتنا.,جاية تفرجيها اديش لساتك واطية
+413,Aliya,Female,"Sen evladına,  Tuğçeye doğru dürüst hiç analık ettin mi ki ha?",هل قمتِ بأمومة صحيحة لطفلك، توغتش؟,شو قدمتي ل بنتك . ل توجة. شو عملتي من واجبات الام قليلي؟
+414,Aliya,Female,Lakin sen bunu söyleyeceğim en son insansın.  Şimdi defol git.,ولكنكِ آخر شخص سأقول له هذا. الآن اغربي عن وجهي.,لان انا يلي بعرفك وبعرف شو كنتي كتير منيح
+415,Ümit,Male,Biz yine de çok dikkatli olalım.  Bu kadın bu kadar alçalabildiğine göre.,يجب أن نكون حذرين للغاية. إذا كان يمكن لهذه المرأة أن تنحدر إلى هذا الحد.,بس الاحسن ندير بالنا لان مابتعرفي شو بيطلع معا هي المرا
+416,Gonca,Female,Ya neyine güveniyorsun anlamıyorum ki.,لا أفهم على ماذا تعتمدين.,ماعم افهم كيف هالقد واثقة بحالا عنجد
+417,Gonca,Female,Sen hapse girmeyi asla göze almasın.,لن تغامري أبداً بالذهاب إلى السجن.,لو شو ماصار مستحيل تخاطري بانك تنحبسي
+418,Gonca,Female,Selim?  Neye gelmiş Selim?  Ne bileyim ben.  Beni görmemiştin değil mi?  Rahat ol.  Seni görseydi çıkmazdı zaten.  Ne yapıyorsunuz siz ya?  Ne bekliyorsunuz?  Gitsenize.  Şarjı.,سليم؟ لماذا حضر سليم؟  لا أعرف. لم ترني صحيح؟ كن هادئاً. لو كان قد رآك لم يكن ليخرج بالفعل. ماذا تفعلون يا؟ ماذا تنتظرون؟ اذهبوا. لقد شُحن.,سليم؟
+419,Arzu,Female,"Hatta ben eminim bu kadın benimle uğraşıyor,  bilmiyor musun?",حتى أنني متأكد أن هذه المرأة تتلاعب بي، ألا تعرف؟,حتى فيني اكدلك انو ماحدا عملا غيرا
+420,Melek,Female,Ya biz iyiyiz de benim asıl aklım sende Zeynep.  Ne yaptın?,نحن بخير لكن بالفعل ذهني معك يا زينب.  ماذا فعلتِ؟,ما بدنا شي  . بس .  مشغول بالي عليكي زينب ؟
+421,Gonca,Female,Mademki para senin özgürlüğünden daha kıymetli,بما أن المال لديك أهم من حريتك,وبما انو المصاري عندك اغلى من حريتك .
+422,Gonca,Female,Sen de izlenirsin gidebilirsin.  Teşekkür ederim.,أنت أيضًا يمكنك الذهاب، شكرًا لك. ,فيك تعطل  بقيه النهار
+423,Aliya,Female,Sen bir günden bir güne,منذ يوم إلى آخر,لك طول عمرا مهملة لبتنا
+424,Aliya,Female,Neden hep sen benimle ilgileniyorsun diye sorardım.,لماذا تعتني بي دائمًا أنتِ؟ ,وليش ما بتهتم فيني وحتى لما امرض ما بتجي لعندي
+425,Aliya,Female,Göreceksin bu işin altından da arzu çıkacak.,سترين أن عارزو أيضًا متورطة في هذا الأمر. ,ورح تشوفي انو اررو الها علاقه بهالموضوع
+426,Arkut,Male,Yok bir şey yok.  Sen bak işine.  Sakın Gonca.,لا لا شيء. تابعي عملك. لا تُقحِّمِي في الأمر جونجا. ,لاء مافي شي كملي شغلك
+427,Ümit,Male,Ne pahasına olursa olsun o belgeleri alacağım senden.,مهما كان الثمن سأحصل على تلك الوثائق منك. ,وبأيا تمن انا رح آخد الوثائق يلي معك
+428,Aliya,Female,"Kabristana da geleceğim dedin,  oraya da gelmedin.",قلت إنك ستأتي إلى المقبرة، لكنك لم تأتِ.,كمان ما أجيت عالمقبرة خير شو صاير معك
+429,Selim,Male,Önemli olmasaydı gelmez miydim anne biliyorsun.,إذا لم يكن مهمًا ألم أكن سأأتي يا أمي، تعلمين هذا.,ماما اكيد لو قدرت كنت اجيت
+430,Ümit,Male,O da yeri senden alacağım.,سأأخذ المكان منك أيضًا.,رح اخد الوراق غصب من عنك
+431,Selim,Male,Ben sana inanmadım abla.  Ben uyanamadım.,أنا لم أصدقك يا أختي. لم أستيقظ.,ولك انا . ما دورت وراه . وما سمعت منك
+432,Aliya,Female,Allahım sen aklıma mukayyet ol.,يا الله احفظ عقلي.,يارب ساعدني وحفظلي عقلي
+433,Aliya,Female,Allah korusun evladım.  Allah korusun.,الله يبعدهم يا بني. الله يبعدهم.,لاسمح الله ياابني الله لا يقدر
+434,Melek,Female,Ya sen ümidin dolandırıcı olduğuna hem de Arzu  ile iş birliği yaptığına nasıl ikna oldun?,كيف اقتنعتِ بأن أوميت نصّاب وأنه تعاون مع أرزو؟ ,بس فهمني كيف اقتنعت إنو نصاب . وانو شريك مع أرزو فهمنا شو صار وشو عرفت
+435,Arkut,Male,Bir yerinde duramadın değil mi Neolcan?,لم تستطع أن تبقى في مكان واحد صحيح يا نئولجان؟ ,ليش ما رديتي عليي يا غونجا
+436,Arkut,Male,Bak başına ne iş açtın Gonca niye dinlemiyorsun beni ya?,انظري لما فعلتيه لنفسك يا غونجا، لماذا لم تستمعِ إلي؟ ,شوفي لوين وصلتي حالك غونجا ليش ما سمعتي مني ليش
+437,Melek,Female,Bak gördün mü?  O adama güvenmememiz gerektiğini sana söyledim.,انظر، رأيت؟ لقد أخبرتك أنه لا يجب أن نثق بهذا الرجل. ,شفت . هاد دليل انو ما لازم نثق فيه هادا الزلمة
+438,Arkut,Male,Şimdi hırsın yüzünden canından olacaksın.,الآن بسبب عنادك، ستخسرين حياتك. ,شو بتستفيدي اذا مشان طمعك صرلك شي ؟
+439,Arzu,Female,Gonca engel olabildin mi?  Ne oldu?,هل استطعت إيقاف غونجا؟  ماذا حدث؟ ,لحقت غونجا ولا شو صار؟
+440,Arzu,Female,Bu kadın çiftliğe belgeleri götürmeye gitmiyor muydu?,ألم تكن هذه المرأة تذهب بالوثائق إلى المزرعة؟ ,المرة . كانت آخدة الوراق و رايحة عالمزرعة
+441,Orhan,Male,Ümitin evine girip aldığını söyledin mi?,هل قلت إنك دخلت منزل Ümit وأخذت شيئًا؟,قلتلو إنو كلهن جبتهن من بيت أوميت؟
+442,Orhan,Male,Artık senden yana bir şüphe kalmamıştır o zaman.,إذًا لم تبقَ أي شبهة بشأنك الآن.,يعني لازم هلأ . يأمنلك لانو صار متأكد
+443,Yusuf,Male,Ben de ona arzuların hedef şaşırtmaya çalıştığını söyledim.  Ve beni de yem alamadın.,قلت له أن الرغبات تحاول خداعه. ولم تتمكن من خداعي أيضًا.,وقلتلو انو آرزو عم تلعب على كيفها و هدفها تدمير الكل
+444,Orhan,Male,Artık o kadar kanıttan sonra bir zahmet anlasın.,بعد كل تلك الأدلة يجب أن يفهم الآن.,منيح بعد كل هالوقت انو فهم . ما احلا وما يفهم
+445,Asuman,Female,Kabak yine kesin benim başıma patlayacak ha.,يبدو أن المسؤولية ستقع عليّ مجددًا.,انا الحق عليي ليش خليتها تطلع
+446,Melek,Female,Çocuklar da çok sevinmiş seni görünce.,الأطفال أيضًا فرحوا كثيرًا عندما رأوكِ.,والبنات كتير بيفرحو فيكي
+447,Aliya,Female,Asuman hoş geldin kızım nasılsın?,أهلاً بكِ يا أسومان، كيف حالكِ يا ابنتي؟,اسومان . أهلا وسهلا بنتي . كيفك؟
+448,İnci,Female,"Abla,  gel hadi sen çizdiğin resimleri göstereyim.",أختي، تعالي لأريكي الرسوم التي رسمتيها.,أختي تعي بدي ورجيكي الرسمات اللي رسمتها اليوم
+449,Aliya,Female,Hoş geldin oğlum.  Nerede kaldın böyle?  Hoş bulduk.,أهلاً بكَ يا بُني، أين كنتَ كل هذا الوقت؟ أهلاً.,أهلين ابني . وين كنت لهلأ ؟
+450,Melek,Female,Selim çok mu yorgunsun sen?,سليم، هل أنت متعب جداً؟,سليم طمني صاير معك شي ؟
+451,Melek,Female,Yani durumu nasılmış peki?  Gördün mü sen?,كيف حالتها إذن؟ هل رأيتَها؟,يعني ما عرفت شو صاير معها ماقدرت تشوفها سليم؟
+452,DOCTOR A 508,Male,Elimizden geleni yapacağımızdan endişeniz olmasın.,لا تقلق، سنفعل كل ما بوسعنا.,عم نعمل اللي منقدر عليه وعند الله مافي مستحيل
+453,Ümit,Male,"Ayak mayak yaptığın yok benim.  Derdin neyse adam akıllı, söyle.",أنا لا أقوم بتظاهر، أيًا كان الأمر أخبرني بوضوح. ,انا ما عملت شي ابدا . قلي شو هي مشكلتك و خلصني
+454,Arkut,Male,Kimi yiyorsun oğlum sen?  Kimi?,من تحاول خداعه؟  من؟ ,عمين مفكر عم تضحك . على مين؟
+455,Arkut,Male,Efendim gibi bana bu Goncanın  çantasından aldığım belgeyi vereceksin.,ستعطيني الوثيقة التي أخذتها من حقيبة غونكا. ,رح تعطيني  يلي اخدتو من شنتة غونجا متل الشاطر انت وعم تضحك وتلعب
+456,Ümit,Male,Sen ne diyorsun ya?  Ben kimseden bir şey almadım.,عن ماذا تتحدث؟  لم آخذ أي شيء من أحد. ,انت شو عم تقول آه . انا ما اخذت شي من حدا
+457,Arkut,Male,İnkar etme bak gebertirim seni.,لا تنكر وإلا سأقتلك. ,لا تنكر احسن ما خلص عليك ولا
+458,Arkut,Male,Söyleyeyim mi ben sana?  Seninle Arzuyu!,هل أخبرك؟ أنت وأرزو! ,انا بقلك مين . انت و ارزو
+459,Arkut,Male,Bak ya bak ya bir de bana dayılanıyorsun lan.,انظر كيف تتبجح أمامي أيضًا.,ليك ولا اسماع لقلك . حاجة تنكر يلي عملتوا
+460,Arkut,Male,Ona bir şey olursa yemin ediyorum gebertirim seni.  Duydun mu?,إذا حدث لها شيء، أقسم سأقتلك.  سمعتني؟ ,وإذا بصرلا شي . يمين عظيم لحتى اطلع بروحك فهمت
+461,Arzu,Female,Gece kaçta geldin sen duymadım ben seni.,في أي وقت عدت في الليل لم أسمعك. ,حبيبي ايمتا رجعت عالبيت ما حسيت عليك.
+462,Ümit,Male,Gördün işte tamam mı?  Artık müsaade et.  Kim yaptı?,رأيتِ الآن، أليس كذلك؟ الآن اسمحي لي. من فعل هذا؟ ,شفتي هلئ تمام . و هلئ اسمحيلي
+463,Arzu,Female,İyi de senden niye şüphelenmiş ki?,لماذا شكوا فيك؟ ,اي بس هو ليش لحتى يشك فيك؟
+464,Filiz,Female,Bir şey mi oldu iyi misin?,هل حدث شيء، هل أنت بخير؟ ,في شي انت منيح ؟
+465,Murat,Male,Ya ne yapıyorsun sen baba?  Kadını iyi ki de almamış zaten.,ماذا تفعل يا أبي؟ المرأة من الجيد أنها لم تأخذها أصلاً. ,لك انت شو عم تعمل  . اصلا منيح يلي ما اشترت
+466,Murat,Male,Baba bak geldiğimizden beri bana bozuk atıyorsun.,يا أبي، منذ أن جئنا وأنت تهجم عليّ. ,بابا . ليك انا ملاحظ عليك من لما اجينا مو رايق .
+467,Elif,Female,Hakkı sen de çocuk muyacak mısın?,هاكي أنت قادم لتلعب مع الأطفال أيضاً؟ ,حقي انت ما بدك تطلع عالفرصة؟
+468,Elif,Female,"Birini sen yersin, birini ben.",واحدة لي وواحدة لك. ,وحدة الك و وحدة الي
+469,Elif,Female,Haklı gördün mü bunu ben?,هل رأيت الحق في هذا بنفسي؟ ,حقي بس انا شفتها
+470,MAN A 509,Male,Mahalleyi bulduk koçaro.  Bak bakalım senin şu akıllı telefonundan neredeymiş şu dükkan.,وجدنا الحي يا كوچارو.  انظر أين هو هذا المتجر في هاتفك الذكي.,هي لقينا الشارع .  شفلنا هلئ وين صاير المحل بالضبط تأكد من الموقع
+471,Ümit,Male,Ben bugüne kadar sana nasıl destek olduysam,كما دعمتك لغاية الآن,بوعدك متل ما وقفت جنبك لحد اليوم .
+472,Arzu,Female,Onlar ne diyeceksin değil mi?  Bak o konu çok önemli.,ما الذي سيقولونه، أليس كذلك؟ انظر هذا الموضوع مهم جداً.,انت حليتو ما هيك . ليك هالموضوع كتير مهم
+473,Arzu,Female,Sana inanamıyorum Ümit ya.  Sen gerçekten.,لا أصدقك يا أمل. أنت حقاً.,أنا ما عم صدقك اوميت .
+474,MAN A 509,Male,Çıtap çıtap üstüne kalmasın aslanım.  Hadi aslanım.  Hadi.,لا تبقَ جالساً على يديك يا أسد. هيا أسد. هيا.,اقلب المكان فوقاني تحتاني خربلو المحل كلو
+475,MAN A 509,Male,Bütün yeryüzü bana gelsin ulan!,دع كل الأرض تأتي لي يا وغد!,وتعال قاتلني الي اذا  زلمة
+476,Arzu,Female,Sen ne ara yaptın bütün bu planları?,متى قمت بكل هذه الخطط؟ ,انت ايمتا لحقت تخطط لكل هاد ؟
+477,Cevahir,Male,Valla senin gibi iki tane daha muhasebecim olsun.,والله لو عندي محاسب مالي مثل اثنين منك. ,ولله لو عندي محاسبين متلك و متل شطارتك صدقيني وقتها .
+478,Cevahir,Male,"Ayak Hanım, sen ne söylüyorsun Allaha sen?",يا أختي، ماذا تقولين بالله عليك؟,ملك خانوم .  انتي عن شو عم تحكي ما فهمت ؟
+479,Cevahir,Male,Ne ediyor belirsiz adamlar için gelmiş bana hesap mı soruyorsun?,تسألني حساب لأجل رجال غير معروفين جاءوا لي؟,ناوية تلبسيني تهمة انا ماني عاملها و تحمليني خطية الزلمة
+480,Melek,Female,"Madem öyle söylüyorsunuz,  dediğiniz gibi olsun o zaman.",بما أنكم تقولون ذلك، ليكن كما تقولون إذاً.,طالما هيك عم تقول فأعلى ما بخيلك اركبو لكن ! .
+481,Arzu,Female,"Hastanız iyi dediler,  geçmiş olsun dediler hatta bir de özür dilediler.",قالوا إن مريضتك بخير، تمنى لها السلامة واعتذروا حتى.,قالو انو المريضة منيحة . و صحتها عال العال و حتى اعتذروا مني اذا بدك
+482,Arzu,Female,İnanabiliyor musun?  Ölmemiş ya ölmemiş.,هل يمكنك أن تصدقي؟ إنها لم تمت، لم تمت.,ما عم صدق لك هي بعدها عايشة ما ماتت لسا
+483,Arzu,Female,Ölmüyor işte kadın ölmüyor dokuz canlı ölmüyor.,لا، لم تمت. المرأة لا تموت، لديها تسعة أرواح ولا تموت. ,بس المرا ما ماتت بعدها عايشة قطة بسبع رواح .
+484,Ümit,Male,Arzu tamam bir sakin olur musun?,أرجو، زن نفسك. هل يمكنك أن تهدأ؟,ارزو . طولي بالك لو سمحتي
+485,Asuman,Female,Ya karının nerede olduğu hakkında bir fikrin var mı acaba senin?,هل لديك فكرة عن مكان زوجتك يا ترى؟ ,لك انت عندك فكرة وين مرتك وشو عم تعمل ياترى ؟
+486,Arkut,Male,O işlerde usta sensin Asu.,تلك الأمور أنتِ خبيرة بها، آسُو. ,جراحة الدماغ شغلتك انتي آسو .
+487,Asuman,Female,Hayır ben anlamıyorum.  Sen onun başında olsan ne olur olmasan ne olur o zaten anlamaz ki.,لا، أنا لا أفهم. سواء كنت بجانبها أم لا، فهي لن تفهم على أي حال. ,انا ما عم افهم شو عم تعمل هنيك اصلا هي مانها حاسة بوجودك ولا دريانة بشي .
+488,Arkut,Male,Hem bak senin başında durman gereken bir şirketim var Gonca.,وعلاوة على ذلك، لدي شركة يجب أن تديرينها يا جونجا. ,بعدين لا تنسي انتي في وراكي شركة لازم تديريها غونجا .
+489,Arkut,Male,Hani çok para kazanacaktık Gonca sen söylemedin mi bütün bunları?,ألم تقل إننا سنربح الكثير من المال يا جونجا؟,مو عأساس رح نكسب مصاري كتير غونجا مو انتي قلتيلي كل هالكلام ؟ .
+490,Arkut,Male,Ama sen hiç merak etme.,لكن لا تقلقي أبداً. ,بس ما تقلقي ابدا .
+491,Arkut,Male,Yeter ki sen bir kalk da.,فقط قومي من مكانك. ,بكفي انك تقومي بالسلامة .
+492,İnci,Female,Taci olduğumu biliyorsun ama sana hiçbir şey söylemiyor.,أنت تعلم أنني تابع لك لكنني لا أقول لك شيئاً. ,و عرفتي بعدين انها بحاجة مساعدة بس هي ما قبلت تقللك شي بنوب .
+493,İnci,Female,Ama sen gidip yine de yardım eder miydin?,لكن هل كنت ستذهبين وتساعدين مع ذلك؟,ساعتها بتروحي لعندها و بتساعديها يا ترا ؟
+494,Ümit,Male,Hem nereden biliyorsun peki Gonca iyileşemeyecek?,ومن أين تعلمين أن غونجا لن تتحسن؟ ,بعدين شو بعرفنا بجوز غونجا تموت .
+495,Arzu,Female,Bırakalım yarına kadar nefes alsın.,دعها تتنفس حتى الغد. ,اتركها تاخود انفاسها الاخيرة .
+496,Melek,Female,Aslında o da senin gibi düşünüyor Selim.,في الحقيقة، هو أيضًا يفكر مثلك يا سليم. ,اصلا هو عم يفكر متلك سليم
+497,Tülay,Female,Yani iş bu.  İşte batarsın da çıkarsın da.,يعني، هذا هو العمل. أحيانًا تغرق وأحيانًا تطفو. ,يعني هيك الشغل . كل العالم  بتوقع و بترجع بتوقف
+498,Faysal,Male,Nedense bu zaman bizim armudun yanına hiç uğramamış.,يبدو أن الوقت لم يمر بجانب ثمرة أجاصنا.,ويعني يبدو الزمن ما مرق عالاجدب تبعنا ولا حس فيه
+499,Murat,Male,Senin yüzünden bütün arkadaşça  şort alınma atmış ve yükseldi.  Ulan oğlum.,بفضلك زادت مبيعات ملابس البحر لشخصيات مثل تلك. يا ولد.,ولاني ماشي معك صارو رفقاتي عندون ولدين تلاتة
+500,Faysal,Male,"E oğlum o zaman sen evlen de,  sana örnek gösterelim.",حسنا إذا إذن، تزوج وسنريك مثال.,حاج حكي و ورجينا شطارتك . وتجوز وجبلنا ولد
+501,Murat,Male,Senin bunca zamandır karın ağrın bu yüzden de,ألمك البطني طوال هذا الوقت هو بسبب هذا,مشان هيك كنت عم تحاول معي وتقنعني بهي البنت
+502,Tülay,Female,Gurur duyuyor musun şimdi kendinde?,هل تفخر بنفسك الآن؟,يعني مبسوط باللي عملتو هلأ ؟
+503,Murat,Male,Babam tutturdu onunla evleneceksin diye.,والدي مصر على أنني سأتزوجها.,ابي مصر انو لازم اتجوزها
+504,Murat,Male,Ben çok daha güzelini buldum biliyor musun abla?,وجدت شيئًا أفضل بكثير، هل تعرفين يا أختي؟,خطرتلي فكرة كتير حلوة زينب
+505,Filiz,Female,O zaman sonraki cümlenin nokta alamayı  şartları için Taylancım gelir misin?,إذا، يمكن لطيلان أن يأتي لوضع شروط التنقيط للجملة القادمة.,طيبوهلأ مين بيحب يطلع بعدها يحللنا اخر جملة . تايلان طلاع حلاا
+506,Taylan,Male,Baba ne diyorsun?  Bir şey mi biliyorsun?,ماذا تقول يا أبي؟ هل تعرف شيئًا؟,ليش عم تقولي هيك؟ . يعني بتعرفي شي؟
+507,Emrah,Male,O olsun.  Öyle değil mi?,ليكن. أليس كذلك؟,ونهدا . مو هيك؟
+508,Emrah,Male,Sen de sıkma fazla canını.,لا تعقيد نفسك كثيرًا.,لا تدايقي حالك اكتر
+509,Zeynep,Female,"Tabii, tabii Emrah Bey. Hiç şüpheniz olmasın.",بالطبع، بالطبع سيد عمرو. ليس لديكم مكان للشك.,اكيد . ما تقلق أنا رح قدم أحسن شي عندي
+510,Emrah,Male,Hadi o zaman kolay gelsin.,إذًا حظاً موفقاً.,يلا لكن .  موفقة بشغلك
+511,Arzu,Female,Ama hepsini aldın değil mi?,لكنك أخذت كل شيء، أليس كذلك؟,جبت كل الغراض مو؟
+512,Arzu,Female,Seninle buluşmaya geç kalmıyor musun sen?,ألا تتأخر أن تتلاقى معي؟,ما اتأخرت على إجتماعك مع سليم؟
+513,Ümit,Male,Sen önce benim dediklerimi yap da,عليك أن تقوم بما أخبرتك به أولاً.,انتي ما عليكي غيرتعملي متل ما قلت
+514,Selim,Male,İş kadın olmak gerçekten çok yakışmış.,لكونك سيدة أعمال يليق بك حقًا.,لان كتير لابقلك تكوني مديرة أعمال
+515,Kemal,Male,Ulan seni bulup köpek yapmasam ben de kamil değilim ha.,إذا لم أعثر عليك وأجعلك كلبًا، فلن أكون هادئًا.,لك اذا ما بطعميك قتلة لما لاقيك ما بكون اسمي كمال
+516,Elif,Female,Neden gördük biz seni çok kötü davranıyordu?,لماذا؟ رأينا أنك كنت تتصرف بشكل سيء جدًا؟,ليش نحنا شفناه كان عم يضربك ويخانقك
+517,Elif,Female,Hayır seni burada tek başına bırakamayız.  Ummaz.,لا، لا يمكننا تركك هنا وحدك. لا يمكن.,لأما رح نتركك . لحالك هون. مستحيل
+518,Elif,Female,Bırakalım da canını mı yaksın?  İzin verir miyiz?,هل نتركه ليؤذيك؟ هل نسمح بذلك؟,بدك نتركك مشان يضربك؟ . لا مستحيل
+519,Elif,Female,Hem sen arkadaşını bu halde bırakıp gider miydin?,ألن تترك صديقك في هذا الحال؟ ,بعدين قلي لو كنت بمكاننا كنت رح تترك رفقاتك عم يتعذبو هيك؟
+520,Arzu,Female,Artık ayağıma dolanamayacaksın eksiz meçhul.,لن تستطيع بعد الآن أن تلتف حولي بدون أي أثر.,أخيراً رح تروحي من طريقي ورح اخلص منك
+521,Arzu,Female,İşte kendi işini kendin halledeceksin.  Temizsin.,ستدبر أمورك بنفسك. أنت نظيف.,رح تروحي للمكان اللي بتستحقيه . يا حلوة
+522,DOCTOR A 508,Male,Hala ne bakılıyorsun öyle?  Söylediklerimi yapsana.  Hadi!,لا تزال واقفًا هناك؟ افعل ما قلته لك. هيا! ,ليش لساتك واقفة اعملي يلي قلتلك عليه . بسرعة
+523,DOCTOR A 508,Male,Sana diplomanı kim verdi anlamadım ki.,لا أفهم من أعطاك شهادتك. ,مين شغلك بهالمشفى انا ما عم أفهم
+524,Kemal,Male,Ulan sen benim başıma belan mısın ha?  Sabahtan beri sen,هل أنت مصيبتي يا رجل؟ منذ الصباح وأنت,ولك منين الله بلاني فيك؟
+525,Kemal,Male,"Ben sana evden kaçmak neymiş gösterin,  bizi bilir misin?",سأريك ماذا يعني الهروب من المنزل، هل تعرفنا؟,رح فرجيك شو يعني تهرب مني وتطلع من البيت . فوت
+526,Ümit,Male,Duydun işte.  Selim evi satıyor.,لقد سمعتِ ذلك. سليم يبيع البيت.,اللي سمعتيه . سليم اكل الطعم
+527,Filiz,Female,"Olsun,  kalanları evde tamamlayın.  Yarın kontrol ederiz olur mu?",حسناً، أكملوا الباقي في المنزل. سنقوم بالتدقيق غداً موافق؟,طيب . فيكن تحلو الباقي بالبيت ومنشوفهن بكرا ومنصصحن اي؟
+528,Ümit,Male,Ya Arzu anlamıyor musun söylediğimi?  Adam başka birini bulmuş bile neredeyse  el sıkışmak üzereler yani anlaşmışlar.,أرجو ألا تفهمين ما أقول؟ الرجل قد وجد فعلاً شخصاً آخر يستعدان للعقد أي الاتفاق نهائياً.,يا آرزو شبكي ليش ما عم تفهميني الزلمة لقى حدا يشتريها  واتفق معو على كل شي يعني الموضوع صار معقد
+529,Arzu,Female,Bunun başka yolu yok anladın mı?,لا يوجد طريق آخر، هل فهمت؟,السعر مو مهم عم تفهم ؟
+530,Tülay,Female,Ne oldu canım?  Erkencisin bugün.,ماذا حدث يا عزيزي؟ أتيت مبكرًا اليوم.,شو صاير حبيبي ليش إجيت بكير؟
+531,Elif,Female,Kulaklarını keseceğim diye bağırdı biliyor musun?,صاح قائلاً سأقطع أذنيه، هل تعلم؟ ,بتعرفي انو كان عم يقلو بدي قصلك ادانك ؟
+532,Aliya,Female,Gelsin dönsün ebediye her gün arıyorum Zeynepi.,يأتي كل يوم أتصل بزينة.,بتمنى شوفها بالبيت دائماً وماتبعد عني ابداً
+533,Melek,Female,"Sadece sana karşı değil, herkese karşı böyledir.",ليس فقط بحقي، بل هي هكذا مع الجميع.,لا تفكري انو بس معك . هيك طبيعتها من زمان
+534,Selim,Male,Her gün o iğrenç yüzünü daha iyi görüyorum senin.,أرى وجهك البغيض بشكل أوضح كل يوم.,عم شوف وجهك التاني كل يوم اكتر من اللي قبلو
+535,Selim,Male,Melih abla sen yatmadın mı daha?,أختي مليحة، ألم تنامي بعد؟,أختي ملك . لسا ما نمتي؟
+536,Selim,Male,Lütfen bu konuya karışma sen.,من فضلك لا تتدخلي في هذا الموضوع.,رجاءاً لا تتدخلي فينا
+537,Melek,Female,Zeynepcim bak evlilik dedin öyle ben  ne yaptım o ne yaptığıyla yürümez ki.,زينب، الزواج ليس كما قلتِ، هل فعلتُ شيئًا أو ماذا فعل؟ لا يمشي هكذا.,سمعي زينب الزواج مو إنو نلوم بعض ونتمسك برأينا هيك بيفشل
+538,Melek,Female,Evet.  O da senin aramını bekliyor bak.,نعم. هو أيضاً ينتظر مكالمتك، انظري.,إي . كل واحد منكن عم يستنا التاني
+539,Hakkı,Male,Abla sen mi indir alır mısın?,يا أختي هل تأخذين المنديل؟,خالة بدك محارم؟
+540,Tülay,Female,Oturduğumdan beri doğru düzgün bir şey yemiyorsun hayatım.,منذ جلست هنا، لم تأكل شيئًا بشكل جيد يا حياتي.,شو صاير من وقت ما قعدت عالطاولة ما اكلت ولا لقمة
+541,Faysal,Male,Borcum falan yok ya sen şimdi onu yani böyle,لا لا، ليس لديّ ديون، لا تفكر في ذلك.,مو مديون لحدا ولا في شي من هاد ابداً
+542,Faysal,Male,"Asıl sana günaydın, akşam oldu lan.  Ayy.",صباح الخير لك، لقد حل المساء. آه.,على شو صباح الخير صار المسا
+543,Faysal,Male,çaktırma sen de.  Tamam tamam,لا تلفت الانتباه. حسنًا حسنًا.,اي لا تواخذنا والله
+544,Faysal,Male,Herkule bak sen ya.  Ulan façayı bayağı düzeltmiş bu ha.  Şu ağaçlarla,انظر إلى هيركول. لقد أصلح هيئته بشكل جيد حقًا مع هذه الأشجار.,ارقوط ماعاد شافنا . شايف حالو ومو مصدق والله
+545,Arzu,Female,Geriye onlardan hiçbir şey kalsın istemiyorum o çiftlikte.,لا أريد أن يبقى أي شيء منهم في ذلك المزرعة.,بدي أحرق كل شي رح يتركو بهالمزرعة
+546,Aliya,Female,Seni böyle gördükçe içim parçalanıyor yavrum.,عندما أراك هكذا، أتحطم من الداخل يا عزيزتي.,والله قلبي بينقهر  لما شوفك بهلحالة يابنتي
+547,Aliya,Female,Bak böyle susmana ne sana ne de başkasına faydası yok yavrum.,انظري يا عزيزتي، لا فائدة من صمتك لك أو لأي شخص آخر.,شوفي  سكوتك ما رح يفيد حدا . ولا رح يفيدك احكي حبيبتي
+548,Aliya,Female,Sana olan alakasını bilmiyor musun?  Hiç olur mu öyle şey?,ألم تعرفي أبداً اهتمامه بك؟ هل يعقل ذلك؟,بعدين لاتحكمي عليه لنفهم منو طولي بالك شوي
+549,Aliya,Female,Lakin senin yerin burası yavrum.,لكن مكانك هنا يا عزيزتي.,بس . هون بيتك  يابنتي
+550,Selim,Male,Suç istiyorsun.  Al sana suçüstü.,أنت تريد جريمة. خذ لك جريمة بينة.,نمسكو باليد .وهي انا مسكتو
+551,Selim,Male,Evi satmaya kesinlikle iyi anlaşmıyorsun.,بالتأكيد لا توافق بسهولة على بيع البيت.,وانت اكيد ما رح تبيع المزرعة .
+552,Yusuf,Male,"Burada durmanın zaten bir manası yok Selim,  anlamıyor musun?  Hadi.",لا معنى للبقاء هنا يا سليم، ألا تفهم؟ هيا.,سليم وقفتنا هون مالها طعمة انت ليش ما عم تفهم . يلا .
+553,Selim,Male,Ama şimdi ne olacak biliyor musun?,ولكن هل تعرف ماذا سيحدث الآن؟,بس بتعرف شو رح يصير هلأ ؟
+554,Yusuf,Male,Anlıyorum seni dedim ama sakin ol.,قلت إنني أفهمك، لكن كن هادئًا.,قلتلك انا فهمانك بس روق .
+555,Selim,Male,Söyleyecek misin beni nasıl buldun?,هل ستخبرني كيف وجدتني؟,رح تقوليلي كيف لاقيتيني ؟ .
+556,Melek,Female,Sonrasında bir telefon görüşmesi yapıyordun.,ثم كنت تجري مكالمة هاتفية.,ووقتا انت كنت عم تحكي عالموبايل
+557,Melek,Female,Ya bizim nasıl kahrolacağımızı hiç tahmin etmedin mi?,ألم تتوقع كيف سنحزن؟,ما فكرت قديش رح نزعل ما فكرت فينا
+558,Ümit,Male,Üstü gelin ne sonunda senin olacak?,في النهاية سيكون لك.,هالمزرعة رح تكون النا بالنهاية .
+559,Yusuf,Male,götmek istiyorsun.  Sana zarar ver.,تريد أن تذهب بها. تضر بنفسك.,انت معصب كتير هلئ ! .
+560,Yusuf,Male,Tevri hareket ederek yapamazsın.  Planlı hareket et.,لا يمكنك التصرف بعشوائية. خطط بتحركاتك.,ما فيك تتخلص منهون بهالطريقة .
+561,Ümit,Male,Satmıyormuş ya inanabiliyor musun gerçek herif,إنه لا يبيع، هل يمكنك أن تصدق ذلك، الرجل الحقيقي.,اي ما بدو بتصدقي اديشو غبي
+562,Ümit,Male,Galiba ben de senin gibi düşünüyorum.,أعتقد أنني أفكر مثلك.,و انا هيك رأيي في شي!
+563,Arzu,Female,Bu ebedi uykusundan hiç uyanmasın.,ألا تستيقظ من نومها الأبدي أبدًا.,انها ما تفيق من غيبوبتها بنوب .
+564,Arkut,Male,Bilmem mi abi ben seni ya?,أفلا أعرفك يا أخي؟,اي لكن انا يلي بعرفك .
+565,Arkut,Male,Ceyiz arabana bizi de koydun.,وضعتنا أيضًا في سيارة الجهاز.,كرمال هيك انت بعتنا .
+566,Arkut,Male,Çektin gittin hiç arkana dönüp bakmadın.,لقد اختفيت دون أن تنظر للخلف.,رحت وما عاد اتطلعت وراك حتى
+567,Arkut,Male,Şimdi ne oldu da geliyorsun?  Aşk olsun.,الآن ماذا حدث حتى تأتي؟ هذا لطف منك.,شو عدا ما بدا هلئ !
+568,Arkut,Male,Abi gözünü seveyim bırak bu ayakları ya.  İyi kötü tanırım ben seni.,بحق الله، اترك هذا الكلام. أعرفك جيدًا.,اطلع بعيوني و شيلك من هالحكي لك انا حافظك بصم !
+569,Arkut,Male,"İyi ettin abi, hoş geldin de.",أحسنت لقدومك يا أخي، مرحبًا بك. ,لا بالعكس اهلا وسهلا فيك .
+570,Faysal,Male,"Ya Erkut, vallahi günahım alıyorsun ya.",يا أركوت، والله إنك تأخذ عليَّ ذنوبي.,يا ارقوط . والله انت عم تظلمني هيك .
+571,Zeynep,Female,Senin barışmak için senden bir adam bekliyor dedim.,قلت لها إنه ينتظر منك أنك تبادرين بالمصالحة. ,وقالتلي انو سليم عم ينتظر خطوة مني ناطرني انا حاكيه .
+572,Zeynep,Female,Ama o ne yaptı biliyor musun?,لكن هل تعلمين ماذا فعل؟ ,بس هو شو عمل بتعرفي يا ترا ؟
+573,Zeynep,Female,Bir de ne dedi biliyor musun?,هل تعلمين ماذا قال أيضا؟ ,و بتعرفي شو قلي .
+574,Zeynep,Female,Ya ben oraya evliliğimizi kurtarmaya gittim farkında mısın?  Bundan daha önemli değil.,ما هو الشيء المهم الذي يمكن أن يكون لشخص؟ ,انا رحت لهونيك لحتى انقذ زواجنا إذا مانك ملاحظة .
+575,Zeynep,Female,Gördün mü?  Sen de bir cevap veremiyorsun işte.,هل رأيت؟ لا يمكنكِ حتى أن تردي.,شفتي . وانتي ما عندك جواب مو هيك ! .
+576,Tülay,Female,Sen üzülüyorsun diye bizim canımız yanıyor.,لأنكِ حزينة، نحن نتألم.,اذا ما زعلت كرمالك على مين بدي ازعل !
+577,Zeynep,Female,Abla sağ ol zahmet etmişsin ama canım bir şey istemiyorum.,أختي، شكراً لقد تعبتي ولكنلا أريد شيئاً يا حبيبتي.,يسلمو ايديكي عذبتي حالك بس .
+578,Tülay,Female,Sen bir şey yemeyince bak,عندما لا تأكلين شيئاً، انظري,انتي . لما ما بتاكلي .
+579,Melek,Female,Bir şey mi oldu yoksa okulda falan bir şey mi dediler sana?  Yok.,هل حدث شيء في المدرسة أم قالوا لكِ شيئاً؟ لا.,صاير شي ولا . حدا دايقك بالمدرسة ماما ؟
+580,Ümit,Male,Ya ben senin için her şeyi göze alırken,بينما أنا كنت مستعداً للتضحية بكل شيء من أجلك,لك انا كرمالك تخليت عن كلشي .
+581,Elif,Female,Senin çok güzel bir haberin var.,لديك خبر رائع جداً. ,انا عندي اخبار حلوة كتير
+582,Selim,Male,Haklı olabilirsin.  Belki de ortak.,قد تكون محقاً. ربما شريك.,يمكن معك حق
+583,Filiz,Female,Neden sordum?  Yoksa eve gitmek için sabırsızlanıyor musun?,لماذا سألت؟ أم أنك متشوق للذهاب إلى المنزل؟,ليش عم تسأل . ولا مالك مصدق ايمتا تروح عالبيت؟
+584,Kemal,Male,Ben sana demedim mi?  Bu eve para getirmeden okula falan gitmek yok diye.  Demedim mi?,ألم أخبرك؟ لا تذهب إلى أي مدرسة دون أن تجلب المال إلى هذا المنزل. قلت لك أم لا؟,مو الف مرة قلتلك .  ما بتروح عالمدرسة اذا ما بتجيب مصاري
+585,Selim,Male,Sen ne yaşadıysan bitmek bilmeyen hırsını yüzden yaşadım.,"مهما مررت به، فهو بسبب طموحك الذي لا ينتهي.
+",انتي عملتي بحالك وكل شي صار معك صار من ورا طمعك
+586,Kemal,Male,Zaten bir işe yaradın da yok.,لم تكن مفيداً بأي شكل من الأشكال.,مافي منك فايدة
+587,Kemal,Male,Sen iyi bir ders hak ettin ha.,أنت تستحق درساً جيداً.,مبين انك ما عم تفهم
+588,Kemal,Male,Gel buraya ağzını payını vereyim senin.,تعال هنا وسأريك عقابك.,تعا لهون لعلمك كيف ما تبيع
+589,Kemal,Male,O yanatlarını daha çok tutarsın.  Tamam mı?,ستكون بحاجة إلى الاحتفاظ ببعض للغد، حسناً؟,بدك تاكل قتل كتير . فهمت؟
+590,Arzu,Female,Ne diyorsun sen be?  Ne yapışır baksana haksız.,عما تتحدثين؟ ماذا عن الانضمام إلى الفريق؟  انظر إلى نفسك كم أنتي مخطئة.,شو عم تقولي وليه .عرفي حدودك  احسنلك
+591,Ümit,Male,Arzu yeter dedim sana tamam mı?  Yürü gidiyoruz.,قلت لك كفى يا أرزو، حسناً؟ نمشي.,آرزو . عم قلك بيكفي فهمتي  يلا امشي
+592,Aliya,Female,Odan da göremeyince sabah sabah nereye gitti diye merak ettim seni.,قلقت عليك، عندما لم أجدك في غرفتك صباحًا. أين ذهبت؟,من الصبح رحت على غرفتك لشوفك مالقيتك قلت لاجي شوفك هون
+593,Aliya,Female,Uyan uğrayanmaz çalışmaya mı başladın evladım?,هل بدأت العمل دون أن تستيقظ يا ابني؟,ليش صاحي من بكير وجاية تشتغل ياابني ؟
+594,Aliya,Female,Senin öyle temiz bir kalbin var ki,لديك قلب نظيف جدًا,لانك طيب وقلبك نضيف وكبير
+595,Aliya,Female,Kötülük aramadın da ondan oğlum,لم تبحث عن الشر لذلك يا بني,وما بتقدر تكون سيء ياابني
+596,Aliya,Female,Ben çayları koyayım.  Sen de elini yüzünü yıka.,سأجهز الشاي، اغسل يديك ووجهك.,لبين ما اعمل الشاي بتكون جهزت حالك
+597,Aliya,Female,Hadi geç kalmama sıcak sıcak gelsin.,أسرع لتأتي ساخنة ساخنة.,يلا . لا تتاخر مشان ما يبرد الاكل
+598,Ümit,Male,Abuzo bir sakin olur musun?  Ne yapıyorsun?,عبو، هل يمكنك أن تهدأ؟ ماذا تفعل؟,طولي بالك يا ارزو شو عم تعملي؟
+599,Ümit,Male,"İstersen bugün kahvaltıyı dışarıda yapalım,  mahnedersin.",إذا أردت يمكننا تناول الفطور في الخارج اليوم، ماذا تقولين؟,شو رأيك نطلع نفطر  برا وبلا القهوة
+600,Arzu,Female,Benim kahvaltı yiyecek halim mi var kafayı mı yedin sen?,هل ترين أنني في حالة لتناول الفطور؟ هل فقدت عقلك؟,بدك ياني افطر بدون ما اشرب قهوة ؟
+601,Arzu,Female,Benim sinirlerim allak bullak oldu.  Ama bakıyorum ki sende hiçbir sıkıntı yok.,أعصابي مدمرة بالكامل. ولكن أرى أنه ليس لديك أي مشكلة.,وعقلي  ما عم يتحمل رح يطير من محلو. بس انت شكلك مو فارقة معك
+602,Ümit,Male,Hayatım nasıl böyle konuşuyorsun ya?  Ben nasıl rahat olayım?  Dün gece uyku uyuyamadım bunları düşüneceğim diye.,حياتي، كيف تتحدثين هكذا؟ كيف يمكنني أن أكون مرتاحاً؟ لم أستطع النوم الليلة الماضية بسبب التفكير في كل هذا.,شو هالحكي اللي عم تحكيه  ليش هيك عم تعملي انا ما قدرت نام طول الليل وانا عم فكر
+603,Ümit,Male,Ya sen ne yaşıyorsan ben de aynısını yaşıyorum.,أيّاً ما كنتِ تمرين به، أعيش الشيء نفسه.,انا عم عيش نفس الشي اللي عم تعيشيه
+604,Arzu,Female,Gitmekle biz bu işi çözemeyiz anladın mı?  Hiçbir yere varamayız.,لن نحل هذا الأمر، هل تفهم؟ لن نصل إلى أي مكان.,اذا طلعنا نفطر برا . بتنحل كل مشاكلنا مثلا ولا شو فهمني
+605,Arkut,Male,Uyanır uyanmaz o galgeleri almam lazım senden.,بمجرد أن تستيقظ، علي أن آخذ تلك الأوراق منك.,انا لازم اوصل للمستندات اول ما تصحى غونجا
+606,Arzu,Female,Evet doğru anladın.  Goncayı öldüreceksin.,نعم، فهمت بشكل صحيح. ستقتل جونجا.,اي  . بدك تقتلها غونجا لازم تموت
+607,Arzu,Female,Nereden biliyorsun görmediğini?  Uyandığında ilk senin peşine düşecek.,كيف تعرف أنها لم ترَك؟ ستلاحقك أولاً عندما تستيقظ.,عم تقول غونجا ما شافتك . لانها كانت عم تحاول تبعدك عنها
+608,Ümit,Male,"Ben de bu yüzden diyorum zaten sana kaçıp gidelim,  her şeyi arkamıza bırakalım ha.",لهذا أقول لنرحل ونترك كل شيء وراءنا، هاه؟,شفتي كيف هي سبب جديد يخلينا نقتنع انو لازم نهرب بأسرع وقت
+609,Arzu,Female,Ve sen gerçekten eğer beni seviyorsan,"وإذا كنت فعلاً تحبني
+",لهيك . لازم تعمل حسابك لهالشي
+610,İnci,Female,Bana yardım edeyim Meri Fabra sana.,فلأساعدكِ ميري فابرا لكِ.,انا رايحة ساعدها خالتي ملك
+611,Elif,Female,Sokakta mendil satmak zorunda kalmasın.,حتى لا يضطر لبيع المناديل في الشارع.,وما يكون مضطر يروح مشان يبيع محارم
+612,Melek,Female,"Yok Selim, hiç gerek yok.  Sen kendi işlerine ilgilen.",لا داعي لذلك يا سليم. اهتم بأمورك.,مافي داعي لاتعذب حالك انت روح على شغلك
+613,Elif,Female,Teşekkür ederim amca sana da iyi çalışmalar.,شكرًا عمي، نتمنى لك أيضًا عملًا جيدًا.,شكرا كتير الك عمو والله يوفقك بشغلك
+614,Selim,Male,"Ne yapayım anne, ne istiyorsun?",ماذا أفعل أمي، ماذا تريدين؟,شو اعمل امي  شو بدك؟
+615,Aliya,Female,"Sen benim oğlumsan, Zeynep de benim kızım.",أنت ابني، وزينب هي ابنتي.,متل ما انت ابني . زينب بنتي كمان
+616,Selim,Male,Ben hatalıyım yani sen de mi bunu düşünüyorsun?,هل أنا مخطئ، هل تفكرين هكذا أيضًا؟,يعني . انا طلعت غلطان هيك قالتلك؟
+617,Aliya,Female,Söz konusu insanın ailesiyse her şeyi  bir yana bırakır eşin yanında olursun.,إن كانت الأمر يتعلق بعائلة الناس، فإنك تترك كل شيء وتقف إلى جانب زوجتك.,الزلمة اللي بيهتم بعيلتو بيترك كل شي . وبيهتم بمرتو. ما بيتركها ابني
+618,Arzu,Female,Ben çok fazla kas makamda.  Refakatçi misin gibi.,أنا أميل كثيرا للمركز. كأنك مرافق.,المهم ما تتوتر كتير خليك عم تتصرف طبيعي
+619,Arzu,Female,"Bir şekilde geçtirirsin.  Öldüm yoksa Allah kahretsin.  Allah kahretsin, Allah kahretsin.  Çak.",تجاوزها بطريقة ما. هل مات؟ اللعنة عليه. اللعنة عليه، اللعنة عليه. انتقل.,تصرف عادي كتير
+620,Arzu,Female,"Ümit ama söz vermiştin.  Tamam dedin, kabul ettin.",أميت لكنك وعدت. قلت حسناً، قبلت. ,اوميت شبك انت وعدتني . شو صرلك ليش تراجعت ؟
+621,Ümit,Male,Sana acı çektiren birinden intikam almak başka bir şey.,الانتقام من شخص يجعلك تتألمين شيء آخر. ,لازم تفهمي انو هالشي مختلف تماماً عن اني  اقتل انسان
+622,Arzu,Female,Önümüze çıkan bütün engelleri yenmek zorundayız.  Anlıyor musun?,علينا أن نتغلب على جميع العوائق التي تقف في طريقنا. هل تفهمين؟,لازم نتخلص من اي حدا بيوقف بوشنا . عم تفهم ؟
+623,Arkut,Male,Ne işin var lan senin burada?,ماذا تفعل هنا، يا صديقي؟,شو عم تعمل هون شو جابك؟
+624,Ümit,Male,Ne yapıyorsun lan sana?  Eşkıya mısın?,ماذا تفعل يا رجل؟  هل أنت لص؟ ,مين مفكر حالك ولا . شو بدك؟
+625,Elif,Female,Bu paraları görünce ne kadar çok sondu görmedin mi?,ألم ترَ كم كانت تلك الأموال تُغري؟,فكرتو رح يعامل حقي بطريقة منيحة بس ماعمل هيك
+626,Kambur,Male,Demek beni ipe götürmek isteyen avukat sensin.,إذن أنت المحامي الذي يريد إرسالي إلى حبل المشنقة.,لكان إنت يلي كنت عم تحاول تبعتني عالموت حضرة محامي
+627,Kambur,Male,Kambur diyeceksin.  Kambur.  Ama öğreneceksin.,ستقول قوزباغي. قوزباغي. لكنك ستعرف.,بتناديلي كامبور، كامبور.
+628,Kambur,Male,"Sen beni yor, ben seni yorayım.",آمِلك، آمِلني.,يعني لا أنا بزعجك، ولا إنت بتزعجني.
+629,Kambur,Male,Bu dünyada herkesin bir nedeni vardır.,على هذه الأرض لكل شخص سبب.,بس بهالدنيا ، كل حدا إلو سعر.
+630,Damla NEW,Female,Sen benim yanımdayken bana hiçbir şey olmaz.  Sen beni korursun.,لن يحدث لي شيء وأنت بجانبي.  أنت تحميني. ,طالما انت معي ما بيصرلي أي شي. إنت بتحميني
+631,Kambur,Male,Ben sana adam gibi geldim.,جئت إليك كرجل محترم. ,انا اجيت لعندك لنتفاهم
+632,Kambur,Male,Ama sen ne yaptın avukat?,لكن ماذا فعلت أيها المحامي؟ ,بس شو عملت يا حضرة المحامي؟
+633,Kambur,Male,Sana bu davadan çekil dedim.,قلت لك انسحب من هذه القضية. ,قلتلك اتروك هالقضية وبعد عنها
+634,Yusuf,Male,Kös göre göre yüz çeviremezsin.,لا يمكنك أن تدير ظهرك وأنت ترى.,وبصراحة انا ما قدرت ارفض،
+635,Ümit,Male,Bu işi halletmeden karşıma çıkma dedin.,قلتِ لي لا تظهر بدون أن تنتهي من العمل.,قلتيلي ما ارجع لحل القصة
+636,Ümit,Male,Bir de üstüne dayak mı yedim diyeceğim sana ha?,وهل سأقول لك أنني ضربت فوقها؟ ,انتي طلبتي مني انو حل الموضوع
+637,Ümit,Male,Keşke benden bu kadar çabuk vazgeçmeseydin.  Keşke.,أتمنى لو لم تتخلى عني بهذه السهولة.  أتمنى. ,يا ريت لو انتي ما تخليتي عني بهالسهولة، ياريت
+638,Ümit,Male,Benim seni sevdiğimi onda biri kadar sevemeyeceksin.,لن تحبني حتى قدر عشر ما أحبك. ,مارح تحبيني متل ما أنا حبيتك أرزو
+639,Arkut,Male,O arzu denilen pislik senin yokluğunda  herkese ne oyundan oynuyor bir bilsen.,لو تعلمين ما يفعل ذلك الشرير المسمى آرسو في غيابك للجميع.,بس لو انك تعرفي هالوسخة أرزو كيف طلعت عم تلعب بالكل،
+640,Aliya,Female,Lakin senin neye canın sıkıldığını biliyorum.  Zeynepe üzülüyorsun.,لكنني أعلم ما يزعجك. أنت حزين لأجل زينب.,بعرف انه قلبو كتير محروق على زينب، ولساتو مجروح
+641,Aliya,Female,"Zeynep ayrı kahroluyor, sen ayrı.",زينب تعاني حزناً، وأنت كذلك.,زينب مقهورة هنيك، وانت كمان
+642,Emrah,Male,Işık kızıyla akşam hazırladın beni.,لقد جهزتني لليلة مع ابنة النور.,قدرتي تجهزيلي كلشي بسرعة
+643,Tülay,Female,Sen şimdi hemen koş git onun yanına.  Kızım sana çok ihtiyacı vardır.  Hadi hadi.,عليكِ الذهاب إليه فوراً. إنه يحتاجكِ جداً يا ابنتي. هيا هيا.,أنا برأيي الأفضل تروحي لعنده بسرعة، هوه كتير محتاجك يا بنتي يلا يلا
+644,Zeynep,Female,Allahım ne olur Selime bir şey olmasın ya ne olur.,يا الله، لا تجعل شيئاً يصيب سليم، أرجوك.,دخيلك يا ربي انشالله ما يصير شي لـ سليم،
+645,Cevahir,Male,İlahi ferahı alem kadır sana.,يتجلى الإله في الكون لك.,عنجد ضحكتيني انتي كتير مهضومة
+646,Ümit,Male,Hayır hayır hayır tabii ki hayır.  Veremezdin ki.  Daha büyük ne olabilir?,لا، لا، لا بالطبع لا. لم يكن بإمكانك إعطائي. ما هو الأكبر من ذلك؟,لا لا لا طبعاً لا، ليش يعني، لسا شو في اكبر من هيك؟
+647,Ümit,Male,Bunu biliyor musun her zaman?,هل تعلم هذا دائمًا؟,بس بتعرفي أرزو؟
+648,Ümit,Male,Sen beni kandırdın.  Aşkını kullanarak,خدعتني مستخدمةً حبك,انتي اتضحكتي عليي، استغليتي حبي إلك،
+649,Arkut,Male,"Ama böyle olmaz Gonca, artık uyanacaksın.",لكن لا يمكن أن يكون هكذا يا غونجا، عليكِ أن تستيقظي الآن.,بس هيك ما بيصير غونجا لازم تفيقي بقى.
+650,Arzu,Female,Sen başkaları tarafından emri verilip çalıştırmaya alışmışsın çünkü.,لأنك اعتدت أن تؤمر وتعمل تحت إمرة الآخرين.,لأنك، متعود دائما تقضي حياتك وانت متخبي بظل التانيين
+651,Ümit,Male,Ben senin istediklerini yapardım.  Ama ben ne yaptım?,كنت سأفعل ما تودين. ولكن ماذا فعلت؟,كنت ساويت يلي طلبتيه مني. بس أنا شو عملت؟
+652,Arzu,Female,Başkaları tarafından böyle güdülmeye mahkumsun.,محكوم عليك أن تساق من الآخرين.,لازم تضل تحت سيطرة حدا تاني متل المحكوم
+653,Arzu,Female,Ne biçim konuşuyorsun sen ya?  Ağzını topla.,كيف تتحدث بهذا الشكل؟ نظم فمك.,شو هالكلام يلي عم تحكيه. انتبه ع كلامك
+654,Arzu,Female,Sen ne diyorsun ya?  Senin ağzından çıkan kulağın duyuyor mu?,ماذا تقول؟ هل تسمع أذنك ما يخرج من فمك؟,شو هاد يلي عم تقولو آه؟ انت عم تسمع يلي عم تقولو؟
+655,Arkut,Male,Oğlum Erkut sen de yırttın.,يا إركوت، لقد نجحتَ أيضًا.,انا بتشكرك يا ربي
+656,Zeynep,Female,Bir gelmeseydim de  görmeseydim seni öyle.  Allahım ne olur bir şey olmasın ona.  Pelin?  Selim?,ليتني لم آتِ ولم أراكِ هكذا. اللهم لا يصيبها أي مكروه. بيلين؟ سليم؟,يا ريت ما إجيت لهون وشفت يلي شفته
+657,Zeynep,Female,Çok ben beni silip atmışsın bile.,أنت قد محيتني تماماً.,انت، عايش حياتك مبسوط وما عم تتذكرني
+658,Zeynep,Female,Al işte gördün mü sevdiğin adamı?,ها، هل رأيتِ الرجل الذي تحبينه؟,انتي شفتي الرجال يلي حبيتيه
+659,Pelin,Female,"Ben benim asistanıma söylerim,  sana broşürleri yollar.",سأطلب من مساعدتي إرسال الكتيبات إليك.,أنا رح ابعت خبر للسكرتيرة، مشان تبعتلك البروشورات
+660,Pelin,Female,Sen boş bir vaktinde onları incelersin.,يمكنك دراستها في وقت فراغك.,وانت بتشوفهن وبتقرر يلي بدك ياه
+661,Selim,Male,"Tamam.  Ee, ben şuraya bazı eksiklikler not almıştım.  Bir de sen bak istersen.",حسناً. إي، لقد سجلت بعض النواقص هنا، ربما تودين النظر فيها.,تمام، أأأ، شوفي تقريبا أنا جهزت كل الميزانية عطيني رأيك
+662,Cevahir,Male,"O hırsız kimseyi hemen çıkartsın, koysun parayı.",دع ذاك السارق يظهر فورًا ويعيد الأموال.,بنصحكن تخلوا الحرامي يرجع المصاري
+663,Cevahir,Male,Ne yapıyorsun sen be?  Daha bunamadım ben.  Bana bak.,ماذا تظن أنك تفعل؟ لم أُصاب بالخرف بعد. أنظر إليّ.,شو هالحكي الفاضي؟ لسا أنا ما خرفت
+664,Arkut,Male,"Ne güzel açtın gözlerini, sevindirdin beni",يا لها من عينين فتحتها، جعلتني سعيداً,صدقيني كتير فرحت لما فتحتي عيونك
+665,Cevahir,Male,Sen mi aldın benim paramı?  Konuşsana çocuk!,هل أخذت نقودي؟ تحدث أيها الصغير! ,انت الي أخدتلي مصاريي ؟
+666,DOCTOR A 508,Male,Lütfen burada beklemeye devam edin.,يرجى البقاء هنا. ,لو سمحت ، ممكن تضل هون
+667,Cevahir,Male,Konuşsana çocuk!  Sen mi aldın lan benim paramı?,تحدث أيها الصغير! هل أخذت نقودي يا ولد؟ ,يلا قول يا ولد ، انت يلي سرقتلي مصاريي؟
+668,Cevahir,Male,bağırıyor.  Masamın üstünde duran parayı sen mi aldın?  Ne oluyor Cemil?,يصرخ. هل أخذت النقود التي على طاولتي؟ ماذا يحدث يا جميل؟ ,و صدقني اذا بتعترف ، و بترجعلي المصاري بهاللحظة ما رح حاسبك
+669,Fatin,Female,Ne olmuş bu olay peki?  Ya sen,"ماذا حدث في هذه الحالة إذاً؟
+",طيب ايمتا صار هادا الشي ؟
+670,Selim,Male,O zaman senden haber bekliyorum ben.,إذن أنتظر منك خبراً. ,معناتا عم بستنى خبر منك
+671,Pelin,Female,Yani Zeynep en ufak bir şeyde evi terk edip gidecek bir kız değildir.  Bunu sen çok iyi biliyorsun.  Anla.,زينب ليست من النوع الذي يترك البيت لأبسط الأمور. أنت تعرف ذلك جيداً. ,بس زينب ، مو من البنات يلي ممكن تطلع من البيت من مشكلة صغيرة ، و انت بتعرف هالشي منيح
+672,Cevahir,Male,Sen hangi ara geldin de aldın o parayı?,متى أتيت لأخذ النقود؟ ,انتي ايمتا اجيتي و أخدتي المصاري ؟
+673,Cevahir,Male,Sen hangi ödemeden bahsediyorsun?  E tedarikçi.,عن أي دفعة تتحدثين؟ يا مورد. ,عن أي دفعة انتي عم تحكي؟
+674,Fatin,Female,Ya siz ödeme deyince ben de hemen gidip tedarikçinin  ödemesini halledeyim de çıksın bari aradan dedim.  Neyse.,عندما ذكرتم الدفع، قلت لنفسي لأذهب وأحل مدفوعات المورد لكي نخرج منها على الأقل. على أي حال. ,لما حكيت عن الدفعات ، انا ،  فكرت فورا انو المصاري المورد ، أخدتن و عطيتو ياهن
+675,Cevahir,Male,Mesele halledildiğine göre herkes işinin başına dönsün.  Hadi.,بما أن المسألة تمت، فليرجع كل شخص لعمله. هيا. ,بما انو انفهم الموضوع كل واحد يرجع عشغلو ، يلا
+676,Behriye,Female,Senin dilin yine çok uzadı.,لسانك طال من جديد. ,لسانك صار طويل زيادة
+677,Melek,Female,Hadi herkes çalışmaya devam etsin.,هيا، دعوا الجميع يستمر في العمل. ,يلا كل وحدة ترجع على شغلا
+678,Ümit,Male,Evet siz satışa bir önce başlayın acele edin.,نعم، ابدأوا في البيع في أقرب وقت  أسرعوا. ,أي لازم نبيع كلشي بأسرع وقت
+679,Asuman,Female,Aa sonra kim acısın ki zaten?  Cık!,آه، ومن سيرحم لاحقًا على أي حال؟ لا! ,شو كنتي متوقعه يعني ؟
+680,Asuman,Female,Bir daha gitmeyeceksin o zaman değil mi?  Buradasın yani.,إذاً لن تذهب ثانية، أليس كذلك؟ يعني أنت هنا. ,يعني رح تضلي هون و ماعد تسافري؟
+681,Asuman,Female,Şey ya ben beş dakika içinde hemen toparlarım.  Sen şey yapma geç otur böyle ben hallederim.,سأقوم بترتيب كل شيء في خمس دقائق. لا تقلقي، اجلسي هكذا، سأهتم به. ,انتي لا تاكلي هم ، انا بخمس دقايق برتب المكان انتي فوتي ارتاحي جوا
+682,Arzu,Female,Bu evin hali ne ya?  Ben sana evi böyle mi bıraktım?,ما هو حال هذا البيت؟ هل تركته لك هكذا؟ ,معقولة هالحالة هي ؟ ، مو هادا البيت بأمانتك ؟
+683,Ümit,Male,Ben senin için kendimi kaç kez ateşe attım.,كم مرة ألقيت بنفسي في النار من أجلك. ,انا خاطرت بكتير شغلات مشانك
+684,Tülay,Female,Biz siz barışın diye aranız düzeltsin  diye yaptık yani kötü bir niyetimiz var.,"فعلنا ذلك لتصالحكم، لدينا نية سيئة.
+",صدقيني ، ساوينا هيك ، مشان تتصالحوا و تزبط علاقتكن ما كانت نيتنا سيئة
+685,Arzu,Female,Dursun Bey ben size bir şey soracağım,سيد دورسن، سأطرح عليك سؤالاً ,طيب انا بدي اسألك عن شي
+686,Elif,Female,"Anne,  bir dakika bulamadın mı?",أمي، دقيقة، ألم تجديه؟,أمي بترجاكي بس دقيقة
+687,Aliya,Female,Haklısın.  Kaş yapalım derken göz çıkarttık.,معك حق. أردنا أن نصلح الأمور وزدنا الطين بلة.,معن حق ، الظاهر انو ما كان لازم نتدخل بهالموضوع
+688,İnci,Female,Aha Elif abla geldin mi?,آه، هل وصلتِ يا أختي ألف؟,آه آه آه أخيرا انتي اجيتي أليف ؟
+689,Aliya,Female,Ay kurban olurum ben senin o minik ellerine.,يا، أضحي بك لأجل يديك الصغيرتين. ,انا بفديكي بروحي ، تسلمي لقلبي
+690,Tülay,Female,Ama bak yapma böyle.  Sen böyle üzüldükçe benim içim parçalanıyor.,ولكن انظري، لا تفعلي هذا.  كلما كنتِ حزينة، ينشطر قلبي. ,بس ، رجاء لا تساوي هيك ، لما شوفك زعلانه و مهمومة بيتقطع قلبي
+691,Melek,Female,Ee ısınılsın bakalım biraz daha.,حسناً، لنقم بالتدفئة قليلاً بعد. ,اييييه ، انشالله دفيتوا شوي هلق ؟
+692,Melek,Female,Hakkıcığım sen büyüyünce ne olmak istiyorsun bakayım?,عزيزي حقي، ماذا تريد أن تصبح عندما تكبر؟ ,حقي ، انت شو بتحب تصير بالمستقبل؟
+693,Hakkı,Male,Nasıl yani?  Annenlere ne diyeceksin peki?,ماذا تقصد؟ وماذا ستقول لأمك؟ ,كيف يعني ؟ ، بعدين انتي شو رح تقولي لأمك؟
+694,Hakkı,Male,Ama eğer benim gitmediğimi anlarsan sana kızmazlar mı?,لكن إذا اكتشفوا أنني لم أذهب، ألا يلومونك؟ ,طيب اذا عرفوا انو انتي خبيتيني هون ، وقتا ما بعصبوا عليكي ؟
+695,Elif,Female,"Hakkı, Hakkı bak, sana getirdim.",حقي، حقي انظر، لقد أحضرت لك. ,حقي ، انت عم تشوف؟ ، جبتلك جاتو
+696,Melek,Female,Eee ne misin buraya koyduğunu?,لا أتذكر ما إذا كنت قد وضعت شيء هنا؟ ,ايه ، اكيد حطيتيهن هون .؟
+697,Aliya,Female,Bak azıcık içimiz ısınsın diye çay demleyeyim dedim.,فكرت أن أقوم بتحضير الشاي قليلاً لتدفء قلوبنا. ,حتى ، شوفي حطيت الابريق عالغاز لساوي شاي
+698,Melek,Female,Hadi sen de geç içeri.  Otur dinlen biraz.  Ben demlerim çayı.,هيا ادخلي واستريحي قليلاً. سأقوم بتحضير الشاي. ,يلا انتي روحي على الصالون ، اقعدي وارتاحي وانا بساوي الشاي
+699,Aliya,Female,Hadi sen de üstüne bir şey alışıltma çok soğuk burası.,هيا، ارتدي شيئًا، الجو هنا شديد البرودة. ,وانتي البسي شي سميك  بلا ما تاخدي برد
+700,Selim,Male,Ya anne bizim bir tane daha asılıcımız olacaktı.  Nereye koymuştuk hatırlıyor musun?,يا أمي، أليس لدينا مدفأة أخرى؟ أين وضعناها؟ هل تتذكرين؟ ,إمي ، نحنا كان في عنا دفاية غيرها ، بتتذكري وين حطيناها ؟
+701,Melek,Female,Doğru diyorsun.  Hadi o zaman.,أنت محق. هيا إذًا. ,مزبزط يلي عم تقولو ، يلا خلينا ندور
+702,İnci,Female,Sana da iyi geceler Melik teyze.,وأنتِ أيضًا، ليلة سعيدة يا خالة ميليك. ,وانتي كمان تصبحي على خير خالة ملك
+703,İnci,Female,Elif abla Hakkı abi yasın.,يا أختي إليف، أخي حقي حزين. ,صحيح اليف ، شو صار مع حقي ؟
+704,Hakkı,Male,Ama olsun evde olmaktan iyidir.,ولكن أفضل من أن نكون في المنزل. ,بس مو مشكلة ،  هون أفضل من بيتنا
+705,Aliya,Female,Isındım yavrum ısındım sağ olasın.,أصبحت دافئة يا عزيزي، شكرًا لك. ,ايه الحمدلله دفيت ابني شكرا الك
+706,Aliya,Female,İnatla bir yere varılmaz bilmiyor musun?,ألا تعلم أن الإصرار لا يصل إلى مكان؟,ما بتعرف انو ما رح توصل لشي بالعناد ؟؟؟
+707,Tülay,Female,Haddimiz olmadan işimize karıştığımız için kızıyorsun bize ama,أنتِ تغضبين منا لتدخلنا في أعمالنا بدون أن يكون لنا حق في ذلك، لكن,انتي كتير مزعوجة ، لانو نحنا تجاوزنا حدنا واتدخلنا بأمورك
+708,Faysal,Male,şey böyle golcü rövaş atacı adamı sen şöyle orta sahaya niye çekiyorsun kardeşim,هكذا الهدف ضع اللاعب لماذا تسحبه إلى الوسط يا أخي,هو دائماً بيلعب بالنص ، ليش لحتى يترك نص الملعب ويروح عالجناح اليمين ؟
+709,Faysal,Male,Lan oğlum seninle futbol konuşanda kabahat be.  Sen ne anlatsın ki futboldan?,يا ولدي، من يتحدث معك عن كرة القدم خاطئ. ماذا تعرف أنت عن كرة القدم؟,أنا غلطان لاني عم بحكي معك بكرة القدم ، شو يلي بيفهمك  بهاللعبة ؟؟
+710,İsal,Female,Sen dalgın gibisin.  Bir problem yok değil mi?,أنت تبدو شاردة. لا يوجد مشكلة، أليس كذلك؟,مبين انك شاردة ، في شي مشكلة يا ترى ؟
+711,Selim,Male,Hadi bir eksiğin kalmadığına göre artık sınıfa gidebilirsin sen de.,حسنًا بما أنه لم يعد لديك نقص يمكنك الذهاب إلى الصف الآن.,بما انو ما ضل اي شي نا قص ، يلا روحي على صفك
+712,Murat,Male,"Ben burada kendim için değil,  senin için.",أنا هنا ليس لنفسي، ولكن لأجلك.,انا ما عم قول هيك مشاني
+713,Murat,Male,Senin bu karışık komşuların var ya,أولئك الجيران الغريبين لديك,مو أنا هون كتير قريب من أهل الحارة ؟
+714,Murat,Male,Sen böyle galiba elini yüzünü ağzını  gidip bu perdeleri siliyormuşsun.,يبدو أنك تنظفين يديك وفمك بهذه الستائر. ,قال انتي ، عالاغلب بتمسحي وحهك وايديكي ، بالبرداية بدل المنشفة
+715,Tülay,Female,Muratcığım maşallah sabah sabah böyle pekivensin çalışmaya.,مراد الحبيب، تبارك الله، منذ الصباح وأنت هكذا نشط في العمل. ,ماشاء مراد شو هالنشاط انت بلشت الشغل من الصبح عبكير
+716,Faysal,Male,Yok yok hayatım yok sen git alışverişini yap hadi.,لا، لا حبيبتي، اذهبي لتتسوّقي هيا. ,لأ نحنا ما بدنا شي انتي روحي بلا ما تتأخري
+717,Faysal,Male,Bizim armuda bak sen ya.,انظري إلى كمثرى!,شوفو هالغبي عم يشتغل !
+718,Murat,Male,Sana bir şey diyeyim mi?,هل أقول لك شيئًا؟,انت صدقتني هلق ؟
+719,Arkut,Male,"Senin şirketin falan var, ha?","لديك شركة أليس كذلك؟
+",بالشركة تبعتك غونجا ، آآ ه ؟
+720,Arkut,Male,"Çiftliğe gidiyordun sen, onu vermek için.",كنت تذهبين إلى المزرعة، لتسليمها.,كنتي رايحة عالمزرعة ، لتسلمي التقرير
+721,Murat,Male,"Karşımızdaki adamlar icra memurları,  farkında mısın?",نحن نتحدث مع موظفي التنفيذ، هل تلاحظين؟,هنن موظفين وبمهمة رسمية
+722,Pelin,Female,Onların dizlerinin dibinden hiç ayrılmasın.,وألا يتركوا جانبهم أبداً. ,غير لترجع عيلتي وتكون جنبي
+723,Murat,Male,Galiba oluyor ha ne dersin?,أعتقد أن الأمر يحدث، ما رأيك؟ ,كأنو مشي الحال مو هيك ؟
+724,Ayla,Female,Sağolsun abim bir telefonla halletti.,شكرًا لأخي الذي حل كل شيء بمكالمة. ,كتر خير أخي بتلفون واحد حلها
+725,Faysal,Male,Ben sana bir şey diyeyim mi?  Aile olmasaydı şimdi sizi böyle baş başa vermiş ağlaşıyorduk ha.,دعني أخبرك شيئاً، لو لم يكن هنالك عائلة لكنا نبكي الآن.,بتعرف مراد ، لو آيلا ما اجت وانقذتلنا السيارة ، لتبهدلنا كتير
+726,Faysal,Male,Allah kırk bin kere razı olsun.  Vallahi sayesinde yırttık ha.,الله يجزينا ألف خير، بفضله نجونا.,قد ما شكرناه ما منردلوا معروفو ، خلصنا من مصيبة كبيرة
+727,Murat,Male,Baba farkında mısın bilmiyorum ama  öyle çok da yırtmış sayılmayız yani.,يا بابا، لا أدري إذا كنت تدرك ولكننا لم ننجُ كثيراً.,بابا ، رجاء لا تفرح بسرعة لسه ما خلصنا من المصيبة
+728,Faysal,Male,Yok ya yok sen kal.,لا، لا، ابق أنت.,لاء انت خليك هون
+729,Ümit,Male,Ya ben seni deliler gibi severken,بينما كنت أحبك بجنون,مع انك بتعرفيني بعشقك أرزو
+730,Ümit,Male,Sen benim hayatımı nasıl yakıp yıttıysan,كما أحرقت وحطمت حياتي,متل ما حرقتيني ودمرتيلي حياتي
+731,Faysal,Male,Allah Allah.  Yani hiçbir şey hatırlamıyor diyorsun ha?,الله الله. يعني لا تتذكر شيئاً تقول ها؟ ,بالله جد؟ ، يعني هي ما بتتذكر اي شي؟
+732,Arkut,Male,Vallahi abi diğerlerini bilmiyorum ama bu işin  tarihle kaderle ilgisi yok söyleyeyim sana.,والله يا أخي لا أعرف عن الآخرين ولكن ليس لهذا الأمر علاقة بالتاريخ أو القدر سأقول لك. ,والله ما بعرف شو بدي قلك اخي ، بس يلي صار معا ما إلو علاقة بالحظ
+733,Faysal,Male,"Peki Erkut, ne istiyorsun benden?",حسناً إركوت، ماذا تريد مني؟ ,طيب أرقوط، شو بدك مني ؟
+734,Aliya,Female,"Kızım,  hoş geldin.  Hoş geldin yavrum.",ابنتي، مرحباً بعودتك. مرحباً بعودتك يا عزيزتي. ,بنتي ، اهلين وسهلين ،اهلين فيكي يا قلبي
+735,Aliya,Female,"Önce Selim gelsin,  onunla konuşun,  ondan sonra kızın.",أولاً ليأتي سليم، تحدثي معه، ثم ادخلي في الموضوع. ,بالأول استني سليم ليجي وبتحكوا وبعدين وبتروحي
+736,Aliya,Female,Şu kadarcık da hatırım yok mu senin gönlünde yavrum?,ألا يوجد لديّ أي قيمة في قلبك يا عزيزتي؟ ,معقوله مافي قيمة لكلامي عندك ولو شوي ؟
+737,Zeynep,Female,Sen benim ölünceye kadar annemsin.,أنتِ أمي إلى الأبد حتى بعد موتي. ,وانتي رح تضلي امي لحتى موت
+738,Aliya,Female,Ben üzülmüyor muyum sanıyorsun evlat?,تظنيني أنّي لا أحزن يا طفلي؟ ,وانا بيحترق قلبي لما شوفك هيك بنتي
+739,Zeynep,Female,Boşanalım dememi bekliyordun herhalde.  Çok kolay oldu senin için.,كنتَ تنتظر أن أقول دعونا نطلق، أليس كذلك؟ لقد كان ذلك سهلاً جداً بالنسبة لك. ,الظاهر كنت متوقع انو بدي الطلاق ، لانك وافقت بسرعة
+740,Selim,Male,Eşyanı alıp çekip giden sen değil misin?,أليست أنتِ من أخذتِ أغراضكِ وغادرتِ؟ ,مو إنتي يلي ضبيتي غراضك ورايحة ؟
+741,Selim,Male,Şaka mı bu ya?  Ya evden çekip gitmek isteyen sen değil misin?,هل هذه مزحة؟ ألستِ أنتِ من تريدين ترك المنزل؟ ,هي مزحة يعني ؟، لك مو انتي الي تركتي البيت ورحتي ؟
+742,Zeynep,Female,Bugün benimle konuşmayan da sensin!,وأنت من لم تتحدث معي اليوم! ,بس انت ما قبلت تحكي معي
+743,Zeynep,Female,Buradan kovmaktan beter etsin beni.,جعلني أُطرد، بل كان أسوأ. ,وعاملتني ، وكأنو ما إلي قيمة
+744,Zeynep,Female,Sormama gerek var mı?  Çok meşgulsün çünkü.,هل توجد حاجة للسؤال؟ لأنك مشغول جداً. ,وليش لحتى أسالك واضح أنو انت كتير مشغول
+745,Zeynep,Female,"Beni istemeyen de,  bu evliliği bitiren de,  bu olayların buraya gelmesine sebep olan da sensin!  Benim!",أنت من لا تريدني، وأنت من أنهى هذا الزواج، وأنت من تسبب في وصول الأمور إلى هنا، أنا! ,انت يلي مابدك ياني ، ومستغني عن علاقتنا ، وانت يلي وصلت زواجنا لهي النقطة
+746,Yusuf,Male,Yani ikisini bir arada götüremezsin.,لا يمكنك توليهما في نفس الوقت. ,انتي ، مافيكي تلحقي عالدراسة والشغل
+747,Melek,Female,Elif anneciğim ne ara geldin sen ben  birazdan almaya gelecektim zaten seni.,إليف، متى جئتِ يا عزيزتي؟ كنت سآتي لأخذك بالفعل بعد قليل. ,أليف ، انتي ليش جايه لهون لحالك ؟ ، انا كنت رايحة لآخدك من المدرسة
+748,Hakkı,Male,Abla beni de kalıyor musun?  Müzik,هل تبقى معي، أختي؟  موسيقى ,ممكن تشتري مني محارم ؟
+749,Kemal,Male,Lan dingin ne ayaksın sen?,ما موقعك من الإعراب يا هذا البليد؟ ,لك شو عم تشتغل من الصباح ؟
+750,Kemal,Male,Yoksa eve gelme anladın mı?  Tamam mı oğlum?,وإلا لا تعد إلى المنزل، فهمت؟ حسناً يا ولدي؟ ,وإلا لا ترجع عالبيت فهمت ؟
+751,Kemal,Male,Satamazsan burada zıbarır kalırsın anladın mı?,إذا لم تبيعها ستبقى هنا، فهمت؟ ,اذا ما بعتن بتضل بالشارع عم تفهم ؟
+752,Faysal,Male,Demek bizim damadın sağ kolundun sen ha?,إذن كنت تعمل لصالح ذراع العريس الأيمن، صح؟ ,لكن هادا الرجال باعو لصهري ما ؟
+753,Arzu,Female,Osman nerede kaldın ya?  Merak ettim ne oldu?,أين كنت يا عثمان؟ قلقت عليك، ماذا حدث؟ ,أسومان ليش تأخرتي كتير قلقت شو صار ؟
+754,Arzu,Female,Nasıl buldun umurumda bile değil ya anlatsana artık.,كيف وجدتِها لا يهمني، المهم أن تخبريني الآن.,لك بلا لف ودوران يلا احكيلي شو وضعا ؟
+755,Arkut,Male,O raporun yerini söylemezsen seni  şuracıkta gebertirim kimsenin ruhu duymaz.  Duyuyor musun beni?  Duyuyor musun lan?,إذا لم تخبرني بموقع التقرير سأقتلك هنا ولن يشعر بك أحد.  هل تسمعني؟  هل تسمعني؟,إذا ما بتقلي وين التقرير قسما بالله بقتلك وبدفنك بهالمكان ، سمعت ولاك ؟
+756,Arkut,Male,Sana ne lan sana ne,وما شأنك أنت، وما شأنك أنت؟ ,خراس ولاك ، ما دخلك
+757,Ümit,Male,Senin de parmağın olduğu için mi?,هل لأنك كنت مشتركًا فيه؟ ,وانت ساعدت أرزو بالحريق؟
+758,Arkut,Male,Ne diyorsun lan sen?  Ne diyorsun sen?  Ne saçmalıyorsun?,ماذا تقول، أنت؟  ما الذي تقوله؟  ما الذي تهذر به؟ ,شو عم تحكي ولاك ؟ ، آه ؟ انت شو عم تحكي؟ ، شو عم تخبص؟
+759,Ümit,Male,Olacakları beraber ise yap.  Ne dersin?,انتهِ من ذلك وجلس.  ما رأيك؟ ,ومنشوف سوا شو رح يصير ، شو رايك ؟
+760,Arkut,Male,Öldürün!  Gebertirim ulan seni!  Yemin ediyorum gebertirim!,أُقتل!  سأقتلك!  أقسم، سأقتلك! ,ولك ، بدك ياني اقتلك هلق ؟، قسما بالله بقتلك
+761,Arkut,Male,Burada duracaksın.  Gebegeye de geleceğim seni geberteceğim.,سترى، سأعود وسأقتلك. ,استناني هون ، رح ارجع وخلص عليك بايدي
+762,Faysal,Male,Lan!  Erkutun da parmağı olmasın bu işte.,لا تقل لي إن لإركوت دورًا في هذا.,لك ، ليكون إلو ايد بهالجريمة؟
+763,Elif,Female,Doğru musun Sence?  Çok acıktım.,هل تعتقد أن هذا صحيح؟ لقد شعرت بالجوع الشديد. ,وطلع هالشي صحيح ، جوعانة كتير
+764,Behriye,Female,Vallahi ben bu kadar hızlı dikebiliyorum.  Daha iyi dikebilen varsa biri gelsin.,بالله أنا أسرع خياطة أستطيعها. إذا كان هناك من يخيط أسرع، فليأت. ,والله مافيني اشتغل أسرع من هيك ، شو في داعي لحتى تعب حالي اكتر؟
+765,Melek,Female,Elif de ne zamandır sağ olsun.,وألف أيضًا كانت دومًا تساعدنا.,أليف صرلا زمان بالمكتبة
+766,Melek,Female,Rahatsız etmese bari adama.  Bunu okudun mu?,ليته لا يزعج الرجل. هل قرأته؟,ما كان لازم خليا تروح لهنيك
+767,Yusuf,Male,İyi.  O zaman işin bitince okuyabilirsin.,جيد. إذًا يمكنك قراءته عندما تنتهي.,طيب ، فيكي تقريه إذا خلصتي شغل
+768,Elif,Female,Neden öyle güldün Yusuf amca?  Çünkü çok doldu.,لماذا ضحكت هكذا يا عمي يوسف؟ لأنها مليئة جدًا.,عمي يوسف انت ليش عم تضحك؟
+769,Melek,Female,Ben sesin öyle gelince meraklandın sandım.,عندما جاء صوتك هكذا ظننت أنك قلقانة. ,آه بس ، مبين من صوتك كأنك متدايقة من شي
+770,Aliya,Female,boşalmaya karar vermişler.  Anne sen,لقد قرروا الطلاق. أمي أنت,حتى  قرروا انن يتطلقو كمان
+771,Melek,Female,"Tamam anne, tamam.  Sen merak etme.",حسناً أمي، حسناً. لا تقلقي. ,طيب امي بترجاكي اهدي  ، لا تاكلي هم
+772,Melek,Female,Ben seni ne buyururum şimdi?,سأخبرك بما سأفعله الآن؟ ,انا رح اتصل بزينب هلق
+773,Murat,Male,Sana bir haller olmuş.  Ben anlarım.  Ne oldu?,لقد حدث لك شيء. أنا أفهم. ماذا حدث؟ ,انا بعرفك منيح ، قلي شو صاير؟
+774,Murat,Male,Sen Erkut abiye gittin mi?  Ne yaptın o işi?,هل ذهبت إلى الأخ إركوت؟ ماذا فعلت بتلك العملة؟ ,بابا ، مو انت رحت لعند أرقوط مشان تساعدو ؟
+775,Murat,Male,Ya baba sen onca parayı nereden buldun?,يا أبي، من أين حصلت على كل هذه الأموال؟ ,انت من وين جبت المصاري بهالسرعه ؟
+776,Faysal,Male,Allah Allah lan.  Oğlum maliye müfettişi mi oldun lan başıma?,الله الله يا بني. هل أصبحت مفتشاً مالياً الآن؟ ,استغفر الله العظيم و لك ابني شو يعني ساويت فيا محقق عراسي ؟
+777,Faysal,Male,Sana ne nereden bulduysan buldum hadi.,لا شأن لك من أين حصلت، دعنا نذهب. ,ما دخلك من وين جبت المصاري يلا
+778,Arkut,Male,Ulan yoksa harbiden yemledin mi bu herifi?,هل فعلاً خدعت هذا الشخص؟ ,معقولة يكون اجى و عطاهن التقرير ؟
+779,Emrah,Male,Sonra bir bakıyorsun ki her şey tersine dönmüş.,ثم تجد أن كل شيء قد تغير. ,بس فجأة منلاقي انو كلشي كذبة
+780,Emrah,Male,dimdik ayakta durabilmeli.  Sen de güçlü bir kadınsın.,وأن يبقى واقفًا بشموخ. أنت أيضًا امرأة قوية. ,وجاهزين لكل الاحتمالات ، بالنهاية انتي مرا قوية
+781,Pelin,Female,"Bir dakika, bir dakika.  Bir şey olmuş sana.",لحظة، لحظة. حصل لك شيء. ,دقيقة دقيقة أنت صاير معك شي ؟
+782,Elif,Female,Bir daha uyuyakalasın uyandır beni olur mu?,في المرة القادمة عندما أنام، أيقظني، حسنًا؟ ,بس اذا نمت مرة تانية بتفيقني ماشي؟
+783,Yusuf,Male,Söyle bakalım neden bu kadar çok çalışmak istiyorsun?,أخبرني، لماذا تريد العمل بهذه الجدية؟ ,شو يلي خلاكي تصري عالشغل لهالدرجة ؟
+784,Yusuf,Male,Peki ilk haftalığında ne yapacaksın?,حسنًا، ماذا ستفعل خلال الأسبوع الأول؟ ,طيب ، شو رح تساوي براتبك الاول ؟
+785,Yusuf,Male,Onları da yarın yaparsın artık.,يمكنكِ القيام بها غدًا إذًا. ,مو مشكلة بتكملي بكرا
+786,Aliya,Female,Sen gittiğinden beri hiçbir şey eskisi gibi değil.,منذ أن ذهبت، لا شيء كما كان من قبل. ,من لما أنت رحت ، ماضل في اي شي متل ما كان
+787,Gülay,Female,Bugün bir bitsin başka da bir şey istemiyorum.,لا أريد سوى أن ينتهي هذا اليوم لا أكثر. ,عم حس وكأنو مارح يخلص هاليوم
+788,Şükriye,Female,Hay Allah kahretsin ya tam da zamanını buldum.,"يا إلهي، إنه فعلاً الوقت المناسب.
+",لك يضرب هالحظ ، هاد يلي كان ناقصني هلق
+789,Cevahir,Male,Kolay gelsin hanımlar.  Diyeceğim de,بالتوفيق سيداتي. ولكن,يعطيكن العافية ، متل ما عم شوف
+790,Cevahir,Male,Buranın ustabaşısı sen değil misin?,ألست أنت المسؤولة في هذه الورشة؟,مو انتي رئيسة العمال هون ؟
+791,Cevahir,Male,Eğer bu mallar yetişmezse senden bilirim ha.,إذا لم يتم الانتهاء من هذه السلع سأحمّلك المسؤولية.,أنا ، بحملك المسؤولة إذا ما خلصتوا الشغل
+792,Melek,Female,"Ya Şükriye,  senin makineye de bakarız şimdi tamam mı?  Merak etme sen.",يا شوكريه، سننظر إلى الآلة الخاصة بك الآن، حسنًا؟ لا تقلقي.,طيب شكرية ، أأأأ لا تاكلي هم هلق بصلحلك الماكينة
+793,Kemal,Male,Buna mı veriyorsun lan paraları?,هل تعطيه النقود؟!,اشتريت هالجاكيت بالمصاري ، آه ؟
+794,Kemal,Male,Nerede paralar?  Bunlara mı harcıyorsun?,أين الأموال؟ هل تنفقها عليهم؟!,يلا احكي لشوف وين المصاري ؟
+795,Kemal,Male,Özür diliyor.  Ulan anan senin gibi işe yaramaz  doğuracağına taş doğursan daha iyiydi.  Bıktım lan senden bıktım.,هو يعتذر. يا إلهي، لو كانت أمك ولدت حجراً لكان أفضل من ولادة واحدة عديمة النفع مثلك. سئمت منك!,قال سامحو ، ولك ، انت لايمت رح تضل فاشل وما تنفعني بأي شي انا مليت منك
+796,Kemal,Male,Sen kimsin ne karışmışsın?  Yürü git!,من أنت؟ لماذا تتدخل؟ اذهب!,لا توجعلي راسي يلا انقلع
+797,Yusuf,Male,Söyle korkma kim yaptı bunu sana?  O mu yaptı?,قُل لا تخف من فعل هذا لك؟ هو فعلها؟,لا تخاف قول مين يلي ضربك عأيدك ، هاد هو، آه ؟
+798,Kemal,Male,Ne karışıyorsun lan benim işime?  Bırak oğlanı.,لمَ تتدخل في شؤوني؟ أترك الصبي.,أنت مين مفكر حالك ولاك ؟ ، تروك ابني
+799,Kemal,Male,Babanın çiftliği mi sandın burayı?,هل ظننت هذا مزرعة والدك؟!,مين انت لتتدخل بعيلتي؟
+800,Kemal,Male,"Ulan Hakkı, bittin lan sen bittin.",أيها اللعين حقي، انتهيت أيها اللعين، انتهيت.,ولك حقي ، رح خلص عليك يا حقير
+801,Elif,Female,Rüso amca o makyayı kurtardı anne.  Biliyor musun?,العم روسو أنقذ مكياجها يا أمي. هل تعلمين؟!,عمي يوسف اجى و انقذ حقي ، وأنقذني
+802,Zeynep,Female,Yok ben eve geldim de seni göremeyince,لا، لقد جئت إلى المنزل ولكن لم أرك,لاء مو صاير شي بس رجعت عالبيت وما لقيتك
+803,Tülay,Female,Senin çıkış saatinde de zaman var diye.,لأن هناك وقت حتى موعد خروجك.,ليش راجعة على بكير ليكون صاير معك شي ؟
+804,Yusuf,Male,Sen ne dersen Hakkıya yardım etmek için istemiş.,مهما قلت، أرادت ذلك لمساعدة حقّي.,حسب ما انا شفت ، هي بدا تشتغل مشان تساعد حقي
+805,Arkut,Male,Arzuya karşı olan hırsın yüzünden bu haldesin Gonca.,بسبب طموحك ضد أرزو أنتِ في هذا الحال يا جنجة.,بسبب هالتقرير و غضبك من أرزو وصلتي لهالحالة
+806,Melek,Female,Hakkıcığım ya sen bize geldiğinde gayet iyiydin.,يا حقّي، عندما جئت إلينا كنت بخير.,حقي ، كنت منيح لما اجيت لعنا
+807,Yusuf,Male,"Hem birlikte kalırsın, bana arkadaş olursun.",وأيضاً ستبقى معي، وتكون لي صديقاً. ,صرنا رفقات منتسلى سوا شو رأيك ؟
+808,Elif,Female,"Aa anne,  Hakkı daha hiçbir şey yememiş biliyor musun?  Aç.",آه أمي، هل تعلمين أن حقي لم يأكل شيئاً بعد؟ جائع.,آه أمي ، بتعرفي انو حقي كتير جوعان ما أكل
+809,Elif,Female,"Annemin hasta çorbası çok güzel olur,  biliyor musun?",هل تعلمين؟ شوربة أمي للمريض لذيذة جداً.,أمي بتساوي شوربة طيبة للمرضانين ، صدقني
+810,Aliya,Female,İşte sen böyle konuşunca belki hatalarını anlarlar.,ربما سيفهمون أخطاءهم عندما تتحدثين معهم هكذا. ,بلكي اذا قدرتي تجمعين ، يفهموا الغلط يلي ارتكبوه
+811,Aliya,Female,Şimdi sen işi yetiştireceğim diye yemek de yememişsindir.,لن تأكلي حين تحاولين إنجاز عملك في الوقت المحدد، أليس كذلك؟ ,أكيد كان عندك كتير شغل و ما فضيتي تاكلي
+812,Elif,Female,Hakkı iyi misin?  Nasıl oldun?,حقي هل أنت بخير؟ كيف حالك؟ ,انت منيح حقي؟ ، شلون صرت ؟
+813,Melek,Female,Yukacığım canı nasıl hissediyorsun kendini?,عزيزي يوكَ، كيف تشعر؟ ,حقي ، انت شلون حاسس حالك هلق ؟
+814,Arzu,Female,Ama sen hiç merak etme.  Ben sana o kadar iyi bakacağım ki aklın hemen başına gelecek.  O eski,لكن لا تقلقي. سأعتني بك جيداً حتى تعود لك ذاكرتك.  هذا القديم,بس ولا يهمك حبيبتي ، انا رح اهتم فيكي لترجعلك صحتك وكل ذاكرتك
+815,Arzu,Female,Ben senin doktorunla konuşup geleyim canım olur mu?,سأتحدث مع طبيبك وأعود، حسنًا عزيزتي؟ ,طيب أنا رح احكي مع الدكتور وبجي تمام ؟
+816,Nuray,Female,Goncanın yokluğunda işleri siz devralmışsınız.  Hayırlı olsun.,توليت الأعمال في غياب غونجا. مبروك.,انت استلمت الشغل بغياب غونجا خانم بالتوفيق
+817,Nuray,Female,Kaza yeni duydum çok çok geçmiş olsun.  Sağol.,لقد سمعت عن الحادث مؤخرًا، أتمنى أن تكون بخير. آمين.,سمعت بالحادث وانشالله معافايه
+818,Arzu,Female,Bak canım aslında sen benimle beraber yaşıyorsun.  Yani sen benim yardımcımsın.,انظر حبي، في الواقع أنت تعيش معي. يعني أنت مساعدتي.,حبيبتي انتي صرلك سنين عم تشتغلي عندي يعني ، بتساعديني بالبيت
+819,Arzu,Female,Ben de seni öyle tabii.,وأنا كذلك بالطبع.,وأنا هيك كمان
+820,Melek,Female,Şimdi bu şurup da senin hastalığındaki bütün mikroplarla savaşacak.  Al bakalım.  Al.,الآن هذا الشراب سيحارب جميع الجراثيم في مرضك. خذ. خذ.,وهلق هالدوا رح يحارب كل الجراثيم والميكروبات ، شراب
+821,Hakkı,Male,Kesin kazınca yok ama değil mi?,لن يكون هناك أي ضرر، أليس كذلك؟,الدوا رح ينتصر مو هيك ؟
+822,Behriye,Female,Kız yoksa bunun yabaniyle arasında bir şey olur musun hı?,يا ترى هل هناك شيء بينها وبين هذا الأجنبي؟,سمعي ، ليكون في شي بينا وبين هداك المتوحش؟
+823,Arzu,Female,Sen burayı hep severdin zaten.,كنت دائماً تحبين هذا المكان.,انتي اساسا كتير بتحبي هالبيت
+824,Arzu,Female,Asumayızcığım kız sığar değil ki niye bağırıyorsun?,عزيزتي أسومان الفتاة لم تخطئ فلماذا تصرخين؟,أسومان هي مانا طرشة ليش عم تصرخي هيك ؟
+825,Arzu,Female,Eee Goncacığım sen şimdi benim yanımda çalışıyordun ya.,عزيزتي غونجا لقد كنت تعملين معي الآن.,آآآآ غونجا مو كنتي عم تشتغلي عندي ؟
+826,Arzu,Female,Şimdi malum bu durumda seni çalıştırmam doğru olmaz.,ومن الواضح في هذه الحالة أنه ليس من الصحيح تشغيلك.,ها ، وبعد الحادث ، انتي ماعم تتذكري شي حبيبتي
+827,Arzu,Female,"Goncacığım, bak Avukat Bey yanımda.  Şimdi senin",عزيزتي غونجا، انظري، المحامي بجانبي. الآن عليك,غونجا ، شوفي ، هاد حضرة المحامي
+828,Arzu,Female,Canım bak buraya imzalayacaksın.  Hadi.,عزيزتي، انظري ستوقعين هنا، هيا.,حبيبتي ، لازم توقعي هون ، يلا
+829,Arzu,Female,Şimdi sana çantanı getireyim.  Cüzdanında elbette bir banka kartı vardır.  Onun arkasında imzan olacak.,الآن سأحضر لك حقيبتك. من المؤكد أن لديك بطاقة بنكية في محفظتك. سيكون توقيعك على ظهرها.,انا رح قوم جيب شنتايتك ، في احتمال يكون توقيعك على وحدة من بطاقات البنك تبعتك
+830,Arzu,Female,"Hadi canım bak, üçünü de imzalayacaksın.",هيا عزيزتي، انظري ستوقعين على الثلاثة.,يلا حبيبتي ، لازم توقعي التلاتة
+831,Asuman,Female,Ya Erkut dur ne yapıyorsun ya?,يا إركوت، ما الذي تفعله؟,استنى ارقوط ما بيصير تفوت هيك
+832,Arzu,Female,Ne oldu?  Arkacığım Gonca canımı yazdın mı?,ما الأمر؟ عزيزتي غونجا، هل وقعت عليه؟,شو صار ؟ ، ارقوط انت خايف على غونجا؟
+833,Arkut,Male,Ne yaptığını sanıyorsun sen ya?,ماذا تظن أنك تفعل؟,شو مفكرة حالك عم تعملي ، اه ؟
+834,Arzu,Female,Doğru söylüyorsun.  Ben kimim ki?,أنت محقة. من أكون؟,مظبوط يلي عم تقولو ، مين انا ؟
+835,Arzu,Female,Ama sorun yok.  İstersen götürebilirsin.  Benim bir işim yok.,لكن لا توجد مشكلة. يمكنك أن تأخذها إذا أردت. ليس لدي عمل.,بس مو مشكلة ، اذا بدك فيك تاخدها
+836,Arkut,Male,Sen nasıl Arzunun oyununa gelirsin Gonca ya?  Nasıl gelirsin ya?,كيف استطعت أن تنخدعي بألعاب أرزو يا غونجا؟ كيف؟,شلون خليتي ارزو تخدعك بهالبساطة ، كيف بتصدقيها ؟
+837,Arkut,Male,Kızım  sen hiçbir şey hatırlamıyorsun değil mi?,يا ابنتي، أنت لا تتذكرين شيئاً، صحيح؟,كيف ؟ ، ليش مو انتي ما بتتذكري شي ؟
+838,Arkut,Male,Sen aklını mı kaybettin hafızanı mı Gonca?  Al işte.,فقدت عقلك أم ذاكرتك يا غونجا؟ هذه هي حالك الآن.,بهالسرعة نسيتي انو انتي فقدتي ذاكرتك ؟
+839,Arkut,Male,Her şeyini aldı elinden dımdızlak kaldın ortada.,أخذت منك كل شيء وتركتك عارية.,تفضلي ، هي قدرت تاخد منك كل شي بكل سهولة
+840,Arkut,Male,Sen de üstte ne yazıyorsa altta da onlar vardır diye imzaladın.,وظننت أن ما كان مكتوبًا في الأعلى يوجد أيضًا في الأسفل، فوقعت.,فكرتي انو مكتوب فين نفس اللي بالورقة الاولى ووقعتي
+841,Asuman,Female,Kadın çok akıllı var gerçekten.,المرأة بالفعل ذكية جداً.,ما حدا بيقدر ينكر انها ذكية
+842,Kemal,Male,Gebertirim lan seni anladın mı?  Gebertirim!,سأقتلك، هل فهمت؟ سأقتلك!,قسما بالله بموتك وبخلص عليك
+843,Yusuf,Male,Ya sen ne zaman kalktın?  Senin.,متى استيقظت؟ أنت.,شو في ليش قمت عن التخت ؟ ، اه ؟
+844,Yusuf,Male,Bak senin yatman dinlenmen lazım.,انظر، يجب عليك أن تنام وترتاح.,انت لازم ترتناح لتتعافى منيح
+845,Yusuf,Male,Hadi otur sen de dinlen bakayım.,تعال اجلس واسترح قليلاً.,يلا انت اقعود وارتاح لشوف
+846,Murat,Male,İki dakika içerisinde bütün mahalleyi kadın programına çevirdin sen.,خلال دقيقتين حولتِ الحي كله إلى برنامج نسائي. ,وخلال دقيقة ساويتي برنامج تلفزيوني لستات البيوت
+847,Murat,Male,Olma diye söylüyorum ben sana.,أقول لك لكي لا تفرطي. ,ما بدي ياكي تتعبي حالك عالفاضي
+848,Ayla,Female,Belki ayaklarımı yerden kesersin.  Evet.,ربما تجعلني أطير، نعم.,بننبسط وبنغير جو شو رأيك ؟
+849,Arkut,Male,"Gonca,  sen böyle masız sandalyesi olan çiçekçi gördün mü?",لا أدري.,غونجا ، شفتي من قبل بياع ورد عندو هيك مكتب
+850,Faysal,Male,mazlasın ama bu da doğru yol değil ki.,لكنه ليس الطريق الصحيح.,دائما بتطلع من مصيبة بتوقع بالتانية
+851,Faysal,Male,Ben seni nerede bulacağımı biliyorum.,أعرف أين أجدك.,بسيطة انا بعرف وين رح لاقيك
+852,Faysal,Male,Bu çıkmazdan ancak sen kurtarabilirsin beni.,أنت الوحيد القادر على إنقاذي من هذا المأزق.,وانت الوحيد ، يلي بيقدر يخلصني من هي الورطة
+853,Arzu,Female,Zaten hep seksizsin sen.  Ay daraldım.,أنت دائماً بلا جنس. لقد ضقت ذرعاً.,واساسا ما عندا ذوق ابدا
+854,Melek,Female,Ben de uyuyayım da sen içeride görünmüyorsun.,سأرتاح لكنك غير مرئي بالداخل.,أنا منيحة بس أنت مو باينتك هيك
+855,Cevahir,Male,"Bahri, dilin değil elin işlesin.  Hadi.",بهاري، دعِ لسانك يعمل لا يديك. هيا.,بهرية ، شغلي ايديكي ، مو لسانك ، يلا
+856,Cevahir,Male,Seni o herifin etrafında çok görür oldum.,أراك كثيراً حول ذلك الرجل.,لا عاد تحومي ابدا حوالين بياع الكتب
+857,Cevahir,Male,"Bak Melek Hanım, sen benim çalışanımsın.",انظري يا مدام ملاك، أنتِ موظفتي.,سمعي ملك خانم ، انتي بتشتغلي بورشة
+858,Cevahir,Male,İşleri yarım bırakıp hiçbir yere gidemezsin.,لا يمكنك ترك أعمالك والذهاب لأي مكان.,طالما عم تشتغلي عندي ما بتروحي على مكان
+859,Faysal,Male,Tamam ya tamam ne bağırıyorsun?,حسناً، حسناً، لماذا تصرخين؟,انا عم بسمعك ليش عم تصرخي ؟
+860,Arkut,Male,Gonca ama falan yok ya.  Yeter çocuk gibi her şeyi sorguladın.,قونجا، لا يوجد لكن. توقفي عن التساؤل كالأطفال.,غونجا مشان الله حاج تتصرفي متل الولاد والله وجعتيلي راسي
+861,Melek,Female,Sen bana niye ima etmeyi çalışıyorsun?,لماذا تحاول الإشارة لي؟,بهرية انتي على شو عم تلمحي يا ترى ؟
+862,İsal,Female,"Ay pes artık ya, ya senin de çutandan yok mu?",يا ربي! ما عندك ذرة من الحشمة؟,خلص بيكفي بقا ، انتي ما بتخجلي بنوب
+863,Behriye,Female,Niye gidiyorsun adamın dükkanına?  Kitap mı okuyorsunuz birlikte?,لماذا تروحين إلى محل الرجل؟ تقرأون الكتب سويًا؟,ليش بتضلي تروحي لعند بياع الكتب لتكوني عم تقري كتب ؟
+864,Melek,Female,Ben sana açıklama yapmak zorunda falan değilim tamam mı?,لست مضطرة لشرح شيء لك، هل فهمتِ؟,مالي مجبورة اعطيكي اي تفسير فهمتي
+865,İsal,Female,Çünkü sen buna ne kadar anlatsan anlamayacak.,لأن أبدًا ما تفهم مهما شرحت لها.,لانو قد ما حكيتي معها مارح تفهم ابدا
+866,Faysal,Male,"Ama işin düşünce,  Veysel abi,  Veysel abi dersin değil mi?",لكن لما تحس بضيق، تقول فايزال أخي، أليس كذلك؟,بس لما توقع بمشكلة ، اخي فيصل ، اخي فيصل ساعدني
+867,Faysal,Male,"E tabii, beni kuzu kuzu arayacaksın değil mi?",آه تولاي لي.,اي طبعا ، هو ما بيقدر يزعلني واتصل فيني
+868,Faysal,Male,"Ama inanki hepsi senin için ya.  Yoksa ben sokakta kalmışım,  aç kalmışım,  açıkta kalmışım,  hiç umurumda değil ya.",لن أسمح لتولاي أن تصيبه هذه المعاناة.,بس عم ساوي كل شي مشانك ، ولا صدقيني انا ما بيهمني ابدا ، بنام بالشوارع والحدائق وما باكل شي
+869,Faysal,Male,Vallahi bu sefaleti sana yaşatamam.,لماذا لا يجيب على هذا الهاتف؟,بس ما فيني خليكي تعيشي بهالذل
+870,Emrah,Male,Ben bu çiçekleri senin için istedim.,لقد طلبت هذه الزهور لأجلك.,أنا طلبت هالورود ، مشانك انتي
+871,Emrah,Male,Zeynep bir sakin ol yanlış anladın.,زينب، اهدئي لقد فهمت خطأ.,زينب طولي بالك فهمتيني غلط
+872,Emrah,Male,"Zeynepciğim,  lütfen yakışmıyor sana böyle şeyler.",زينب، من فضلك، هذا لا يليق بك.,زينب ، لو سمحتي اهدي ولا تحكي هيك
+873,Zeynep,Female,Ya sen hâlâ ne yakışmasından bahsediyorsun ya?  Ne yakışmasından?  Ben bu ucun,وما زلت تتحدث عن عدم من اللياقة؟ ما الذي لا يليق؟ أنا هنا أحاول كسب مال الخبز بعرق جبيني.,ولك ، انت ، مين مفكر حالك لاقعد واحكي معك ؟ ، مين مفكر حالك ؟
+874,NURSE A 322,Female,Bir dakika girmeyin dedim size.  Çıkın lütfen dışarı.  Ya sen çekil sen.,كيف يكون هذا المكان؟,استنى ممنوع تفوت لجوا يلا طلاع لبرا
+875,Arkut,Male,Tamam tamam sen çık sağ ol.,حسنًا، حسنًا، اذهبي شكرًا لك.,طيب ماشي فيكي تطلعي
+876,Arkut,Male,Ne oluyor abi ya ne bu telaşın ne istiyorsun?  Paran.,ماذا يحدث يا أخي؟ ما هذا التوتر؟ ماذا تريد؟ نقودك.,شو القصة شو صاير معك شو بدك ؟
+877,Arkut,Male,Sen işini yaptın karşılığını aldın.  Para falan yok sana.,لقد قمت بعملك واستلمت مقابل ذلك. لا يوجد نقود لك.,ساويت اللي طلبتو منك وعطيتك مصاري ، ما ألك عليي شي
+878,Arkut,Male,Sen mevzuyu yanlış anladın herhalde.,يبدو أنك فهمت الموضوع بشكل خاطئ.,عالاغلب في سوء تفاهم بيني وبينك
+879,Arkut,Male,Benim sana verecek kuruşum yok kuruşum.,لا يوجد لدي ولو قرش أعطيك إياه.,انا مو مديون ألك بالمصاري مفهوم ؟
+880,Arkut,Male,Ben sana niye durduk yere para vereyim abi ya?  Ha?  Erkut.,لماذا أعطيك المال هكذا بدون سبب يا أخي؟ ها؟ إركوت.,وليش لحتى اعطيك مصاري من دون سبب ؟، اه ؟
+881,Faysal,Male,Hani sen benim istediğimi verirsen,لو أعطيتني ما أريد,انت ، اذا عطيتني اللي بدي ياه
+882,Arkut,Male,Ne saçmalıyorsun be abi?  Ne geveliyorsun ya?,ما الذي تهذي به يا أخي؟ ما الذي تتحدث عنه؟,شو عم تخبص ليش شو بتعرف عني لتسكت ؟
+883,Faysal,Male,"Herkut,  diyorum ki sen beni memnun et,  ben de memnun olurum.",أقول أنك ترضيني، فأنا سأكون راضيًا.,ارقوط ، سماع ، اذا بتعطيني مصاري
+884,Kemal,Male,Bakalım birazdan da böyle görebilecek misin?,لنرى إذا كنت تستطيع أن ترى هكذا بعد قليل.,هلأ بنشوف اذا رح تضل عم تضحك
+885,Kemal,Male,Ne işin var lan senin burada?,ما الذي تفعله هنا؟,انت شو عم تساوي هون ؟
+886,Kemal,Male,Ben görüyorum.  Görüyorum diyorum sana.,أرى. أقول لك، أرى.,امشي معي ، يلا تعال لشوف
+887,Yusuf,Male,Ne yaptığını farkında değil misin ha?,ألست مدركًا لما تفعله، هاه؟,انت منتبه شو اللي عم تساوي للولد ؟
+888,Faysal,Male,Ne diyorsun Erkut?  Şimdi hak ettin mi parayı?,ماذا تقول يا إركوت؟ هل استحقيت المال الآن؟,شو رأيك هلأ ، بستاهل المصاري ولا لا ؟
+889,Faysal,Male,Bildiğim gerçekleri anlatmamı istemiyorsan  elini biraz cebine atacaksın değil mi?  Yani başka çaresi yok.,إذا كنت لا تريد أن أفصح عن الحقائق التي أعرفها، فهناك شيء من مالك يجب أن تقدمه، أليس كذلك؟ يعني لا يوجد بديل آخر.,لو وضعي مالو سيء ما كنت اجيت لعندك ، وطلبت مصاري ، لهيك لازم تساعدني ما عندك حل تاني
+890,Arkut,Male,Başka çaresi yok diyorsun ha?,لا يوجد بديل آخر، تقول هاه؟,لكن هاد الحل الوحيد
+891,Arkut,Male,Abi abi ya.  Abi sen çok paslanmışsın.  Bu işleri unutmuşsun.,أخي، يا أخي. لقد صدئت كثيرًا، يبدو أنك نسيت هذه الأمور.,عنجد ضحكتني ، الظاهر ختيرت وخرفت ونسيت كيف نحنا بنشتغل
+892,Arkut,Male,"Cık, yakıştı mı sana abi ya?  Çok amatörsün.",هل يناسبك هذا؟ أنت هاوٍ جدا.,والله ما توقعتك بهالغباء ، كنت غلطان
+893,Arkut,Male,Sana da üzüldüm şimdi bebeysel abi.,أشعر بالأسف لك الآن، أخي الطفل.,يا ترى انت في عندك شي دليل تاني ، اه ؟
+894,Kemal,Male,Ya oğlumu bana verirsin ya da kızı.,إما تعطيني ابني أو البنت.,يا بتعطيني ابني هلأ ، يا البنت
+895,Yusuf,Male,"Oğlum senden korkuyor, farkında mısın ha?",هل تدرك أن ابنك خائف منك، هاه؟,بس ما انتبهت انو ابنك خايف منك
+896,Yusuf,Male,Hiç başını öne alıp düşündün mü bunu ha?  Hiç düşündün mü?,هل جلست وفكرت في ذلك؟ هل فكرت؟,ما بدك الولد يعيش حياتو ، ما بدك سعادتو
+897,Yusuf,Male,Bana inan! Her şeyi konuşarak halinde bir şey yapamayacaksın!,صدقني! بالتحدث لن تتمكن من فعل أي شيء!,وثاق فيني ، بنقدر نوصل لحل بالتفاهم
+898,Yusuf,Male,Sana bu çocukların etrafında dolaşmayacaksın demedim mi lan ben sana?,ألم أقل لك أن لا تتجول حول هؤلاء الأطفال؟,ولك وسخ ما قلتلك بعد عن الولد وتركو بحالو
+899,Kemal,Male,Geberteceğim ben seni.  Ciğerini sokayım.,سأقتلك. سأدمر حياتك.,رح خلص عليك
+900,Yusuf,Male,Sen hala akıllanmadın mı lan?  Hala akıllanmadın mı?,ألا تزال لم تتعقل؟ ألا تزال لم تتعقل؟,لساتك عم تحكي ولاك غبي ، انت مارح تعقل ابدا يعني
+901,Yusuf,Male,Sana ne dedim ben?  O çocukların etrafında dolaşmayacaksın demedim mi lan?,ماذا قلت لك؟ ألم أقل لك أن لا تتجول حول هؤلاء الأطفال؟,ولك انا ما قلتلك ، كون عاقل،  واصحك تقرب من الولاد ولا بتلاقيني قدامك
+902,Kemal,Male,Sen kimsin lan ha?  Kimsin?,من أنت؟ من أنت؟,انت مين مفكر حالك ؟ ، مين انت ؟
+903,Arkut,Male,"Ama toprağı da katsan,  dağları da açsan getiremezsin.",ولكن حتى لو حفرت الأرض، وفتحت الجبال، لن تستطيع إحضارها.,بس متل ما بيقولو ما حدا بيقدر يرجع شي من الرماد
+904,Faysal,Male,Erkut alacağın olsun lan!  Bırakın lan beni bırakın!,أوعدك يا أرقط سأنتقم! اتركوني!,ارقوط رح دفعك التمن ، يلا تركوني تركوني
+905,MAN D 521,Male,Bir daha görmeyeceğiz seni buradan.  Ulan.,لن نراك هنا مرة أخرى.  أصلاً.,لا عاد تجي لهون مرة تانية
+906,Faysal,Male,Ulan Erkut bunu ödeteceğim lan sana.,سأجعلك تدفع ثمن ذلك يا أرقط.,ولك ارقوط ، ما بيكون اسمي فيصل
+907,Faysal,Male,Ölüm fermanını kendin imzaladın lan!,لقد وقعت على حكم موتك يا ولدي!,اذا ما بخليك تدفع تمن وساختك غالي
+908,Selim,Male,Sen hep yüzüme bakar mısın benim?  Bir şey demeyecek misin?,هل ستنظرين إلي دومًا؟ ألا تقولين شيئًا؟,زينب لو سمحتي اتطلعي بوشي
+909,Hakkı,Male,"Eğer sen kurtarmasaydın,  babam Elifi götürecekti.",لو لم تنقذها، كان والدي سيأخذ إليف.,لو أنت ما انقذت أليف ، بابا كان ممكن ياخدها ويأذيها
+910,Arzu,Female,Alışveriş yapmak ne kadar iyi geldi biliyor musun?,التسوق كان مريحًا جدًا، هل تعرفين؟,بتعرفي الروحة على السوق كتير فادتني
+911,Arzu,Female,Senin ne işin var burada?  Bir şey yok.,ما الذي تفعلينه هنا؟ ليس هناك شيء.,انتي شو عم تساوي هون ؟
+912,Arzu,Female,Erkut seni bırakıp gitti mi?,هل تركك أرقط وذهب؟,ارقوط جابك لهون وراح ؟
+913,Arzu,Female,Burası benim evim canım hala anlayamadın mı sen?,هذا منزلي يا عزيزتي، ألا تفهمين بعد؟,بس هاد البيت ألي لهلأ لسى ما فهمتي ؟
+914,Arzu,Female,"Tabii,  senin gibi birinden kurtulmak için ancak böyle bir yalan uyduruldum.",بالطبع، لاختلاق كذبة كهذه للهرب من شخص مثلك لا يعتبر أمراً غريباً.,طبعا ، بعد ما شاف انو مافي منك فايدة تخلص منك
+915,Arzu,Female,Burada sana ekmek yok güzelim.  O yüzden başka kapıya gideceksin.,لا توجد لقمة خبز لك هنا عزيزتي. لذلك يجب أن تذهبي إلى مكان آخر.,والله ما ألك مكان هون ، فروحي على مكان تاني
+916,Asuman,Female,Dostum.  Ya kız dostum bu dışarıda niye alıyorsun bebeğim?,صديقتي. لماذا تتركي الفتاة فقط في الخارج يا عزيزتي؟,ارزو ، معقول نتركا لحالا والدنيا تلج برا ؟
+917,Arzu,Female,Yoksa seni de onun yanına gönderirim haberin olsun.,وإلا سأرسلكِ إلى حيث هي، كوني على علٍم بذلك.,والا انتي رح تصيري معها برا
+918,Arzu,Female,"Nereye gidiyorsa gitsin,  cehenneme kadar yolu var.",فلتذهب إلى أي مكان تريد، إلى الجحيم لست مهتمة.,ما دخلني ، تروح لوين ما بدها ، انشالله تروح على جهنم
+919,Arzu,Female,Ne yapıyorsun sen ya?  Kızı getirip kapının önüne bırakmasını delirdin mi sen?,ماذا تفعلين؟ هل جننتِ لتتركي الفتاة عند الباب؟,شو قصدك بهالحركة ؟ ، كيف بتترك المرا قدام بيتي جنيت ؟
+920,Arzu,Female,Onun evi mi?  Ay çok komiksin gerçekten.,منزلها؟ أنت مضحك جداً حقاً.,هون بيتا ، ضحكتني وما ألي نفس أتضحك
+921,Arkut,Male,Arzu.  Bak şimdi saçmalamayı kesiyorsun.  O kızı içeri alıyorsun tamam mı?,آرزو. توقفِ عن الهراء الآن. أدخلي تلك الفتاة إلى الداخل، موافقة؟,ارزو ، انت هلأ رح تفتحي الباب لغونجا ، وتفوتيها لجوا تمام
+922,Behriye,Female,gidip kendine gördün bil bakalım.,اذهبى لترى بنفسك.,حزري شو اللي انا شفتو قبل شوي ؟
+923,Behriye,Female,Kadın iki gün sonra gelir evladım evladım  diye burada bir yaklamaya başlar gör bak.,ستأتي المرأة بعد يومين وتبدأ في النداء عليه مثل الأم والأم وترى.,اكيد المرا المسكينة بعد كم يوم رح تجي لتاخد ابنا من عند الرجال المتوحش بتشوفو
+924,Melek,Female,Yok kızım siz devam edin böyle.,لا يا ابنتي، أنتم استمروا هكذا.,لا حبيبتي ، انتو لعبوا لحالكن
+925,Faysal,Male,"Çabuk ümiti ara, tadımız kaçmasın.",بسرعة، اتصل بأوميت، لا نريد أن نفقد مزاجنا.,اتصل بأوميت بسرعة ، وبلا مشاكل
+926,Faysal,Male,Eee?  Ondan iki gün önce bu herifin kafasına sopayla vurup bayıltmadın mı?  Bayılttım.  Yok ya.,إيه؟ قبلها بيومين لم تقم بضرب هذا الرجل على رأسه بالعصا وإغماقه؟ أغميته. لا يا.,اييي ، بس مو قبل يومين ضربتو على راسو واغمى عليه وخطفتو ؟ ، مظبوط
+927,Faysal,Male,Kesin yalan söylüyor bu avukat bozuntusu.,بالتأكيد هذا المحامي الكاذب يكذب.,اكيد هالمحامي الغبي عم يكذب عليي
+928,Murat,Male,Senden sadece para ödemek için birkaç gün daha müddet istiyorum ha.  Olabilir mi böyle bir şey?  Siz?,أطلب منك فقط مهلة لبضعة أيام أخرى لدفع المال، هل هذا ممكن؟ أنتم؟,لهيك ، اجيت اترجاك بركي بتعطينا مهلة يومين تلاتة وبسكرلك دينك
+929,Murat,Male,Yani şimdi bizim sana hiç borcumuz kalmadı öyle mi?,يعني الآن لم يعد علينا دين لك صحيح؟,قصدك ، هلأ حضرتك ما ألك علينا مصاري
+930,Tülay,Female,Şu an sinirlisin diye böyle,أنت غاضبة الآن لذلك,انتي ، زعلانة ومعصبة هلأ
+931,Asuman,Female,Bu da böyle sıcak sıcak banyo keyfi yapsın.  Oh ne güzel vallahi.,وها هي تستمتع بحمام دافئ.  رائع والله. ,وأرزو مبسوطة بحماما الدافي شو هالظلم ؟
+932,Murat,Male,Hayır yani ne ara bizim borcumuz olduğunu öğrendin de,لا أدري متى عرفت عن ديننا,وماعم استوعبو ، من وين عرفت انو نحن في علينا دين
+933,Murat,Male,Ne ara gittiğini ödedin de  valla ben anlamadım.  Hımm.,وكيف ذهب وسدده، والله لم أفهم.  هاه. ,وعرفت هداك الرجال ، والله ما فهمت
+934,Murat,Male,Ya baba bak sana ne anlatacağım.,انظر يا أبي ماذا سأخبرك. ,سماع بابا ، عندي خبر رائع
+935,Faysal,Male,Sen sonra anlatırsın olur mu?  Ben dinleneceğim biraz.,ستخبرني لاحقًا، حسنًا؟ سأرتاح قليلاً. ,بعدين بتخبرني ماشي ابني ، انا كتير تعبان
+936,Tülay,Female,Ya sen kimi kandırıyorsun Veysel?  Ben kocamı tanımaz mıyım?  Bir tuhafsın işte.,"يا من تخدع يا فيسيل؟ ألا أعرف زوجي؟ أنت غريب الأطوار.
+",لاء ، فيصل انا مرتك وبعرفك منيح مبين انك غريب ومانك عبعضك
+937,Faysal,Male,Ya ne tuhafı Tülay ya.  Sen de kuruntu yapma şimdi yani.,لماذا غريب يا تولاي؟ لا تتوهمي الآن. ,حاجتك بقى من وين لوين غريب؟ ، قلتلك تعبان وبس بدي ارتاح
+938,Tülay,Female,Kaç kere aradım telefonlarıma bakmadın ya.,كم مرة اتصلت ولم ترد عليَّ! ,بتعرف كم مرة اتصلت فيك بس انت مارديت عليي؟
+939,Faysal,Male,Haklısın ama valla benim kafam böyle kazan gibi ya.  Biraz,أنت محقة ولكن والله رأسي مثل القدر. قليل من,معك حق بس ، حاسس راسي رح ينفجر
+940,Faysal,Male,Ya Tülay sen ne ima etmeye çalışıyorsun ya?  Ne ima etmeye çalışıyorsun?,يا تولاي، ماذا تحاولين التلميح إليه؟ ماذا تحاولين التلميح؟ ,تولاي مشان الله انتي شو عم تلمحي هلق كمان؟ ، شو يلي بدك تقوليه ؟
+941,Faysal,Male,Hem sen ne düşünüyorsun ya?  Adam öldürdüğümü mü düşünüyorsun?,وما الذي كنت تفكر به؟ هل تعتقدين أنني قتلت أحداً؟ ,بعدين ، لوين راح تفكيرك آه؟ ، عم تتهميني بالقتل يعني ؟
+942,Faysal,Male,Bu kadar mı senin güveneceğin ya?,هل هذا قدر ثقتك بي؟ ,انتي ما بتثقي فيني ابدا؟
+943,Tülay,Female,"Ya Murat,  madem bir sıkıntısı var,  ya bunu bize anlatsın.",يا مراد، إذا كانت لديه مشكلة، فليخبرنا بها. ,ماشي مراد ، طالما عندو شي مشكلة ، طيب ، ليش ما بخبرنا ؟
+944,Tülay,Female,Kesin bir şeyin herkesi diyor benden.,بالتأكيد لديه شيء يريد قوله لكل شخص مني. ,فشي اكيد هو عم يخبي شي
+945,Murat,Male,Hem senden ne saklayacak ki babam?,وأيضاً، ماذا يمكن أن يخفي عنك والدي؟ ,بعدين ، بابا ما بخبي عنك
+946,Faysal,Male,Al fılan şu parasızlığın gözü kör olsun be.,لعن الله هذا الفقر. ,يلعن ابو الفقر وقلة المصاري
+947,MAN B 522,Male,Bir ay önce Cengiz abiden satmak için 50 koli mutfak eşyası almışsın.,منذ شهر،  كان لديك 50 صندوق من أدوات المطبخ لبيعها من السيد جنكيز. ,الظاهر نسيت أنك أخدت غراض المطبخ من المعلم تبعنا قبل شهر
+948,Asuman,Female,Tamam tamam şimdi kendine gelirsin merak etme  ama ne olur sessiz ol tamam mı Gonca lütfen.,حسناً حسناً، ستعودين إلى حالتك لا تقلقي ولكن أرجوكِ كوني هادئة حسناً غونكا، من فضلك.,ولا يهمك بعد شوي بتصيري منيحة بس بترجاكي لا تطلعي اي صوت
+949,Asuman,Female,Aslında burası senin be Gonca.,في الواقع هذا المكان هو لكِ يا غونكا.,بالحقيقة هادا البيت إلك غونجا
+950,Asuman,Female,Eğer biz dikkat edersek hiçbir şey olmaz tamam mı?  Senden tek ricam ne olur sessiz ol.  Çıtını bile çıkarma.,إذا كنا حذرين، لن يحدث شيء، حسناً؟ طلبي الوحيد هو أرجوكِ كوني هادئة. لا تُصدرِ صوتاً.,اذا كنا منتبهين ما بصير اي شي لهيك انا بترجاكي لا تطلعي ولا اي صوت
+951,Aliya,Female,Hay Allahım sen akıl fikir ver şu gençlere,يا إلهي، امنح هؤلاء الشباب العقل والتفكير,يا ربي ، أنا بتمنى يرجعوا الولاد لبعض
+952,Aliya,Female,Sen bir Selimle konuşsan mı acaba?,هل لا تتحدثين مع سليم؟,شو رأيك تحكي مع سليم مرة تانية؟
+953,Aliya,Female,Bana bir şey anlatmadı belki sana anlatır.,لم يروي لي شيئاً، ربما يحدثك.,ما حكالي شي بلكي بيحكيلك الك
+954,Aliya,Female,Sen hemen çık konuş.  Bu konu daha mühim.  Hayat memat meselesi.,اذهبي وتحدثي الآن. هذا الموضوع أكثر أهمية. إنه مسألة حياة أو موت.,انتي احكي معو ، لأنو ، هالموضوع  أهم ، ما فينا نهملو
+955,Melek,Female,"Ya Selim, sen Zeynepi tanımıyor musun?",يا سليم، لا تعرف زينب؟,سليم ، انت ما بتعرف زينب؟
+956,Selim,Male,Ama sen de biliyorsun abla.,لكنك تعلمين أيضاً يا أختي.,بس انتي كمان بتعرفي
+957,Tülay,Female,Sana mı hesap vereceğim diyor.,يقول لي هل أعطي لك حساباتي.,ما بيتقبل مني اي سؤال
+958,Tülay,Female,Sen benim yerimde olsan sormaz mısın kocana ne oluyor bu nedir diye?,لو كنت في مكاني، ألا تسأل زوجك ماذا يحدث؟,انا مرتو معقولة ما بحقلي اسألو ؟، حطي حالك مكاني
+959,Tülay,Female,"İyiyim, iyiyim güzelim ben sen merak etme.",أنا بخير، أنا بخير يا جميلتي لا تقلقي علي.,انا منيحة حبيبة قلبي لا تشغلي بالك
+960,İnci,Female,Batu değil mi herif abla sana?,أليس هذا الرجل بطلك، أختي؟,ليكون ضربك حبيبتي أليف؟
+961,Yusuf,Male,Ben de senin yaşlarından kendim geldim Satranç.,تعلمت الشطرنج نفسك في سنك.,أنا تعلمت الشطرنج لما كنت بعمرك
+962,Hakkı,Male,Ne güzel.  Baban seni seviyormuş Yusuf amca.,جميل. والدك يحبك يا عم يوسف.,حلو ، معناتا أبوك كان كتير يحبك
+963,Selim,Male,Yani bu hafta kesin ödeme olacak diyorsunuz.,إذًا تقول بكل تأكيد سيكون هناك دفع هذا الأسبوع.,يعني ، الدفع ، ما رح يصير لأخر الاسبوع ؟
+964,Elif,Female,"Ben okurum, sen de resimlerine bakarsın.",سأقرأ، وأنت تنظر إلى الصور.,انا بقرالك ياه و انتي بتشوفي الصور
+965,Yusuf,Male,Çıkmadan sen de son kez bir kontrol edersin.,يمكنك التحقق مرة أخيرة قبل الخروج.,حطيتلك دفاتر و قلام و محايات
+966,Filiz,Female,"Hakkıcım, sen yapmak ister misin?  Hakkı.",حقي، هل ترغب في القيام بذلك؟ حقي.,حقي ، انت ما بدك تخبرنا ؟
+967,Filiz,Female,Babanı arayalım gelip seni alsın hemen olur mu?,دعنا نتصل بوالدك ليأتي ويأخذك فوراً، هل يمكن؟,رح اتصل بأبوك ليجي ياخدك شو رأيك ؟
+968,Filiz,Female,Daha fazla zaman kaybetme hastalığın daha da ilerlemesin.,لا تضيع المزيد من الوقت لكي لا تتفاقم حالتك الصحية.,بلا ما تتعب و تسوء حالتك لا سمح الله
+969,Yusuf,Male,"Çık git diyorum sana, çık git!",أقول لك اغرب من هنا، اغرب!,يلا روح من هون ، انقلع و لا تخليني شوفك
+970,Melek,Female,çocuğa şiddet uyguluyorsun.  Hem okula göndermiyorsun,تمارس العنف على الطفل. لا تتركه يذهب إلى المدرسة,بتضرب الولد و بتعذبو ، و ما بتخليه يروح عالمدرسة
+971,Melek,Female,Hakkı senin oğlun olabilir ama sen onun babası olamamışsın.,قد يكون حقي ابنك، لكنك لم تكن أباه.,ممكن يكون هو أبنك ، بس مانك أب الو
+972,Kemal,Male,Şşş kadın lafını bil de konuş.,ششش، امرأة، تكلمي بحذر.,اشش اسكتي  ،انتبهي ع كلامك
+973,Yusuf,Male,Sana çift git diyorum dükkanımdan yoksa,أقول لك اخرج من متجري، وإلا,يلا طلاع من هالمكتبه بسرعه و الا
+974,Melek,Female,Ya e kadar çocuğu çalıştırıyorsun.  Yetmiyor bir de eziyet ediyorsunuz.,وكم تشغل الطفل. ولا يكفي تضايقه أيضًا.,بتخلي الولد يشتغل بهالبرد ، و بتعذبو و بتضربو كمان
+975,Melek,Female,Ya bu suç senin biliyorsun değil mi?  Suç!,هذه جريمة تعرف بأنها جريمة، أليس كذلك؟ جريمة!,بتعرف انو الي ساويتو جريمة كبيرة ؟ ، متوحش
+976,Kemal,Male,Kapa çeneni zaten ne olursa senin yüzünden oldu.,اصمت، فهذا حدث بسببك.,سكر تمك اساساً كلشي صار بسببك
+977,Kemal,Male,Adam gibi oturaydın böyle mi olurdu?,لو كنت قد جلست كإنسان، هل كان ليحدث هذا؟,وإلا ماكان صار اي شي
+978,Kemal,Male,Kes halamayı.  Eğer o herife bir şey olursa tek sorumlusu sensin anladın mı?,توقف عن الكلام.  إذا أصابه شيء، ستكون الوحيد المسؤول فهمت؟,لاتبكي ولاك  ،  إذا هداك الحقير مات فإنت المسؤول فهمت   ؟
+979,Murat,Male,Abla ne oldu?  Neyin var senin?,أختي ماذا حدث؟ ما بك؟,خير شو في ؟
+980,Tülay,Female,Başına bir bela gelmiş olmasın sakın.,لا يكون قد حدث له شيء.,خايفة يكون صرلو شي لا سمح الله
+981,Murat,Male,Tamam.  Ya süzdüm kavga etmedi diyorsun babamla.,حسنًا. لم تشجعي على القتال مع والدي.,طبيعي ، مو انتي و بابا تخانقتوا مع بعض مبارح ؟
+982,Murat,Male,Sanki babamı tanımıyorsun sen de gözünü seveyim.,وكأنك لا تعرف أبي، أرجوك.,و كأنو بعد هالفترة الطويلة ما بتعرفيه لأبي ؟
+983,Murat,Male,"Ablacığım, seni hiç merak etme.",يا أختي، لا تقلقي.,اهدي و كوني مطمنة
+984,Murat,Male,Sen yeter ki canını sıkma tamam mı?,فقط لا تشغلي بالك حسنًا؟,بس لا تضلي قلقانه ماشي ؟
+985,Asuman,Female,Taze nane koydun ben içine tadı daha güzel olsun diye.,أضفت نعناعاً طازجاً لجعل النكهة أفضل.,أأأ انا ، حطيت شوية نعنع تازة بيعطي طعمة أطيب
+986,Asuman,Female,Öyle güzel olsun istedim yani.,أردت أن يكون جميلًا.,حبيت يكون الفطور مميز
+987,Asuman,Female,Vallahi az kalsın yukarı çıkıyordu ya.,والله كادت أن تصعد.,على شوي كانت رح تجي لهون ، ما بعرف كيف قنعتا ما تجي
+988,Asuman,Female,Aman aman gözünü seveyim sen de sessiz ol tamam mı?,أرجوك كوني هادئة من فضلك.,بترجاكي كوني هادئة و لا تطالعي صوت
+989,Arzu,Female,Asuman bu kadın eve adımını bile atmayacak demedim mi ben sana?,ألم أقل لك هذه المرأة لن تدخل البيت؟,ما قلتلك ممنوع تخلي هالمرا تفوت عالبيت و لا انتي ما سمعتيني ؟
+990,Arzu,Female,O zaman bu kadın ne işi var burada?,إذن ماذا تفعل هذه المرأة هنا؟,معناتا فهميني شو عم تساوي هون ؟
+991,Asuman,Female,İnsaf ya.  Hani yedi kat el olsa yardım edersin yani.,الرحمة! حتى لو كانت غريبة تدعينها.,حرام عليكي ، يعني كان بدك ياني خليا تموت من البرد ؟
+992,Asuman,Female,bari çözüm bulana kadar birkaç gün kalsın en azından,على الأقل تبقى لبضعة أيام حتى نجد حلاً.,طيب ، خليا تضل عنا بس لحتى نلاقيلا حل تاني
+993,Arzu,Female,Bu kadın bu evde kalamaz diyorum anlamıyor musun?,لا يمكن لهذه المرأة أن تبقى في هذا المنزل، ألا تفهمين؟,قلتلك ممنوع تفوت على بيتي ما عم تفهمي ؟
+994,Arzu,Female,Bu kadın bu evden gidecek.,هذه المرأة ستغادر هذا المنزل.,بتخليا تطلع من هالبيت بسرعه
+995,Arzu,Female,Yoksa sen pılını pırtını toplarsın,وإلا ستجمعين حاجياتك.,و الا انتي ، بتضبي غراضك بسرعه
+996,Melek,Female,Ya yine de hastaneye gitsek mi?  Yani burada mikrofon falan kapmasın böyle.,هل يجب أن نذهب إلى المستشفى مرة أخرى؟ يبدو لي أن هناك احتمالية أن يصاب الميكروفون هنا.,طيب ، مع هيك مو الأفضل ناخدو عالمشفى؟ ، انا بخاف انو يلتهب الجرح
+997,Yusuf,Male,Ne olursa olsun Hakkıyı adamın elinden kurtaracağım.,مهما كان، سأخلص حقي من يد الرجل.,أنا رح خلص حقي من ايدين هداك المجرم
+998,Şükriye,Female,Ya niye öyle söylüyorsunuz?  Melek iyi kadın.,لماذا تتحدثين هكذا؟ ميليك امرأة جيدة.,انتوا ليش عم تحكوا هيك عن ملك ؟ ، قلبا طيب
+999,Behriye,Female,E tamam işte sana bana selam vermeyenle bu ne samimiyet?  Sen bir düşün artık.,إذًا لا يلقي التحية عليَّ أو عليك، فما هذه الحميمية؟ فكري بالأمر الآن.,طيب معناتا هيك رجال شو الي بخليه يهتم بملك لهالدرجة ؟
+1000,Kemal,Male,Ne yapacağını biliyorsun değil mi lan?,هل تعرف ماذا ستفعل، أليس كذلك يا فتى؟,بتعرف شو رح تعمل ما  ؟
