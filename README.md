@@ -82,7 +82,10 @@ BibTeX will be added after publication.
 
 ## License
 
-This repository is released under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+
+This benchmark is released under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License.
+
+The released evaluation benchmark is provided for academic and non-commercial research purposes with permission from the content provider. Commercial use is not permitted.
 
 You are free to:
 
