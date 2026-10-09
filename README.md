@@ -46,14 +46,28 @@ The released evaluation benchmark contains **1,000** human-produced dialogue seg
 ```
 TSD-Corpus/
 │
-├── dataset/
-│   └── TSD-Corpus.csv
-│
-├── statistics/
-│   └── statistics.txt
-│
+├── TSD-Corpus.csv
+├── statistics.md
+├── gender_lexicon_syrian_arabic.csv
+├── gender_lexicon_msa.csv
+├── MATCHING_RULES.md
+├── LICENSE
 └── README.md
 ```
+
+---
+
+## Gender-Marker Lexicons and Matching Rules
+
+The following files contain the complete gender-marker lexicons and the exact matching rules used to compute all reported GAS, GER, and GCR values in the accompanying paper:
+
+| File | Description |
+|------|-------------|
+| `gender_lexicon_syrian_arabic.csv` | Syrian Arabic gender-marker lexicon (44 forms: 25 feminine, 19 masculine) |
+| `gender_lexicon_msa.csv` | MSA gender-marker lexicon (16 forms: 8 feminine, 8 masculine) |
+| `MATCHING_RULES.md` | Matching rules for the Syrian Arabic and MSA tracks |
+
+Each lexicon file lists, for every form, its gender, track, category, and an English gloss. Matching is diacritic-sensitive. See `MATCHING_RULES.md` for the full specification.
 
 ---
 
